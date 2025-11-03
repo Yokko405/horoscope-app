@@ -1,0 +1,126 @@
+{
+  "updated_at": "2025-11-03T00:00:00.000Z",
+  "timezone": "Asia/Tokyo",
+  "horoscopes": {
+    "aries": {
+      "current_date": "November 3, 2025",
+      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
+      "compatibility": "データ取得中",
+      "mood": "準備中",
+      "color": "Gold",
+      "lucky_number": "1",
+      "lucky_time": "Soon",
+      "date_range": "Mar 21 - Apr 20"
+    },
+    "taurus": {
+      "current_date": "November 3, 2025",
+      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
+      "compatibility": "データ取得中",
+      "mood": "準備中",
+      "color": "Gold",
+      "lucky_number": "2",
+      "lucky_time": "Soon",
+      "date_range": "Apr 20 - May 20"
+    },
+    "gemini": {
+      "current_date": "November 3, 2025",
+      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
+      "compatibility": "データ取得中",
+      "mood": "準備中",
+      "color": "Gold",
+      "lucky_number": "3",
+      "lucky_time": "Soon",
+      "date_range": "May 21 - Jun 21"
+    },
+    "cancer": {
+      "current_date": "November 3, 2025",
+      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
+      "compatibility": "データ取得中",
+      "mood": "準備中",
+      "color": "Gold",
+      "lucky_number": "4",
+      "lucky_time": "Soon",
+      "date_range": "Jun 22 - Jul 22"
+    },
+    "leo": {
+      "current_date": "November 3, 2025",
+      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
+      "compatibility": "データ取得中",
+      "mood": "準備中",
+      "color": "Gold",
+      "lucky_number": "5",
+      "lucky_time": "Soon",
+      "date_range": "Jul 23 - Aug 22"
+    },
+    "virgo": {
+      "current_date": "November 3, 2025",
+      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
+      "compatibility": "データ取得中",
+      "mood": "準備中",
+      "color": "Gold",
+      "lucky_number": "6",
+      "lucky_time": "Soon",
+      "date_range": "Aug 23 - Sep 22"
+    },
+    "libra": {
+      "current_date": "November 3, 2025",
+      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
+      "compatibility": "データ取得中",
+      "mood": "準備中",
+      "color": "Gold",
+      "lucky_number": "7",
+      "lucky_time": "Soon",
+      "date_range": "Sep 23 - Oct 23"
+    },
+    "scorpio": {
+      "current_date": "November 3, 2025",
+      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
+      "compatibility": "データ取得中",
+      "mood": "準備中",
+      "color": "Gold",
+      "lucky_number": "8",
+      "lucky_time": "Soon",
+      "date_range": "Oct 24 - Nov 22"
+    },
+    "sagittarius": {
+      "current_date": "November 3, 2025",
+      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
+      "compatibility": "データ取得中",
+      "mood": "準備中",
+      "color": "Gold",
+      "lucky_number": "9",
+      "lucky_time": "Soon",
+      "date_range": "Nov 23 - Dec 21"
+    },
+    "capricorn": {
+      "current_date": "November 3, 2025",
+      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
+      "compatibility": "データ取得中",
+      "mood": "準備中",
+      "color": "Gold",
+      "lucky_number": "10",
+      "lucky_time": "Soon",
+      "date_range": "Dec 22 - Jan 19"
+    },
+    "aquarius": {
+      "current_date": "November 3, 2025",
+      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
+      "compatibility": "データ取得中",
+      "mood": "準備中",
+      "color": "Gold",
+      "lucky_number": "11",
+      "lucky_time": "Soon",
+      "date_range": "Jan 20 - Feb 18"
+    },
+    "pisces": {
+      "current_date": "November 3, 2025",
+      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
+      "compatibility": "データ取得中",
+      "mood": "準備中",
+      "color": "Gold",
+      "lucky_number": "12",
+      "lucky_time": "Soon",
+      "date_range": "Feb 19 - Mar 20"
+    }
+  }
+}
