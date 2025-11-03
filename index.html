@@ -409,27 +409,41 @@
             document.getElementById('dateDisplay').textContent = today.toLocaleDateString('ja-JP', options);
         }
 
-        // 運勢データを読み込み
+         // 運勢データをAPIから取得
         async function loadHoroscopeData() {
             try {
-                const response = await fetch('data/horoscope.json');
-                if (!response.ok) {
-                    throw new Error('Failed to load horoscope data');
-                }
-                horoscopeData = await response.json();
-                
-                // 更新日時を表示
-                const updateTime = new Date(horoscopeData.updated_at);
                 const updateInfo = document.getElementById('updateInfo');
-                updateInfo.textContent = `最終更新: ${updateTime.toLocaleString('ja-JP')}`;
-                
+                updateInfo.textContent = '占いデータを取得中...';
+        
+                // 12星座まとめ取得
+                horoscopeData = { horoscopes: {} };
+                for (const zodiac of zodiacData) {
+                    const res = await fetch(`https://horoscope-proxy.hiyume-2.workers.dev/?sign=${zodiac.sign}`);
+                    const data = await res.json();
+                    horoscopeData.horoscopes[zodiac.sign] = {
+                        current_date: data.date,
+                        description: data.horoscope,
+                        mood: '好奇心旺盛',
+                        compatibility: '他の火の星座',
+                        color: 'ゴールド',
+                        lucky_number: Math.floor(Math.random() * 99) + 1,
+                        lucky_time: '午後3時頃',
+                        date_range: data.date
+                    };
+                    // 軽いディレイを入れてAPIの負荷を抑える
+                    await new Promise(resolve => setTimeout(resolve, 300));
+                }
+        
+                // 更新時刻表示
+                updateInfo.textContent = `最終更新: ${new Date().toLocaleString('ja-JP')}`;
                 return true;
             } catch (error) {
                 console.error('Error loading horoscope data:', error);
-                document.getElementById('updateInfo').textContent = 'データの読み込みに失敗しました';
+                document.getElementById('updateInfo').textContent = '⚠️ データ取得に失敗しました';
                 return false;
             }
         }
+
 
         // 星座カード表示
         function displayZodiacCards() {
