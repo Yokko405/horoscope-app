@@ -1,126 +1,55 @@
 {
-  "updated_at": "2025-11-03T00:00:00.000Z",
+  "updated_at": "2025-11-03T09:44:22.219Z",
   "timezone": "Asia/Tokyo",
-  "horoscopes": {
-    "aries": {
-      "current_date": "November 3, 2025",
-      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
-      "compatibility": "データ取得中",
-      "mood": "準備中",
-      "color": "Gold",
-      "lucky_number": "1",
-      "lucky_time": "Soon",
-      "date_range": "Mar 21 - Apr 20"
+  "horoscopes": {},
+  "errors": [
+    {
+      "sign": "aries",
+      "error": "Failed to parse JSON for aries: Unexpected token < in JSON at position 0"
     },
-    "taurus": {
-      "current_date": "November 3, 2025",
-      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
-      "compatibility": "データ取得中",
-      "mood": "準備中",
-      "color": "Gold",
-      "lucky_number": "2",
-      "lucky_time": "Soon",
-      "date_range": "Apr 20 - May 20"
+    {
+      "sign": "taurus",
+      "error": "Failed to parse JSON for taurus: Unexpected token < in JSON at position 0"
     },
-    "gemini": {
-      "current_date": "November 3, 2025",
-      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
-      "compatibility": "データ取得中",
-      "mood": "準備中",
-      "color": "Gold",
-      "lucky_number": "3",
-      "lucky_time": "Soon",
-      "date_range": "May 21 - Jun 21"
+    {
+      "sign": "gemini",
+      "error": "Failed to parse JSON for gemini: Unexpected token < in JSON at position 0"
     },
-    "cancer": {
-      "current_date": "November 3, 2025",
-      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
-      "compatibility": "データ取得中",
-      "mood": "準備中",
-      "color": "Gold",
-      "lucky_number": "4",
-      "lucky_time": "Soon",
-      "date_range": "Jun 22 - Jul 22"
+    {
+      "sign": "cancer",
+      "error": "Failed to parse JSON for cancer: Unexpected token < in JSON at position 0"
     },
-    "leo": {
-      "current_date": "November 3, 2025",
-      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
-      "compatibility": "データ取得中",
-      "mood": "準備中",
-      "color": "Gold",
-      "lucky_number": "5",
-      "lucky_time": "Soon",
-      "date_range": "Jul 23 - Aug 22"
+    {
+      "sign": "leo",
+      "error": "Failed to parse JSON for leo: Unexpected token < in JSON at position 0"
     },
-    "virgo": {
-      "current_date": "November 3, 2025",
-      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
-      "compatibility": "データ取得中",
-      "mood": "準備中",
-      "color": "Gold",
-      "lucky_number": "6",
-      "lucky_time": "Soon",
-      "date_range": "Aug 23 - Sep 22"
+    {
+      "sign": "virgo",
+      "error": "Failed to parse JSON for virgo: Unexpected token < in JSON at position 0"
     },
-    "libra": {
-      "current_date": "November 3, 2025",
-      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
-      "compatibility": "データ取得中",
-      "mood": "準備中",
-      "color": "Gold",
-      "lucky_number": "7",
-      "lucky_time": "Soon",
-      "date_range": "Sep 23 - Oct 23"
+    {
+      "sign": "libra",
+      "error": "Failed to parse JSON for libra: Unexpected token < in JSON at position 0"
     },
-    "scorpio": {
-      "current_date": "November 3, 2025",
-      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
-      "compatibility": "データ取得中",
-      "mood": "準備中",
-      "color": "Gold",
-      "lucky_number": "8",
-      "lucky_time": "Soon",
-      "date_range": "Oct 24 - Nov 22"
+    {
+      "sign": "scorpio",
+      "error": "Failed to parse JSON for scorpio: Unexpected token < in JSON at position 0"
     },
-    "sagittarius": {
-      "current_date": "November 3, 2025",
-      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
-      "compatibility": "データ取得中",
-      "mood": "準備中",
-      "color": "Gold",
-      "lucky_number": "9",
-      "lucky_time": "Soon",
-      "date_range": "Nov 23 - Dec 21"
+    {
+      "sign": "sagittarius",
+      "error": "Failed to parse JSON for sagittarius: Unexpected token < in JSON at position 0"
     },
-    "capricorn": {
-      "current_date": "November 3, 2025",
-      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
-      "compatibility": "データ取得中",
-      "mood": "準備中",
-      "color": "Gold",
-      "lucky_number": "10",
-      "lucky_time": "Soon",
-      "date_range": "Dec 22 - Jan 19"
+    {
+      "sign": "capricorn",
+      "error": "Failed to parse JSON for capricorn: Unexpected token < in JSON at position 0"
     },
-    "aquarius": {
-      "current_date": "November 3, 2025",
-      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
-      "compatibility": "データ取得中",
-      "mood": "準備中",
-      "color": "Gold",
-      "lucky_number": "11",
-      "lucky_time": "Soon",
-      "date_range": "Jan 20 - Feb 18"
+    {
+      "sign": "aquarius",
+      "error": "Failed to parse JSON for aquarius: Unexpected token < in JSON at position 0"
     },
-    "pisces": {
-      "current_date": "November 3, 2025",
-      "description": "データ取得待ち... GitHub Actionsを手動実行してください。",
-      "compatibility": "データ取得中",
-      "mood": "準備中",
-      "color": "Gold",
-      "lucky_number": "12",
-      "lucky_time": "Soon",
-      "date_range": "Feb 19 - Mar 20"
+    {
+      "sign": "pisces",
+      "error": "Failed to parse JSON for pisces: Unexpected token < in JSON at position 0"
     }
-  }
+  ]
 }
