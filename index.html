@@ -422,7 +422,7 @@
                     const data = await res.json();
         
                     // API Ninjas のレスポンス構造に合わせて格納
-                    horoscopeData.horoscopes[zodiac.sign] = {
+                    horoscopeData.horoscopes[zodiac.sign.toLowerCase()] = {
                         current_date: data.date,
                         description: data.horoscope,
                         mood: '活発な気分',
@@ -432,6 +432,7 @@
                         lucky_time: '午後3時ごろ',
                         date_range: data.date
                     };
+
         
                     // 負荷軽減のための短い待機
                     await new Promise(resolve => setTimeout(resolve, 300));
