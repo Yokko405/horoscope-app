@@ -409,32 +409,34 @@
             document.getElementById('dateDisplay').textContent = today.toLocaleDateString('ja-JP', options);
         }
 
-         // 運勢データをAPIから取得
-        async function loadHoroscopeData() {
+         async function loadHoroscopeData() {
             try {
                 const updateInfo = document.getElementById('updateInfo');
                 updateInfo.textContent = '占いデータを取得中...';
         
-                // 12星座まとめ取得
                 horoscopeData = { horoscopes: {} };
+        
                 for (const zodiac of zodiacData) {
                     const res = await fetch(`https://horoscope-proxy.hiyume-2.workers.dev/?sign=${zodiac.sign}`);
+                    if (!res.ok) throw new Error(`API error for ${zodiac.sign}`);
                     const data = await res.json();
+        
+                    // API Ninjas のレスポンス構造に合わせて格納
                     horoscopeData.horoscopes[zodiac.sign] = {
                         current_date: data.date,
                         description: data.horoscope,
-                        mood: '好奇心旺盛',
-                        compatibility: '他の火の星座',
+                        mood: '活発な気分',
+                        compatibility: '火の星座',
                         color: 'ゴールド',
                         lucky_number: Math.floor(Math.random() * 99) + 1,
-                        lucky_time: '午後3時頃',
+                        lucky_time: '午後3時ごろ',
                         date_range: data.date
                     };
-                    // 軽いディレイを入れてAPIの負荷を抑える
+        
+                    // 負荷軽減のための短い待機
                     await new Promise(resolve => setTimeout(resolve, 300));
                 }
         
-                // 更新時刻表示
                 updateInfo.textContent = `最終更新: ${new Date().toLocaleString('ja-JP')}`;
                 return true;
             } catch (error) {
@@ -443,6 +445,7 @@
                 return false;
             }
         }
+
 
 
         // 星座カード表示
