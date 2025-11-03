@@ -2,8 +2,8 @@ name: Update Horoscope Data
 
 on:
   schedule:
-    # 毎日 日本時間 6:00 AM (UTC 21:00) に実行
-    - cron: '0 21 * * *'
+    # 毎日 日本時間 9:00 AM (UTC 0:00) に実行
+    - cron: '0 0 * * *'
   workflow_dispatch: # 手動実行も可能
 
 jobs:
@@ -20,9 +20,12 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '18'
-      
+
       - name: Fetch horoscope data
-        run: node fetch-horoscope.js
+        run: |
+          node fetch-horoscope.js
+          # タイムスタンプを強制的に追加して差分を出す
+          echo "\"updated_at\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\"" >> data/horoscope.json
       
       - name: Commit and push changes
         run: |
