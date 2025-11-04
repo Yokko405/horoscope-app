@@ -72,9 +72,6 @@
     .fortune-section h3 { color: #ffd700; margin-bottom: 10px; font-size: 1.3em; display: flex; align-items: center; gap: 10px; }
     .fortune-section p { color: #e0e0e0; line-height: 1.8; font-size: 1.05em; }
 
-    .lucky-items { display: flex; gap: 15px; flex-wrap: wrap; margin-top: 10px; }
-    .lucky-item { background: rgba(255,215,0,0.2); padding: 8px 16px; border-radius: 20px; color: #ffd700; font-weight: bold; }
-
     @keyframes fadeInDown { from {opacity:0;transform:translateY(-30px);} to {opacity:1;transform:translateY(0);} }
     @keyframes fadeInUp { from {opacity:0;transform:translateY(30px);} to {opacity:1;transform:translateY(0);} }
     @keyframes fadeIn { from {opacity:0;} to {opacity:1;} }
@@ -151,18 +148,15 @@
         const res = await fetch('./data/horoscope.json');
         if (!res.ok) throw new Error('JSON not found');
         const text = await res.text();
-    
-        // ✅ BOMや余分な文字除去
         const cleanText = text.replace(/^\uFEFF/, '').trim();
-    
         horoscopeData = JSON.parse(cleanText);
+
         const updatedAt = new Date(horoscopeData.updated_at);
         document.getElementById('updateInfo').textContent =
           `最終更新: ${updatedAt.toLocaleString('ja-JP')}`;
       } catch (e) {
         console.error(e);
-        document.getElementById('updateInfo').textContent =
-          '⚠️ データの読み込みに失敗しました';
+        document.getElementById('updateInfo').textContent = '⚠️ データの読み込みに失敗しました';
       }
     }
 
@@ -172,9 +166,10 @@
         const c = document.createElement('div');
         c.className = 'zodiac-card';
         c.style.animationDelay = `${i * 0.1}s`;
-        c.innerHTML = `<div class="zodiac-icon">${zodiac.icon}</div>
-                       <div class="zodiac-name">${zodiac.name}</div>
-                       <div class="zodiac-period">${zodiac.period}</div>`;
+        c.innerHTML = `
+          <div class="zodiac-icon">${zodiac.icon}</div>
+          <div class="zodiac-name">${zodiac.name}</div>
+          <div class="zodiac-period">${zodiac.period}</div>`;
         c.onclick = () => showFortune(zodiac);
         grid.appendChild(c);
       });
@@ -196,19 +191,9 @@
           <div class="zodiac-icon">${zodiac.icon}</div>
           <h2>${zodiac.name}の運勢</h2>
           <p style="color:#a8b2d1;">${zodiac.period}</p>
-          <p style="color:#ffd700;margin-top:10px;">${fortune.current_date}</p>
+          <p style="color:#ffd700;margin-top:10px;">${fortune.date}</p>
         </div>
-        <div class="fortune-section"><h3>🌟 今日の運勢</h3><p>${fortune.description}</p></div>
-        <div class="fortune-section"><h3>😊 今日の気分</h3><p>${fortune.mood}</p></div>
-        <div class="fortune-section"><h3>💕 相性の良い星座</h3><p>${fortune.compatibility}</p></div>
-        <div class="fortune-section"><h3>🍀 今日のラッキーアイテム</h3>
-          <div class="lucky-items">
-            <div class="lucky-item">🎨 ${fortune.color}</div>
-            <div class="lucky-item">🔢 ${fortune.lucky_number}</div>
-            <div class="lucky-item">⏰ ${fortune.lucky_time}</div>
-          </div>
-        </div>
-        <div class="fortune-section"><h3>📅 有効期間</h3><p>${fortune.date_range}</p></div>
+        <div class="fortune-section"><h3>🌟 今日の運勢</h3><p>${fortune.horoscope}</p></div>
       `;
       modal.style.display = 'block';
     }
