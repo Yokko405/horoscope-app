@@ -2,8 +2,7 @@ name: Update Horoscope Data
 
 on:
   schedule:
-    # 毎日 日本時間 8:00 AM（GitHubはUTC基準なので23時）
-    - cron: '0 23 * * *'
+    - cron: '0 0 * * *' # UTC0:00 = JST9:00
   workflow_dispatch: # 手動実行も可能
 
 jobs:
