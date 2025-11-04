@@ -1,9 +1,11 @@
 // === Cosmic Fortune Horoscope Fetcher ===
 // API-Ninjas から 12 星座の運勢を取得して JSON 出力 (BOMなし)
+// ＋ Google Translation APIで日本語訳を付与
 
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
+const fetch = require('node-fetch'); // ← これ追加！
 
 const zodiacSigns = [
   'aries', 'taurus', 'gemini', 'cancer',
@@ -12,7 +14,33 @@ const zodiacSigns = [
 ];
 
 // Secrets から APIキーを取得
-const API_KEY = process.env.API_NINJAS_KEY;
+const NINJA_KEY = process.env.API_NINJAS_KEY;
+const GOOGLE_KEY = process.env.GOOGLE_API_KEY;
+
+// --- Google Translation APIで英語→日本語に翻訳 ---
+async function translateText(text) {
+  if (!text) return '';
+
+  const url = `https://translation.googleapis.com/language/translate/v2?key=${GOOGLE_KEY}`;
+  try {
+    const response = await fetch(url, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        q: text,
+        target: "ja",
+        format: "text",
+      })
+    });
+
+    const data = await response.json();
+    return data.data?.translations?.[0]?.translatedText || text;
+
+  } catch (error) {
+    console.error("Translation error:", error);
+    return text; // 翻訳失敗時は英語のまま
+  }
+}
 
 function fetchHoroscope(sign) {
   return new Promise((resolve, reject) => {
@@ -20,7 +48,7 @@ function fetchHoroscope(sign) {
       hostname: 'api.api-ninjas.com',
       path: `/v1/horoscope?zodiac=${sign}`,
       method: 'GET',
-      headers: { 'X-Api-Key': API_KEY }
+      headers: { 'X-Api-Key': NINJA_KEY }
     };
 
     const req = https.request(options, (res) => {
@@ -52,7 +80,16 @@ async function fetchAllHoroscopes() {
     try {
       console.log(`🔮 Fetching ${sign}...`);
       const data = await fetchHoroscope(sign);
-      horoscopes[sign] = data;
+
+      // 翻訳
+      const englishText = data.horoscope || '';
+      const japaneseText = await translateText(englishText);
+
+      horoscopes[sign] = {
+        ...data,
+        horoscope_ja: japaneseText
+      };
+
       console.log(`✅ ${sign} - OK`);
       await new Promise(r => setTimeout(r, 800)); // rate limit対策
     } catch (e) {
@@ -78,7 +115,6 @@ async function fetchAllHoroscopes() {
   if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
   const outputPath = path.join(dataDir, 'horoscope.json');
 
-  // ✅ BOMなしで書き出し
   fs.writeFileSync(outputPath, Buffer.from(JSON.stringify(outputData, null, 2), 'utf8'));
   console.log(`\n✨ Saved to: ${outputPath}`);
   console.log(`✅ Done (${Object.keys(horoscopes).length} signs)`);
@@ -93,30 +129,3 @@ fetchAllHoroscopes()
     console.error('\n💀 Fatal error:', e);
     process.exit(1);
   });
-
-  // --- Google Translation APIで英語→日本語に翻訳 ---
-  async function translateText(text) {
-    const apiKey = process.env.GOOGLE_API_KEY || ''; // GitHub Actionsから取得
-    const url = `https://translation.googleapis.com/language/translate/v2?key=${apiKey}`;
-  
-    try {
-      const response = await fetch(url, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-          q: text,
-          target: "ja",
-          format: "text",
-        })
-      });
-  
-      const data = await response.json();
-      return data.data?.translations?.[0]?.translatedText || text;
-  
-    } catch (error) {
-      console.error("Translation error:", error);
-      return text; // 翻訳失敗時は元の英語を返す
-    }
-  }
