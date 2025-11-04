@@ -148,25 +148,23 @@
 
     async function loadHoroscopeData() {
       try {
-        const res = await fetch('https://yokko405.github.io/horoscope-app/data/horoscope.json');
+        const res = await fetch('./data/horoscope.json');
         if (!res.ok) throw new Error('JSON not found');
-        horoscopeData = await res.json();
+        const text = await res.text();
     
-        // ✅ JSONの更新時刻を日本時間に変換して表示
-        if (horoscopeData.updated_at) {
-          const updatedAt = new Date(horoscopeData.updated_at);
-          document.getElementById('updateInfo').textContent = `最終更新: ${updatedAt.toLocaleString('ja-JP')}`;
-        } else {
-          // updated_at が無い場合のフォールバック
-          document.getElementById('updateInfo').textContent = `最終更新: ${new Date().toLocaleString('ja-JP')}`;
-        }
+        // ✅ BOMや余分な文字除去
+        const cleanText = text.replace(/^\uFEFF/, '').trim();
     
+        horoscopeData = JSON.parse(cleanText);
+        const updatedAt = new Date(horoscopeData.updated_at);
+        document.getElementById('updateInfo').textContent =
+          `最終更新: ${updatedAt.toLocaleString('ja-JP')}`;
       } catch (e) {
         console.error(e);
-        document.getElementById('updateInfo').textContent = '⚠️ データの読み込みに失敗しました';
+        document.getElementById('updateInfo').textContent =
+          '⚠️ データの読み込みに失敗しました';
       }
     }
-
 
     function displayZodiacCards() {
       const grid = document.getElementById('zodiacGrid');
