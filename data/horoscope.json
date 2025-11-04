@@ -1,55 +1,66 @@
 {
-  "updated_at": "2025-11-04T00:55:11.204Z",
+  "updated_at": "2025-11-04T01:22:40.721Z",
   "timezone": "Asia/Tokyo",
-  "horoscopes": {},
-  "errors": [
-    {
-      "sign": "aries",
-      "error": "HTTP 400 for aries: {\"error\": \"The zodiac parameter is required.\"}"
+  "horoscopes": {
+    "aries": {
+      "date": "2025-11-03",
+      "sign": "Aries",
+      "horoscope": "Today promises to be an invigorating experience for you. You'll be brimming with enthusiasm, effortlessly directing your energy into your pursuits. However, be prepared for some pushback. While your ideas are innovative, they might not resonate with everyone. In fact, you could face some opposition. Use your charm and persuasive skills, and you'll find a way to achieve your goals."
     },
-    {
-      "sign": "taurus",
-      "error": "HTTP 400 for taurus: {\"error\": \"The zodiac parameter is required.\"}"
+    "taurus": {
+      "date": "2025-11-03",
+      "sign": "Taurus",
+      "horoscope": "Today, it's wise to keep your cool. You may feel a surge of restlessness, but your adventurous spirit is currently held back by financial and career limitations. Now is not the time to indulge in unrealistic fantasies. Attempting to do so could lead to conflicts. If someone suggests a more cautious approach, take their advice to heart."
     },
-    {
-      "sign": "gemini",
-      "error": "HTTP 400 for gemini: {\"error\": \"The zodiac parameter is required.\"}"
+    "gemini": {
+      "date": "2025-11-03",
+      "sign": "Gemini",
+      "horoscope": "Today, it may feel as if time stands still or even reverses. Take advantage of this moment to delve into your own motivations. The stars indicate that you are grappling with issues that impact someone else's future. It might be wise to dedicate some of that reflective energy to contemplating your own destiny too."
     },
-    {
-      "sign": "cancer",
-      "error": "HTTP 400 for cancer: {\"error\": \"The zodiac parameter is required.\"}"
+    "cancer": {
+      "date": "2025-11-03",
+      "sign": "Cancer",
+      "horoscope": "Today, the atmosphere feels charged with tension. You may sense a stirring within, a desire for transformation, yet you might hesitate to take any significant steps forward. Your intuition reminds you that voicing dissatisfaction without taking action is futile. Why not take the initiative and spark some change?"
     },
-    {
-      "sign": "leo",
-      "error": "HTTP 400 for leo: {\"error\": \"The zodiac parameter is required.\"}"
+    "leo": {
+      "date": "2025-11-03",
+      "sign": "Leo",
+      "horoscope": "Today presents itself as a blank canvas for self-reflection. You might find yourself aware of certain physical or emotional traits that don't sit well with you. This day could prompt you to take steps towards addressing those feelings. Opening up to a friend or family member about your worries could lead to significant progress."
     },
-    {
-      "sign": "virgo",
-      "error": "HTTP 400 for virgo: {\"error\": \"The zodiac parameter is required.\"}"
+    "virgo": {
+      "date": "2025-11-03",
+      "sign": "Virgo",
+      "horoscope": "You might find that others occasionally criticize you for lacking tact in your interactions. However, the current planetary alignments are set to enhance your sensitivity. You'll discover a newfound ability to truly listen to those around you. Even if it’s not entirely accurate, people may perceive you as being less self-absorbed than before."
     },
-    {
-      "sign": "libra",
-      "error": "HTTP 400 for libra: {\"error\": \"The zodiac parameter is required.\"}"
+    "libra": {
+      "date": "2025-11-03",
+      "sign": "Libra",
+      "horoscope": "You possess a remarkable talent for diffusing tension and bringing a sense of calm to chaotic situations. As the cosmic energies align today, you'll encounter various crises, but your ability to provide reassurance and offer a clear, level-headed perspective will shine through. Your legendary tranquility, combined with this skill, creates a powerful and effective presence!"
     },
-    {
-      "sign": "scorpio",
-      "error": "HTTP 400 for scorpio: {\"error\": \"The zodiac parameter is required.\"}"
+    "scorpio": {
+      "date": "2025-11-03",
+      "sign": "Scorpio",
+      "horoscope": "Today, the stars encourage you to boldly share your thoughts without the worry of being judged. This aligns perfectly with your nature, as the fear of criticism often holds you back. Your task is to articulate your own ideas confidently, steering clear of simply echoing others. Embrace this challenge!"
     },
-    {
-      "sign": "sagittarius",
-      "error": "HTTP 400 for sagittarius: {\"error\": \"The zodiac parameter is required.\"}"
+    "sagittarius": {
+      "date": "2025-11-03",
+      "sign": "Sagittarius",
+      "horoscope": "If you've been itching to put pen to paper, seize the moment! Your creativity is overflowing, but you might struggle with viewing your work as worthy. Remember, you don’t need to overthink the label of \"writer.\" Just express yourself and share your words with others. Joining a writers' group could be the perfect opportunity for you to step into the spotlight."
     },
-    {
-      "sign": "capricorn",
-      "error": "HTTP 400 for capricorn: {\"error\": \"The zodiac parameter is required.\"}"
+    "capricorn": {
+      "date": "2025-11-03",
+      "sign": "Capricorn",
+      "horoscope": "Today, you might find yourself grappling with some intense uncertainty. You could feel the urge to either conceal the truth or express it openly. If you choose to speak your mind, go for it! The celestial energies are on your side, assisting you in articulating your thoughts in a manner that's both palatable and persuasive. You may even find that you can win over a few skeptics to your perspective!"
     },
-    {
-      "sign": "aquarius",
-      "error": "HTTP 400 for aquarius: {\"error\": \"The zodiac parameter is required.\"}"
+    "aquarius": {
+      "date": "2025-11-03",
+      "sign": "Aquarius",
+      "horoscope": "Today, your sharp intellect shines through, showcasing your remarkable maturity. You're grounded and not easily swayed by uncertainty. If you're navigating any romantic entanglements, this is a perfect opportunity to reflect on them, but remember to approach the situation with warmth rather than detachment."
     },
-    {
-      "sign": "pisces",
-      "error": "HTTP 400 for pisces: {\"error\": \"The zodiac parameter is required.\"}"
+    "pisces": {
+      "date": "2025-11-03",
+      "sign": "Pisces",
+      "horoscope": "Recently, you might have experienced some irritation with your efforts. Whether it was external hurdles, like unexpected delays, or internal barriers, such as a lack of motivation, you've faced some significant challenges. To move forward effectively, it's essential to address these lingering matters first. Today could present a chance to finally tackle and resolve these issues."
     }
-  ]
-}"updated_at": "2025-11-04T00:55:11Z"
+  }
+}"updated_at": "2025-11-04T01:22:40Z"
