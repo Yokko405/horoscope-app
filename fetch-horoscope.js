@@ -8,23 +8,27 @@ const zodiacSigns = [
   'sagittarius', 'capricorn', 'aquarius', 'pisces'
 ];
 
-// Secrets から読み込み
 const API_KEY = process.env.API_NINJAS_KEY;
 
+// ✅ JSTの日付を取得して "YYYY-MM-DD" 形式に
+function getJstDate() {
+  const now = new Date();
+  const jst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
+  return jst.toISOString().split('T')[0];
+}
+
 function fetchHoroscope(sign) {
+  const todayJst = getJstDate();
   return new Promise((resolve, reject) => {
     const options = {
       hostname: 'api.api-ninjas.com',
-      path: `/v1/horoscope?zodiac=${sign}`,
+      path: `/v1/horoscope?zodiac=${sign}&date=${todayJst}`, // ✅ JST日付を明示
       method: 'GET',
-      headers: {
-        'X-Api-Key': API_KEY
-      }
+      headers: { 'X-Api-Key': API_KEY }
     };
 
     const req = https.request(options, (res) => {
       let data = '';
-
       res.on('data', chunk => data += chunk);
       res.on('end', () => {
         if (res.statusCode !== 200) {
@@ -55,7 +59,7 @@ async function fetchAllHoroscopes() {
       const data = await fetchHoroscope(sign);
       horoscopes[sign] = data;
       console.log(`✓ ${sign} - Success`);
-      await new Promise(resolve => setTimeout(resolve, 800)); // rate limit対策
+      await new Promise(resolve => setTimeout(resolve, 800));
     } catch (error) {
       console.error(`✗ ${sign} - Failed: ${error.message}`);
       errors.push({ sign, error: error.message });
@@ -64,6 +68,7 @@ async function fetchAllHoroscopes() {
 
   const outputData = {
     updated_at: new Date().toISOString(),
+    jst_date: getJstDate(), // ✅ JSTの日付も保存
     timezone: 'Asia/Tokyo',
     horoscopes,
     errors: errors.length > 0 ? errors : undefined
