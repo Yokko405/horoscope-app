@@ -8,13 +8,18 @@ const zodiacSigns = [
   'sagittarius', 'capricorn', 'aquarius', 'pisces'
 ];
 
+// Secrets から読み込み
+const API_KEY = process.env.API_NINJAS_KEY;
+
 function fetchHoroscope(sign) {
   return new Promise((resolve, reject) => {
     const options = {
-      hostname: 'aztro.sameerkumar.website',
-      path: `/?sign=${sign}&day=today`,
-      method: 'POST'
-      // ← headersを削除するのがポイント
+      hostname: 'api.api-ninjas.com',
+      path: `/v1/horoscope?sign=${sign}`,
+      method: 'GET',
+      headers: {
+        'X-Api-Key': API_KEY
+      }
     };
 
     const req = https.request(options, (res) => {
@@ -22,6 +27,9 @@ function fetchHoroscope(sign) {
 
       res.on('data', chunk => data += chunk);
       res.on('end', () => {
+        if (res.statusCode !== 200) {
+          return reject(new Error(`HTTP ${res.statusCode} for ${sign}: ${data}`));
+        }
         try {
           const json = JSON.parse(data);
           resolve(json);
@@ -32,9 +40,6 @@ function fetchHoroscope(sign) {
     });
 
     req.on('error', (error) => reject(error));
-
-    // POSTに空データを送る（必須）
-    req.write('');
     req.end();
   });
 }
@@ -50,7 +55,7 @@ async function fetchAllHoroscopes() {
       const data = await fetchHoroscope(sign);
       horoscopes[sign] = data;
       console.log(`✓ ${sign} - Success`);
-      await new Promise(resolve => setTimeout(resolve, 1000));
+      await new Promise(resolve => setTimeout(resolve, 800)); // rate limit対策
     } catch (error) {
       console.error(`✗ ${sign} - Failed: ${error.message}`);
       errors.push({ sign, error: error.message });
