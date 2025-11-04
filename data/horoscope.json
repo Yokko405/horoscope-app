@@ -1,55 +1,55 @@
 {
-  "updated_at": "2025-11-03T21:22:33.460Z",
+  "updated_at": "2025-11-04T00:13:45.294Z",
   "timezone": "Asia/Tokyo",
   "horoscopes": {},
   "errors": [
     {
       "sign": "aries",
-      "error": "Failed to parse JSON for aries: Unexpected token < in JSON at position 0"
+      "error": "Invalid value \"undefined\" for header \"X-Api-Key\""
     },
     {
       "sign": "taurus",
-      "error": "Failed to parse JSON for taurus: Unexpected token < in JSON at position 0"
+      "error": "Invalid value \"undefined\" for header \"X-Api-Key\""
     },
     {
       "sign": "gemini",
-      "error": "Failed to parse JSON for gemini: Unexpected token < in JSON at position 0"
+      "error": "Invalid value \"undefined\" for header \"X-Api-Key\""
     },
     {
       "sign": "cancer",
-      "error": "Failed to parse JSON for cancer: Unexpected token < in JSON at position 0"
+      "error": "Invalid value \"undefined\" for header \"X-Api-Key\""
     },
     {
       "sign": "leo",
-      "error": "Failed to parse JSON for leo: Unexpected token < in JSON at position 0"
+      "error": "Invalid value \"undefined\" for header \"X-Api-Key\""
     },
     {
       "sign": "virgo",
-      "error": "Failed to parse JSON for virgo: Unexpected token < in JSON at position 0"
+      "error": "Invalid value \"undefined\" for header \"X-Api-Key\""
     },
     {
       "sign": "libra",
-      "error": "Failed to parse JSON for libra: Unexpected token < in JSON at position 0"
+      "error": "Invalid value \"undefined\" for header \"X-Api-Key\""
     },
     {
       "sign": "scorpio",
-      "error": "Failed to parse JSON for scorpio: Unexpected token < in JSON at position 0"
+      "error": "Invalid value \"undefined\" for header \"X-Api-Key\""
     },
     {
       "sign": "sagittarius",
-      "error": "Failed to parse JSON for sagittarius: Unexpected token < in JSON at position 0"
+      "error": "Invalid value \"undefined\" for header \"X-Api-Key\""
     },
     {
       "sign": "capricorn",
-      "error": "Failed to parse JSON for capricorn: Unexpected token < in JSON at position 0"
+      "error": "Invalid value \"undefined\" for header \"X-Api-Key\""
     },
     {
       "sign": "aquarius",
-      "error": "Failed to parse JSON for aquarius: Unexpected token < in JSON at position 0"
+      "error": "Invalid value \"undefined\" for header \"X-Api-Key\""
     },
     {
       "sign": "pisces",
-      "error": "Failed to parse JSON for pisces: Unexpected token < in JSON at position 0"
+      "error": "Invalid value \"undefined\" for header \"X-Api-Key\""
     }
   ]
-}
+}"updated_at": "2025-11-04T00:13:45Z"
