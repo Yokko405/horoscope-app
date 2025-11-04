@@ -21,10 +21,12 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Fetch horoscope data
+      - name: Fetch horoscope data (with translation)
         env:
-          API_NINJAS_KEY: ${{ secrets.API_NINJAS_KEY }} 
+          API_NINJAS_KEY: ${{ secrets.API_NINJAS_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: |
+          npm install node-fetch@2
           node fetch-horoscope.js
           # タイムスタンプを強制的に追加して差分を出す
           echo "\"updated_at\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\"" >> data/horoscope.json
