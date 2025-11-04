@@ -31,6 +31,23 @@
       border-radius: 15px; font-size: 0.9em; color: #ffd700;
     }
 
+    .lang-toggle {
+      text-align: center;
+      margin-top: 15px;
+    }
+    .lang-toggle button {
+      background: rgba(255,215,0,0.2);
+      border: 1px solid rgba(255,215,0,0.6);
+      color: #ffd700;
+      padding: 6px 15px;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+    .lang-toggle button:hover {
+      background: rgba(255,215,0,0.4);
+    }
+
     .update-info { text-align: center; font-size: 0.9em; color: #a8b2d1; margin-bottom: 10px; }
     .date-display { text-align: center; font-size: 1.1em; color: #ffd700; margin-bottom: 40px; animation: fadeIn 1.5s ease; }
 
@@ -78,11 +95,6 @@
     @keyframes scaleIn { from {opacity:0;transform:translate(-50%,-50%) scale(0.8);} to {opacity:1;transform:translate(-50%,-50%) scale(1);} }
     @keyframes bounce { 0%,100%{transform:translateY(0);} 50%{transform:translateY(-10px);} }
 
-    @media (max-width:768px) {
-      h1 { font-size: 2em; }
-      .zodiac-grid { grid-template-columns: repeat(auto-fit,minmax(150px,1fr)); }
-      .fortune-content { padding: 30px 20px; }
-    }
   </style>
 </head>
 <body>
@@ -91,7 +103,10 @@
     <header>
       <h1>✨ Cosmic Fortune ✨</h1>
       <p class="subtitle">今日のあなたの運勢</p>
-      <div class="api-badge">Powered by API Ninjas + GitHub Actions</div>
+      <div class="api-badge">Powered by API Ninjas + Google Translate + GitHub Actions</div>
+      <div class="lang-toggle">
+        <button id="toggleLang">🌐 言語切替</button>
+      </div>
     </header>
 
     <div class="update-info" id="updateInfo">データ読み込み中...</div>
@@ -107,6 +122,7 @@
   </div>
 
   <script>
+    let showJapanese = true; // デフォルトで日本語
     const zodiacData = [
       { name: '牡羊座', icon: '♈', period: '3/21 - 4/19', sign: 'aries' },
       { name: '牡牛座', icon: '♉', period: '4/20 - 5/20', sign: 'taurus' },
@@ -137,27 +153,23 @@
       }
     }
 
-    function updateDate() {
-      const today = new Date();
-      const opts = { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' };
-      document.getElementById('dateDisplay').textContent = today.toLocaleDateString('ja-JP', opts);
-    }
-
     async function loadHoroscopeData() {
       try {
         const res = await fetch('./data/horoscope.json');
-        if (!res.ok) throw new Error('JSON not found');
         const text = await res.text();
         const cleanText = text.replace(/^\uFEFF/, '').trim();
         horoscopeData = JSON.parse(cleanText);
-
         const updatedAt = new Date(horoscopeData.updated_at);
-        document.getElementById('updateInfo').textContent =
-          `最終更新: ${updatedAt.toLocaleString('ja-JP')}`;
+        document.getElementById('updateInfo').textContent = `最終更新: ${updatedAt.toLocaleString('ja-JP')}`;
       } catch (e) {
         console.error(e);
         document.getElementById('updateInfo').textContent = '⚠️ データの読み込みに失敗しました';
       }
+    }
+
+    function updateDate() {
+      const today = new Date();
+      document.getElementById('dateDisplay').textContent = today.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' });
     }
 
     function displayZodiacCards() {
@@ -166,10 +178,9 @@
         const c = document.createElement('div');
         c.className = 'zodiac-card';
         c.style.animationDelay = `${i * 0.1}s`;
-        c.innerHTML = `
-          <div class="zodiac-icon">${zodiac.icon}</div>
-          <div class="zodiac-name">${zodiac.name}</div>
-          <div class="zodiac-period">${zodiac.period}</div>`;
+        c.innerHTML = `<div class="zodiac-icon">${zodiac.icon}</div>
+                       <div class="zodiac-name">${zodiac.name}</div>
+                       <div class="zodiac-period">${zodiac.period}</div>`;
         c.onclick = () => showFortune(zodiac);
         grid.appendChild(c);
       });
@@ -186,6 +197,7 @@
         return;
       }
 
+      const text = showJapanese && fortune.horoscope_ja ? fortune.horoscope_ja : fortune.horoscope;
       content.innerHTML = `
         <div class="fortune-header">
           <div class="zodiac-icon">${zodiac.icon}</div>
@@ -193,13 +205,19 @@
           <p style="color:#a8b2d1;">${zodiac.period}</p>
           <p style="color:#ffd700;margin-top:10px;">${fortune.date}</p>
         </div>
-        <div class="fortune-section"><h3>🌟 今日の運勢</h3><p>${fortune.horoscope}</p></div>
+        <div class="fortune-section"><h3>🌟 今日の運勢</h3><p>${text}</p></div>
       `;
       modal.style.display = 'block';
     }
 
     function closeModal() { document.getElementById('fortuneModal').style.display = 'none'; }
+
     window.onclick = e => { if (e.target == document.getElementById('fortuneModal')) closeModal(); }
+
+    document.getElementById('toggleLang').onclick = () => {
+      showJapanese = !showJapanese;
+      document.getElementById('toggleLang').textContent = showJapanese ? '🌐 English' : '🌐 日本語';
+    };
 
     window.onload = async function() {
       createStars();
