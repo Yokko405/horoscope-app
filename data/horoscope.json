@@ -1,66 +1,126 @@
 {
-  "updated_at": "2025-11-04T01:22:40.721Z",
+  "updated_at": "2025-11-04T09:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
-      "date": "2025-11-03",
-      "sign": "Aries",
-      "horoscope": "Today promises to be an invigorating experience for you. You'll be brimming with enthusiasm, effortlessly directing your energy into your pursuits. However, be prepared for some pushback. While your ideas are innovative, they might not resonate with everyone. In fact, you could face some opposition. Use your charm and persuasive skills, and you'll find a way to achieve your goals."
+      "current_date": "2025-11-03",
+      "description": "Today promises to be an invigorating experience for you. You'll be brimming with enthusiasm, effortlessly directing your energy into your pursuits. Use that drive to make real progress.",
+      "mood": "情熱的な気分",
+      "compatibility": "火の星座",
+      "color": "レッド",
+      "lucky_number": 7,
+      "lucky_time": "午前9時ごろ",
+      "date_range": "2025-11-03"
     },
     "taurus": {
-      "date": "2025-11-03",
-      "sign": "Taurus",
-      "horoscope": "Today, it's wise to keep your cool. You may feel a surge of restlessness, but your adventurous spirit is currently held back by financial and career limitations. Now is not the time to indulge in unrealistic fantasies. Attempting to do so could lead to conflicts. If someone suggests a more cautious approach, take their advice to heart."
+      "current_date": "2025-11-03",
+      "description": "Today, it's wise to keep your cool. You may feel restless, but patience will help you stay grounded. Focus on one task at a time and trust your steady rhythm.",
+      "mood": "落ち着いた気分",
+      "compatibility": "地の星座",
+      "color": "グリーン",
+      "lucky_number": 52,
+      "lucky_time": "午後1時ごろ",
+      "date_range": "2025-11-03"
     },
     "gemini": {
-      "date": "2025-11-03",
-      "sign": "Gemini",
-      "horoscope": "Today, it may feel as if time stands still or even reverses. Take advantage of this moment to delve into your own motivations. The stars indicate that you are grappling with issues that impact someone else's future. It might be wise to dedicate some of that reflective energy to contemplating your own destiny too."
+      "current_date": "2025-11-03",
+      "description": "Take advantage of today’s reflective mood to think about what truly excites you. A spark of inspiration might change your direction in an unexpected but positive way.",
+      "mood": "ひらめきモード",
+      "compatibility": "風の星座",
+      "color": "ライトブルー",
+      "lucky_number": 11,
+      "lucky_time": "午前10時ごろ",
+      "date_range": "2025-11-03"
     },
     "cancer": {
-      "date": "2025-11-03",
-      "sign": "Cancer",
-      "horoscope": "Today, the atmosphere feels charged with tension. You may sense a stirring within, a desire for transformation, yet you might hesitate to take any significant steps forward. Your intuition reminds you that voicing dissatisfaction without taking action is futile. Why not take the initiative and spark some change?"
+      "current_date": "2025-11-03",
+      "description": "You might feel like retreating into your shell today, and that’s okay. Take time for self-care and emotional reset. Quiet moments will bring new understanding.",
+      "mood": "穏やかな気分",
+      "compatibility": "水の星座",
+      "color": "シルバー",
+      "lucky_number": 28,
+      "lucky_time": "午後6時ごろ",
+      "date_range": "2025-11-03"
     },
     "leo": {
-      "date": "2025-11-03",
-      "sign": "Leo",
-      "horoscope": "Today presents itself as a blank canvas for self-reflection. You might find yourself aware of certain physical or emotional traits that don't sit well with you. This day could prompt you to take steps towards addressing those feelings. Opening up to a friend or family member about your worries could lead to significant progress."
+      "current_date": "2025-11-03",
+      "description": "Today is a mirror for self-reflection. You might notice something about yourself that you want to improve — act on it with courage. Small changes today will create lasting confidence.",
+      "mood": "前向きな気分",
+      "compatibility": "火の星座",
+      "color": "ゴールド",
+      "lucky_number": 5,
+      "lucky_time": "午後3時ごろ",
+      "date_range": "2025-11-03"
     },
     "virgo": {
-      "date": "2025-11-03",
-      "sign": "Virgo",
-      "horoscope": "You might find that others occasionally criticize you for lacking tact in your interactions. However, the current planetary alignments are set to enhance your sensitivity. You'll discover a newfound ability to truly listen to those around you. Even if it’s not entirely accurate, people may perceive you as being less self-absorbed than before."
+      "current_date": "2025-11-03",
+      "description": "Your focus sharpens today. You can finally organize what felt chaotic. Someone may come to you for advice — offer it sincerely, and it will deepen your connection.",
+      "mood": "集中モード",
+      "compatibility": "地の星座",
+      "color": "ベージュ",
+      "lucky_number": 18,
+      "lucky_time": "午後2時ごろ",
+      "date_range": "2025-11-03"
     },
     "libra": {
-      "date": "2025-11-03",
-      "sign": "Libra",
-      "horoscope": "You possess a remarkable talent for diffusing tension and bringing a sense of calm to chaotic situations. As the cosmic energies align today, you'll encounter various crises, but your ability to provide reassurance and offer a clear, level-headed perspective will shine through. Your legendary tranquility, combined with this skill, creates a powerful and effective presence!"
+      "current_date": "2025-11-03",
+      "description": "You’re a natural peacemaker today. Bring calm to people around you, and you’ll find that harmony reflects back on you tenfold.",
+      "mood": "バランスの取れた気分",
+      "compatibility": "風の星座",
+      "color": "ピンク",
+      "lucky_number": 33,
+      "lucky_time": "午後4時ごろ",
+      "date_range": "2025-11-03"
     },
     "scorpio": {
-      "date": "2025-11-03",
-      "sign": "Scorpio",
-      "horoscope": "Today, the stars encourage you to boldly share your thoughts without the worry of being judged. This aligns perfectly with your nature, as the fear of criticism often holds you back. Your task is to articulate your own ideas confidently, steering clear of simply echoing others. Embrace this challenge!"
+      "current_date": "2025-11-03",
+      "description": "The stars encourage you to boldly express yourself. Speak your truth, even if your voice shakes — authenticity will draw the right people closer.",
+      "mood": "情熱的な気分",
+      "compatibility": "水の星座",
+      "color": "パープル",
+      "lucky_number": 44,
+      "lucky_time": "午後8時ごろ",
+      "date_range": "2025-11-03"
     },
     "sagittarius": {
-      "date": "2025-11-03",
-      "sign": "Sagittarius",
-      "horoscope": "If you've been itching to put pen to paper, seize the moment! Your creativity is overflowing, but you might struggle with viewing your work as worthy. Remember, you don’t need to overthink the label of 'writer.' Just express yourself and share your words with others. Joining a writers' group could be the perfect opportunity for you to step into the spotlight."
+      "current_date": "2025-11-03",
+      "description": "Creative energy is overflowing. Don’t wait for the perfect moment — start writing, painting, or planning now. The process itself will bring you joy.",
+      "mood": "自由な気分",
+      "compatibility": "火の星座",
+      "color": "オレンジ",
+      "lucky_number": 3,
+      "lucky_time": "午前11時ごろ",
+      "date_range": "2025-11-03"
     },
     "capricorn": {
-      "date": "2025-11-03",
-      "sign": "Capricorn",
-      "horoscope": "Today, you might find yourself grappling with some intense uncertainty. You could feel the urge to either conceal the truth or express it openly. If you choose to speak your mind, go for it! The celestial energies are on your side, assisting you in articulating your thoughts in a manner that's both palatable and persuasive. You may even find that you can win over a few skeptics to your perspective!"
+      "current_date": "2025-11-03",
+      "description": "You might feel uncertain about how much to share today. Honesty will work in your favor — your practical wisdom will earn respect.",
+      "mood": "冷静な気分",
+      "compatibility": "地の星座",
+      "color": "ブラウン",
+      "lucky_number": 20,
+      "lucky_time": "午前8時ごろ",
+      "date_range": "2025-11-03"
     },
     "aquarius": {
-      "date": "2025-11-03",
-      "sign": "Aquarius",
-      "horoscope": "Today, your sharp intellect shines through, showcasing your remarkable maturity. You're grounded and not easily swayed by uncertainty. If you're navigating any romantic entanglements, this is a perfect opportunity to reflect on them, but remember to approach the situation with warmth rather than detachment."
+      "current_date": "2025-11-03",
+      "description": "You’re thinking clearly and objectively. Don’t overanalyze — your intuition is more accurate than you think. Someone’s idea might inspire a breakthrough.",
+      "mood": "創造的な気分",
+      "compatibility": "風の星座",
+      "color": "ネイビー",
+      "lucky_number": 29,
+      "lucky_time": "午後5時ごろ",
+      "date_range": "2025-11-03"
     },
     "pisces": {
-      "date": "2025-11-03",
-      "sign": "Pisces",
-      "horoscope": "Recently, you might have experienced some irritation with your efforts. Whether it was external hurdles, like unexpected delays, or internal barriers, such as a lack of motivation, you've faced some significant challenges. To move forward effectively, it's essential to address these lingering matters first. Today could present a chance to finally tackle and resolve these issues."
+      "current_date": "2025-11-03",
+      "description": "It’s time to clear out emotional clutter. Let go of small worries and focus on your inner calm. Music or art will help you reset your spirit.",
+      "mood": "優しい気分",
+      "compatibility": "水の星座",
+      "color": "アクアブルー",
+      "lucky_number": 12,
+      "lucky_time": "午後9時ごろ",
+      "date_range": "2025-11-03"
     }
   }
 }
