@@ -2,7 +2,8 @@
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)
 ![Workflow](https://img.shields.io/github/actions/workflow/status/yokko405/horoscope-app/update-horoscope.yml?label=Auto%20Update)
-![License](https://img.shields.io/badge/license-MIT-green)
+#![License](https://img.shields.io/badge/license-MIT-green)
+※このリポジトリは個人学習および実験目的で公開しています。再利用・再配布はご遠慮ください。
 
 > 🌟 **毎日自動で更新される、12星座の英日バイリンガル運勢サイト**
 
@@ -108,6 +109,6 @@ Powered by
 API Ninjas, Google Cloud Translation, and GitHub Actions
 Designed & Developed by YOKO
 
-📜 License
-This project is licensed under the MIT License.
-自由にフォーク・改変・拡張して楽しんでください🌙
+#📜 License
+#This project is licensed under the MIT License.
+#自由にフォーク・改変・拡張して楽しんでください🌙
