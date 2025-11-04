@@ -22,6 +22,8 @@ jobs:
           node-version: '18'
 
       - name: Fetch horoscope data
+        env:
+          API_NINJAS_KEY: ${{ secrets.API_NINJAS_KEY }} 
         run: |
           node fetch-horoscope.js
           # タイムスタンプを強制的に追加して差分を出す
