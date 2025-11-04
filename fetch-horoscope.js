@@ -15,7 +15,7 @@ function fetchHoroscope(sign) {
   return new Promise((resolve, reject) => {
     const options = {
       hostname: 'api.api-ninjas.com',
-      path: `/v1/horoscope?sign=${sign}`,
+      path: `/v1/horoscope?zodiac=${sign}`,
       method: 'GET',
       headers: {
         'X-Api-Key': API_KEY
