@@ -1,67 +1,107 @@
-{
-  "updated_at": "2025-11-04T08:42:38.565Z",
-  "jst_date": "2025-11-04",
-  "timezone": "Asia/Tokyo",
-  "horoscopes": {
-    "aries": {
-      "date": "2025-11-04",
-      "sign": "Aries",
-      "horoscope": "Today promises to be an invigorating experience for you. You'll be brimming with enthusiasm, effortlessly directing your energy into your pursuits. However, be prepared for some pushback. While your ideas are innovative, they might not resonate with everyone. In fact, you could face some opposition. Use your charm and persuasive skills, and you'll find a way to achieve your goals."
-    },
-    "taurus": {
-      "date": "2025-11-04",
-      "sign": "Taurus",
-      "horoscope": "Today, exercise caution with your temper. You may feel a strong urge to break free, but your adventurous spirit is currently held back by financial and career limitations. Now is not the time to indulge in unrealistic fantasies. Attempting to do so could lead to conflicts. If someone suggests a more cautious approach, it's wise to take their advice."
-    },
-    "gemini": {
-      "date": "2025-11-04",
-      "sign": "Gemini",
-      "horoscope": "Today, it may feel as though time stands still or even reverses. Take advantage of this moment to delve into your own motivations. The stars indicate that you are grappling with issues that impact someone else's future. It might be wise to dedicate some of that reflective energy to contemplating your own destiny too."
-    },
-    "cancer": {
-      "date": "2025-11-04",
-      "sign": "Cancer",
-      "horoscope": "Today, the atmosphere feels charged with tension. You may sense a stirring within, a desire for transformation, yet you might hesitate to take any significant steps forward. Your intuition reminds you that voicing frustrations without taking action is futile. Why not take the initiative and spark some change?"
-    },
-    "leo": {
-      "date": "2025-11-04",
-      "sign": "Leo",
-      "horoscope": "Consider today as a blank canvas inviting you to explore your inner self. You might find yourself reflecting on certain physical or emotional traits that don't sit well with you. This day could prompt you to take steps towards addressing those feelings. Opening up about your worries to a friend or family member could lead to significant progress."
-    },
-    "virgo": {
-      "date": "2025-11-04",
-      "sign": "Virgo",
-      "horoscope": "You might find that others occasionally criticize you for lacking tact in your interactions. However, the current planetary alignments are set to enhance your sensitivity. You'll discover a newfound ability to truly listen to those around you. Regardless of the reality, people may perceive you as being less self-absorbed than before."
-    },
-    "libra": {
-      "date": "2025-11-04",
-      "sign": "Libra",
-      "horoscope": "You possess a remarkable talent for diffusing tension and bringing clarity to chaotic situations. As the cosmic energies align today, you'll encounter various crises. Your ability to provide reassurance and offer a level-headed perspective will shine through, preventing any unnecessary alarm or embellishment. This unique blend of your legendary composure and insightful judgment will serve you well!"
-    },
-    "scorpio": {
-      "date": "2025-11-04",
-      "sign": "Scorpio",
-      "horoscope": "Today, the stars encourage you to boldly share your thoughts without the worry of being judged. This aligns perfectly with your nature, as the fear of criticism often holds you back. Your task is to articulate your own ideas confidently, steering clear of simply echoing others. Embrace this challenge!"
-    },
-    "sagittarius": {
-      "date": "2025-11-04",
-      "sign": "Sagittarius",
-      "horoscope": "If you've been itching to put pen to paper, seize the moment! Your creativity is overflowing, but you might struggle with viewing your writing as valid. Remember, you don’t need to overthink the label of \"writer.\" Just express yourself and share your work with others. Joining a writers' group could be the perfect opportunity for you to step into the spotlight."
-    },
-    "capricorn": {
-      "date": "2025-11-04",
-      "sign": "Capricorn",
-      "horoscope": "Today, you might find yourself grappling with some intense uncertainty. You could feel the urge to either conceal the truth or express it openly. If you choose to speak your mind, go for it! The celestial bodies are on your side, assisting you in articulating your thoughts in a manner that's palatable to others. In fact, you may even manage to persuade a few to see things from your perspective!"
-    },
-    "aquarius": {
-      "date": "2025-11-04",
-      "sign": "Aquarius",
-      "horoscope": "Today, your sharp intellect shines through, showcasing your remarkable maturity. You're grounded and not easily swayed by uncertainty. If you're navigating any romantic matters, it's a perfect time to reflect on them, but remember to approach the situation with warmth and compassion."
-    },
-    "pisces": {
-      "date": "2025-11-04",
-      "sign": "Pisces",
-      "horoscope": "Lately, you might have experienced some irritation with your efforts. Whether it was external hurdles, like unexpected delays, or internal barriers, such as a lack of motivation, you've faced some significant challenges. To move forward effectively, it's essential to address these lingering matters first. Today could present a chance to finally tackle and resolve these issues."
+// fetch-horoscope.js
+// === Cosmic Fortune Horoscope Fetcher ===
+// API-Ninjas から12星座の運勢を取得して JSON 出力（BOMなし）
+
+const https = require('https');
+const fs = require('fs');
+const path = require('path');
+
+// 対象の12星座
+const zodiacSigns = [
+  'aries', 'taurus', 'gemini', 'cancer',
+  'leo', 'virgo', 'libra', 'scorpio',
+  'sagittarius', 'capricorn', 'aquarius', 'pisces'
+];
+
+// Secrets から APIキーを取得
+const API_KEY = process.env.API_NINJAS_KEY;
+
+// ===== Horoscope取得関数 =====
+function fetchHoroscope(sign) {
+  return new Promise((resolve, reject) => {
+    const options = {
+      hostname: 'api.api-ninjas.com',
+      path: `/v1/horoscope?zodiac=${sign}`,
+      method: 'GET',
+      headers: {
+        'X-Api-Key': API_KEY
+      }
+    };
+
+    const req = https.request(options, (res) => {
+      let data = '';
+
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        if (res.statusCode !== 200) {
+          return reject(new Error(`HTTP ${res.statusCode} for ${sign}: ${data}`));
+        }
+        try {
+          const json = JSON.parse(data);
+          resolve(json);
+        } catch (error) {
+          reject(new Error(`Failed to parse JSON for ${sign}: ${error.message}`));
+        }
+      });
+    });
+
+    req.on('error', (error) => reject(error));
+    req.end();
+  });
+}
+
+// ===== 全星座分のデータを取得して出力 =====
+async function fetchAllHoroscopes() {
+  console.log('=== 🌟 Fetching horoscope data for all zodiac signs ===');
+  const horoscopes = {};
+  const errors = [];
+
+  for (const sign of zodiacSigns) {
+    try {
+      console.log(`🔮 Fetching ${sign}...`);
+      const data = await fetchHoroscope(sign);
+      horoscopes[sign] = data;
+      console.log(`✅ ${sign} - Success`);
+      await new Promise(resolve => setTimeout(resolve, 800)); // rate limit対策
+    } catch (error) {
+      console.error(`❌ ${sign} - Failed: ${error.message}`);
+      errors.push({ sign, error: error.message });
     }
   }
-}"updated_at": "2025-11-04T08:42:38Z"
+
+  // JSTの日付を生成
+  const now = new Date();
+  const jst = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
+  const jstDate = jst.toISOString().split('T')[0];
+
+  const outputData = {
+    updated_at: now.toISOString(),
+    jst_date: jstDate,
+    timezone: 'Asia/Tokyo',
+    horoscopes,
+    errors: errors.length > 0 ? errors : undefined
+  };
+
+  const dataDir = path.join(__dirname, 'data');
+  if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
+  const outputPath = path.join(dataDir, 'horoscope.json');
+
+  // ✅ BOMを付けずにUTF-8で出力
+  fs.writeFileSync(outputPath, Buffer.from(JSON.stringify(outputData, null, 2), 'utf8'));
+
+  console.log('\n=== Summary ===');
+  console.log(`✅ Successfully fetched: ${Object.keys(horoscopes).length}/${zodiacSigns.length}`);
+  if (errors.length > 0) console.log(`⚠️  Failed: ${errors.length} signs`);
+  console.log(`🗂️  Data saved to: ${outputPath}`);
+}
+
+// ===== 実行 =====
+fetchAllHoroscopes()
+  .then(() => {
+    console.log('\n🌙 Horoscope data update completed successfully!');
+    process.exit(0);
+  })
+  .catch((error) => {
+    console.error('\n💀 Fatal error:', error);
+    process.exit(1);
+  });
