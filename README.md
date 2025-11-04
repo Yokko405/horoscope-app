@@ -108,3 +108,5 @@ data/horoscope.json が自動生成されます
 Powered by
 API Ninjas, Google Cloud Translation, and GitHub Actions
 Designed & Developed by YOKO
+
+📅 Last updated: 2025-11-04
