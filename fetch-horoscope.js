@@ -93,3 +93,30 @@ fetchAllHoroscopes()
     console.error('\n💀 Fatal error:', e);
     process.exit(1);
   });
+
+  // --- Google Translation APIで英語→日本語に翻訳 ---
+  async function translateText(text) {
+    const apiKey = process.env.GOOGLE_API_KEY || ''; // GitHub Actionsから取得
+    const url = `https://translation.googleapis.com/language/translate/v2?key=${apiKey}`;
+  
+    try {
+      const response = await fetch(url, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          q: text,
+          target: "ja",
+          format: "text",
+        })
+      });
+  
+      const data = await response.json();
+      return data.data?.translations?.[0]?.translatedText || text;
+  
+    } catch (error) {
+      console.error("Translation error:", error);
+      return text; // 翻訳失敗時は元の英語を返す
+    }
+  }
