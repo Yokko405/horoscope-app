@@ -8,6 +8,9 @@ on:
 
 jobs:
   update-horoscope:
+    if: github.repository == 'yokko405/horoscope-app'
+
+  update-horoscope:
     runs-on: ubuntu-latest
     
     steps:
