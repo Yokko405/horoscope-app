@@ -28,8 +28,6 @@ jobs:
         run: |
           npm install node-fetch@2
           node fetch-horoscope.js
-          # タイムスタンプを強制的に追加して差分を出す
-          echo "\"updated_at\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\"" >> data/horoscope.json
       
       - name: Commit and push changes
         run: |
