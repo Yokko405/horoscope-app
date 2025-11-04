@@ -18,11 +18,10 @@ function getJstDate() {
 }
 
 function fetchHoroscope(sign) {
-  const todayJst = getJstDate();
   return new Promise((resolve, reject) => {
     const options = {
       hostname: 'api.api-ninjas.com',
-      path: `/v1/horoscope?zodiac=${sign}&date=${todayJst}`, // ✅ JST日付を明示
+      path: `/v1/horoscope?zodiac=${sign}`, // ← date削除！
       method: 'GET',
       headers: { 'X-Api-Key': API_KEY }
     };
