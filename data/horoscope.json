@@ -1,67 +1,79 @@
 {
-  "updated_at": "2025-11-04T09:33:43.519Z",
+  "updated_at": "2025-11-04T10:29:25.751Z",
   "jst_date": "2025-11-04",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
       "date": "2025-11-04",
       "sign": "Aries",
-      "horoscope": "Today promises to be an invigorating experience for you. You'll be brimming with enthusiasm, effortlessly directing your energy into your pursuits. However, be prepared for some pushback. While your ideas are innovative, they might not resonate with everyone. In fact, you could face some opposition. Use your charm and persuasive skills, and you'll find a way to achieve your goals."
+      "horoscope": "Today promises to be an invigorating experience for you. You'll be brimming with enthusiasm, effortlessly directing your energy into your pursuits. However, be prepared for some pushback. While your ideas are innovative, they might not resonate with everyone. In fact, you could face some opposition. Use your charm and persuasive skills, and you'll find a way to achieve your goals.",
+      "horoscope_ja": "今日はあなたにとって爽快な一日になりそうです。情熱に溢れ、エネルギーを惜しみなく注ぎ込み、自分の追求へと突き進むでしょう。しかし、多少の反発は覚悟しておきましょう。あなたのアイデアは革新的ですが、万人に受け入れられるとは限りません。むしろ、反対に遭う可能性もあるでしょう。あなたの魅力と説得力を活かし、目標を達成する方法を見つけてください。"
     },
     "taurus": {
       "date": "2025-11-04",
       "sign": "Taurus",
-      "horoscope": "Today, exercise caution with your temper. You may feel a strong urge to break free, but your adventurous spirit is currently held back by financial and career limitations. Now is not the time to indulge in unrealistic fantasies. Attempting to do so could lead to conflicts. If someone suggests a more cautious approach, it's wise to take their advice."
+      "horoscope": "Today, exercise caution with your temper. You may feel a strong urge to break free, but your adventurous spirit is currently held back by financial and career limitations. Now is not the time to indulge in unrealistic fantasies. Attempting to do so could lead to conflicts. If someone suggests a more cautious approach, it's wise to take their advice.",
+      "horoscope_ja": "今日は、感情の起伏に気をつけましょう。自由になりたいという強い衝動に駆られているかもしれませんが、経済的制約やキャリア上の制約によって冒険心が抑えられています。今は非現実的な空想にふける時ではありません。そうしようとすると、衝突を招く可能性があります。もし誰かがもっと慎重なアプローチを提案してきたら、そのアドバイスに従うのが賢明です。"
     },
     "gemini": {
       "date": "2025-11-04",
       "sign": "Gemini",
-      "horoscope": "Today, it may feel as though time stands still or even reverses. Take advantage of this moment to delve into your own motivations. The stars indicate that you are grappling with issues that impact someone else's future. It might be wise to dedicate some of that reflective energy to contemplating your own destiny too."
+      "horoscope": "Today, it may feel as though time stands still or even reverses. Take advantage of this moment to delve into your own motivations. The stars indicate that you are grappling with issues that impact someone else's future. It might be wise to dedicate some of that reflective energy to contemplating your own destiny too.",
+      "horoscope_ja": "今日は、まるで時間が止まったか、あるいは逆戻りしたように感じるかもしれません。この機会を利用して、自分の動機を深く掘り下げてみましょう。星は、あなたが誰かの未来に影響を与える問題に取り組んでいることを示しています。その思索的なエネルギーの一部を、自分自身の運命についてもじっくり考えることに費やすのが賢明かもしれません。"
     },
     "cancer": {
       "date": "2025-11-04",
       "sign": "Cancer",
-      "horoscope": "Today, the atmosphere feels charged with tension. You may sense a stirring within, a desire for transformation, yet you might hesitate to take any significant steps forward. Your intuition reminds you that voicing frustrations without taking action is futile. Why not take the initiative and spark some change?"
+      "horoscope": "Today, the atmosphere feels charged with tension. You may sense a stirring within, a desire for transformation, yet you might hesitate to take any significant steps forward. Your intuition reminds you that voicing frustrations without taking action is futile. Why not take the initiative and spark some change?",
+      "horoscope_ja": "今日は緊張感に満ち溢れています。心の中で何かが揺さぶられ、変革への欲求を感じているかもしれませんが、一歩踏み出すのをためらっているかもしれません。直感は、行動を起こさずに不満を口にするのは無駄だと教えてくれます。率先して変化を起こしてみませんか？"
     },
     "leo": {
       "date": "2025-11-04",
       "sign": "Leo",
-      "horoscope": "Consider today as a blank canvas inviting you to explore your inner self. You might find yourself reflecting on certain physical or emotional traits that don't sit well with you. This day could prompt you to take steps towards addressing those feelings. Opening up about your worries to a friend or family member could lead to significant progress."
+      "horoscope": "Consider today as a blank canvas inviting you to explore your inner self. You might find yourself reflecting on certain physical or emotional traits that don't sit well with you. This day could prompt you to take steps towards addressing those feelings. Opening up about your worries to a friend or family member could lead to significant progress.",
+      "horoscope_ja": "今日は、自分の内面を探求するための白紙のキャンバスだと捉えてみてください。もしかしたら、自分にしっくりこない身体的または感情的な特徴について、じっくり考えるきっかけになるかもしれません。今日は、そうした感情に対処するための行動を起こすきっかけになるかもしれません。友人や家族に悩みを打ち明けることで、大きな前進につながるかもしれません。"
     },
     "virgo": {
       "date": "2025-11-04",
       "sign": "Virgo",
-      "horoscope": "You might find that others occasionally criticize you for lacking tact in your interactions. However, the current planetary alignments are set to enhance your sensitivity. You'll discover a newfound ability to truly listen to those around you. Regardless of the reality, people may perceive you as being less self-absorbed than before."
+      "horoscope": "You might find that others occasionally criticize you for lacking tact in your interactions. However, the current planetary alignments are set to enhance your sensitivity. You'll discover a newfound ability to truly listen to those around you. Regardless of the reality, people may perceive you as being less self-absorbed than before.",
+      "horoscope_ja": "時々、他人からあなたの会話の機転のなさを批判されるかもしれません。しかし、現在の惑星の配置はあなたの感受性を高めるように調整されています。あなたは、周囲の人々の話を真摯に聞く新たな能力を発見するでしょう。現実はともかく、人々はあなたが以前より自己中心的でなくなったと認識するかもしれません。"
     },
     "libra": {
       "date": "2025-11-04",
       "sign": "Libra",
-      "horoscope": "You possess a remarkable talent for diffusing tension and bringing clarity to chaotic situations. As the cosmic energies align today, you'll encounter various crises. Your ability to provide reassurance and offer a level-headed perspective will shine through, preventing any unnecessary alarm or embellishment. This unique blend of your legendary composure and insightful judgment will serve you well!"
+      "horoscope": "You possess a remarkable talent for diffusing tension and bringing clarity to chaotic situations. As the cosmic energies align today, you'll encounter various crises. Your ability to provide reassurance and offer a level-headed perspective will shine through, preventing any unnecessary alarm or embellishment. This unique blend of your legendary composure and insightful judgment will serve you well!",
+      "horoscope_ja": "あなたは緊張を和らげ、混沌とした状況に明晰さをもたらす素晴らしい才能を持っています。今日、宇宙のエネルギーが調和するにつれ、様々な危機に遭遇するでしょう。しかし、相手を安心させ、冷静な視点を提供するあなたの能力が光り輝き、不必要な不安や誇張を避けるでしょう。伝説的な落ち着きと洞察力に富んだ判断力のこのユニークな組み合わせは、きっとあなたの力となるでしょう！"
     },
     "scorpio": {
       "date": "2025-11-04",
       "sign": "Scorpio",
-      "horoscope": "Today, the stars encourage you to boldly share your thoughts without the worry of being judged. This aligns perfectly with your nature, as the fear of criticism often holds you back. Your task is to articulate your own ideas confidently, steering clear of simply echoing others. Embrace this challenge!"
+      "horoscope": "Today, the stars encourage you to boldly share your thoughts without the worry of being judged. This aligns perfectly with your nature, as the fear of criticism often holds you back. Your task is to articulate your own ideas confidently, steering clear of simply echoing others. Embrace this challenge!",
+      "horoscope_ja": "今日、星はあなたに、批判されることを恐れずに大胆に自分の考えを共有するよう促しています。これは、批判を恐れて躊躇してしまうことが多いあなたの性格にぴったりです。あなたの課題は、他人の言葉を繰り返すのではなく、自信を持って自分の考えを明確に表現することです。この挑戦をぜひ受け入れてください！"
     },
     "sagittarius": {
       "date": "2025-11-04",
       "sign": "Sagittarius",
-      "horoscope": "If you've been itching to put pen to paper, seize the moment! Your creativity is overflowing, but you might struggle with viewing your writing as valid. Remember, you don’t need to overthink the label of \"writer.\" Just express yourself and share your work with others. Joining a writers' group could be the perfect opportunity for you to step into the spotlight."
+      "horoscope": "If you've been itching to put pen to paper, seize the moment! Your creativity is overflowing, but you might struggle with viewing your writing as valid. Remember, you don’t need to overthink the label of \"writer.\" Just express yourself and share your work with others. Joining a writers' group could be the perfect opportunity for you to step into the spotlight.",
+      "horoscope_ja": "ペンを手に取りたくてうずうずしているなら、この瞬間を掴みましょう！創造性は溢れているのに、自分の文章の価値を認められないかもしれません。「作家」という肩書きにこだわりすぎる必要はありません。ただ自分を表現し、作品を他の人と共有しましょう。作家グループに参加すれば、スポットライトを浴びる絶好の機会になるかもしれません。"
     },
     "capricorn": {
       "date": "2025-11-04",
       "sign": "Capricorn",
-      "horoscope": "Today, you might find yourself grappling with some intense uncertainty. You could feel the urge to either conceal the truth or express it openly. If you choose to speak your mind, go for it! The celestial bodies are on your side, assisting you in articulating your thoughts in a manner that's palatable to others. In fact, you may even manage to persuade a few to see things from your perspective!"
+      "horoscope": "Today, you might find yourself grappling with some intense uncertainty. You could feel the urge to either conceal the truth or express it openly. If you choose to speak your mind, go for it! The celestial bodies are on your side, assisting you in articulating your thoughts in a manner that's palatable to others. In fact, you may even manage to persuade a few to see things from your perspective!",
+      "horoscope_ja": "今日は、強い不安に苛まれているかもしれません。真実を隠すか、率直に表現するか、どちらかを選ばなければならない衝動に駆られるかもしれません。もし自分の考えを口に出すなら、ぜひそうしてください！天体はあなたの味方で、あなたの考えを相手に受け入れやすい形で表現できるようサポートしてくれます。もしかしたら、何人かの人を説得して、あなたの視点から物事を見てもらうこともできるかもしれません！"
     },
     "aquarius": {
       "date": "2025-11-04",
       "sign": "Aquarius",
-      "horoscope": "Today, your sharp intellect shines through, showcasing your remarkable maturity. You're grounded and not easily swayed by uncertainty. If you're navigating any romantic matters, it's a perfect time to reflect on them, but remember to approach the situation with warmth and compassion."
+      "horoscope": "Today, your sharp intellect shines through, showcasing your remarkable maturity. You're grounded and not easily swayed by uncertainty. If you're navigating any romantic matters, it's a perfect time to reflect on them, but remember to approach the situation with warmth and compassion.",
+      "horoscope_ja": "今日、あなたの鋭い知性が輝き、驚くべき成熟度を体現しています。あなたは地に足が着いており、不確実性に簡単に動揺することはありません。もし恋愛で悩んでいるなら、じっくり考える絶好の機会です。ただし、温かみと思いやりを持って状況に臨むことを忘れないでください。"
     },
     "pisces": {
       "date": "2025-11-04",
       "sign": "Pisces",
-      "horoscope": "Lately, you might have experienced some irritation with your efforts. Whether it was external hurdles, like unexpected delays, or internal barriers, such as a lack of motivation, you've faced some significant challenges. To move forward effectively, it's essential to address these lingering matters first. Today could present a chance to finally tackle and resolve these issues."
+      "horoscope": "Lately, you might have experienced some irritation with your efforts. Whether it was external hurdles, like unexpected delays, or internal barriers, such as a lack of motivation, you've faced some significant challenges. To move forward effectively, it's essential to address these lingering matters first. Today could present a chance to finally tackle and resolve these issues.",
+      "horoscope_ja": "最近、努力が報われず、イライラしているかもしれません。予期せぬ遅延などの外的要因であれ、モチベーションの低下などの内的要因であれ、大きな課題に直面しているのではないでしょうか。効果的に前進するためには、まずこれらの未解決の問題に対処することが不可欠です。今日こそ、これらの問題に真剣に取り組み、解決するチャンスとなるかもしれません。"
     }
   }
 }
