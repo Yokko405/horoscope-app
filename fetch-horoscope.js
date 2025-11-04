@@ -1,3 +1,6 @@
+// === Cosmic Fortune Horoscope Fetcher ===
+// API-Ninjas から 12 星座の運勢を取得して JSON 出力 (BOMなし)
+
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
@@ -8,20 +11,14 @@ const zodiacSigns = [
   'sagittarius', 'capricorn', 'aquarius', 'pisces'
 ];
 
+// Secrets から APIキーを取得
 const API_KEY = process.env.API_NINJAS_KEY;
-
-// ✅ JSTの日付を取得して "YYYY-MM-DD" 形式に
-function getJstDate() {
-  const now = new Date();
-  const jst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
-  return jst.toISOString().split('T')[0];
-}
 
 function fetchHoroscope(sign) {
   return new Promise((resolve, reject) => {
     const options = {
       hostname: 'api.api-ninjas.com',
-      path: `/v1/horoscope?zodiac=${sign}`, // ← date削除！
+      path: `/v1/horoscope?zodiac=${sign}`,
       method: 'GET',
       headers: { 'X-Api-Key': API_KEY }
     };
@@ -36,38 +33,42 @@ function fetchHoroscope(sign) {
         try {
           const json = JSON.parse(data);
           resolve(json);
-        } catch (error) {
-          reject(new Error(`Failed to parse JSON for ${sign}: ${error.message}`));
+        } catch (err) {
+          reject(new Error(`Failed to parse JSON for ${sign}: ${err.message}`));
         }
       });
     });
-
-    req.on('error', (error) => reject(error));
+    req.on('error', reject);
     req.end();
   });
 }
 
 async function fetchAllHoroscopes() {
-  console.log('Fetching horoscope data for all zodiac signs...');
+  console.log('=== Fetching Horoscope Data ===');
   const horoscopes = {};
   const errors = [];
 
   for (const sign of zodiacSigns) {
     try {
-      console.log(`Fetching ${sign}...`);
+      console.log(`🔮 Fetching ${sign}...`);
       const data = await fetchHoroscope(sign);
       horoscopes[sign] = data;
-      console.log(`✓ ${sign} - Success`);
-      await new Promise(resolve => setTimeout(resolve, 800));
-    } catch (error) {
-      console.error(`✗ ${sign} - Failed: ${error.message}`);
-      errors.push({ sign, error: error.message });
+      console.log(`✅ ${sign} - OK`);
+      await new Promise(r => setTimeout(r, 800)); // rate limit対策
+    } catch (e) {
+      console.error(`❌ ${sign} - ${e.message}`);
+      errors.push({ sign, error: e.message });
     }
   }
 
+  // JSTの日時
+  const now = new Date();
+  const jst = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
+  const jstDate = jst.toISOString().split('T')[0];
+
   const outputData = {
-    updated_at: new Date().toISOString(),
-    jst_date: getJstDate(), // ✅ JSTの日付も保存
+    updated_at: now.toISOString(),
+    jst_date: jstDate,
     timezone: 'Asia/Tokyo',
     horoscopes,
     errors: errors.length > 0 ? errors : undefined
@@ -76,20 +77,19 @@ async function fetchAllHoroscopes() {
   const dataDir = path.join(__dirname, 'data');
   if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
   const outputPath = path.join(dataDir, 'horoscope.json');
-  fs.writeFileSync(outputPath, Buffer.from(JSON.stringify(outputData, null, 2), 'utf8'));
 
-  console.log('\n=== Summary ===');
-  console.log(`✓ Successfully fetched: ${Object.keys(horoscopes).length}/${zodiacSigns.length} signs`);
-  if (errors.length > 0) console.log(`✗ Failed: ${errors.length} signs`);
-  console.log(`Data saved to: ${outputPath}`);
+  // ✅ BOMなしで書き出し
+  fs.writeFileSync(outputPath, Buffer.from(JSON.stringify(outputData, null, 2), 'utf8'));
+  console.log(`\n✨ Saved to: ${outputPath}`);
+  console.log(`✅ Done (${Object.keys(horoscopes).length} signs)`);
 }
 
 fetchAllHoroscopes()
   .then(() => {
-    console.log('\n✓ Horoscope data update completed successfully!');
+    console.log('\n🌙 Horoscope update completed successfully!');
     process.exit(0);
   })
-  .catch((error) => {
-    console.error('\n✗ Fatal error:', error);
+  .catch((e) => {
+    console.error('\n💀 Fatal error:', e);
     process.exit(1);
   });
