@@ -77,7 +77,7 @@ async function fetchAllHoroscopes() {
   const dataDir = path.join(__dirname, 'data');
   if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
   const outputPath = path.join(dataDir, 'horoscope.json');
-  fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf8');
+  fs.writeFileSync(outputPath, Buffer.from(JSON.stringify(outputData, null, 2), 'utf8'));
 
   console.log('\n=== Summary ===');
   console.log(`✓ Successfully fetched: ${Object.keys(horoscopes).length}/${zodiacSigns.length} signs`);
