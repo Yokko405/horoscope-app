@@ -148,7 +148,7 @@
 
     async function loadHoroscopeData() {
       try {
-        const res = await fetch('./data/horoscope.json');
+        const res = await fetch('https://yokko405.github.io/horoscope-app/data/horoscope.json');
         if (!res.ok) throw new Error('JSON not found');
         horoscopeData = await res.json();
         const updatedAt = new Date(horoscopeData.updated_at);
