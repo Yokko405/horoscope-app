@@ -7,6 +7,9 @@ const fs = require('fs');
 const path = require('path');
 const fetch = require('node-fetch'); // ← これ追加！
 
+// 🌏 JST日付の取得をここで追加！
+const jstDate = new Date().toLocaleDateString('ja-JP', { timeZone: 'Asia/Tokyo' });
+
 const zodiacSigns = [
   'aries', 'taurus', 'gemini', 'cancer',
   'leo', 'virgo', 'libra', 'scorpio',
@@ -97,11 +100,6 @@ async function fetchAllHoroscopes() {
       errors.push({ sign, error: e.message });
     }
   }
-
-  // JSTの日時
-  const now = new Date();
-  const jst = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
-  const jstDate = jst.toISOString().split('T')[0];
 
   const outputData = {
     updated_at: now.toISOString(),
