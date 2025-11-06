@@ -8,7 +8,9 @@ const path = require('path');
 const fetch = require('node-fetch'); // ← これ追加！
 
 // 🌏 JST日付の取得をここで追加！
-const jstDate = new Date().toLocaleDateString('ja-JP', { timeZone: 'Asia/Tokyo' });
+const now = new Date();
+const jst = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
+const jstDate = jst.toISOString().split('T')[0];
 
 const zodiacSigns = [
   'aries', 'taurus', 'gemini', 'cancer',
@@ -113,7 +115,7 @@ async function fetchAllHoroscopes() {
   if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
   const outputPath = path.join(dataDir, 'horoscope.json');
 
-  fs.writeFileSync(outputPath, Buffer.from(JSON.stringify(outputData, null, 2), 'utf8'));
+  fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf8');
   console.log(`\n✨ Saved to: ${outputPath}`);
   console.log(`✅ Done (${Object.keys(horoscopes).length} signs)`);
 }
