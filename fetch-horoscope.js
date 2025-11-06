@@ -1,16 +1,24 @@
-// === Cosmic Fortune Horoscope Fetcher ===
-// API-Ninjas から 12 星座の運勢を取得して JSON 出力 (BOMなし)
-// ＋ Google Translation APIで日本語訳を付与
-
+// === Cosmic Fortune Horoscope Fetcher (Production Ready) ===
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
-const fetch = require('node-fetch'); // ← これ追加！
 
-// 🌏 JST日付の取得をここで追加！
+// 🔐 環境変数チェック
+const NINJA_KEY = process.env.API_NINJAS_KEY;
+const GOOGLE_KEY = process.env.GOOGLE_API_KEY;
+
+if (!NINJA_KEY || !GOOGLE_KEY) {
+  console.error('❌ Error: API keys not found in environment variables');
+  console.error('Required: API_NINJAS_KEY, GOOGLE_API_KEY');
+  process.exit(1);
+}
+
+// 🌏 JST日付の取得
 const now = new Date();
-const jst = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
-const jstDate = jst.toISOString().split('T')[0];
+const jstOffset = 9 * 60 * 60 * 1000;
+const jstDate = new Date(now.getTime() + jstOffset)
+  .toISOString()
+  .split('T')[0];
 
 const zodiacSigns = [
   'aries', 'taurus', 'gemini', 'cancer',
@@ -18,15 +26,12 @@ const zodiacSigns = [
   'sagittarius', 'capricorn', 'aquarius', 'pisces'
 ];
 
-// Secrets から APIキーを取得
-const NINJA_KEY = process.env.API_NINJAS_KEY;
-const GOOGLE_KEY = process.env.GOOGLE_API_KEY;
-
-// --- Google Translation APIで英語→日本語に翻訳 ---
+// --- Google Translation API ---
 async function translateText(text) {
   if (!text) return '';
-
+  
   const url = `https://translation.googleapis.com/language/translate/v2?key=${GOOGLE_KEY}`;
+  
   try {
     const response = await fetch(url, {
       method: "POST",
@@ -38,12 +43,16 @@ async function translateText(text) {
       })
     });
 
+    if (!response.ok) {
+      console.warn(`⚠️ Translation API error: ${response.status}`);
+      return text;
+    }
+
     const data = await response.json();
     return data.data?.translations?.[0]?.translatedText || text;
-
   } catch (error) {
-    console.error("Translation error:", error);
-    return text; // 翻訳失敗時は英語のまま
+    console.error(`Translation error: ${error.message}`);
+    return text;
   }
 }
 
@@ -71,13 +80,19 @@ function fetchHoroscope(sign) {
         }
       });
     });
+
     req.on('error', reject);
+    req.setTimeout(10000, () => {
+      req.destroy();
+      reject(new Error(`Timeout for ${sign}`));
+    });
     req.end();
   });
 }
 
 async function fetchAllHoroscopes() {
   console.log('=== Fetching Horoscope Data ===');
+  
   const horoscopes = {};
   const errors = [];
 
@@ -85,18 +100,20 @@ async function fetchAllHoroscopes() {
     try {
       console.log(`🔮 Fetching ${sign}...`);
       const data = await fetchHoroscope(sign);
-
+      
       // 翻訳
       const englishText = data.horoscope || '';
       const japaneseText = await translateText(englishText);
 
       horoscopes[sign] = {
-        ...data,
+        date: data.date,
+        sign: data.sign,
+        horoscope: englishText,
         horoscope_ja: japaneseText
       };
-
+      
       console.log(`✅ ${sign} - OK`);
-      await new Promise(r => setTimeout(r, 800)); // rate limit対策
+      await new Promise(r => setTimeout(r, 800)); // Rate limit対策
     } catch (e) {
       console.error(`❌ ${sign} - ${e.message}`);
       errors.push({ sign, error: e.message });
@@ -108,16 +125,19 @@ async function fetchAllHoroscopes() {
     jst_date: jstDate,
     timezone: 'Asia/Tokyo',
     horoscopes,
-    errors: errors.length > 0 ? errors : undefined
+    ...(errors.length > 0 && { errors })
   };
 
   const dataDir = path.join(__dirname, 'data');
-  if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
-  const outputPath = path.join(dataDir, 'horoscope.json');
+  if (!fs.existsSync(dataDir)) {
+    fs.mkdirSync(dataDir, { recursive: true });
+  }
 
+  const outputPath = path.join(dataDir, 'horoscope.json');
   fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf8');
+
   console.log(`\n✨ Saved to: ${outputPath}`);
-  console.log(`✅ Done (${Object.keys(horoscopes).length} signs)`);
+  console.log(`✅ Done (${Object.keys(horoscopes).length}/12 signs)`);
 }
 
 fetchAllHoroscopes()
