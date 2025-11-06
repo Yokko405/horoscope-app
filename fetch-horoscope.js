@@ -113,7 +113,7 @@ async function fetchAllHoroscopes() {
       };
       
       console.log(`✅ ${sign} - OK`);
-      await new Promise(r => setTimeout(r, 800)); // Rate limit対策
+      await new Promise(r => setTimeout(r, 800));
     } catch (e) {
       console.error(`❌ ${sign} - ${e.message}`);
       errors.push({ sign, error: e.message });
