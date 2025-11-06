@@ -1,5 +1,4 @@
 name: Update Horoscope Data
-
 on:
   schedule:
     - cron: '0 0 * * *' # UTC0:00 = JST9:00
@@ -7,27 +6,25 @@ on:
 
 jobs:
   update-horoscope:
-    if: github.repository == 'yokko405/horoscope-app'
+    if: github.repository == 'Yokko405/horoscope-app'  # ← 大文字に修正
     runs-on: ubuntu-latest
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # ← v4に更新
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4  # ← v4に更新
         with:
-          node-version: '18'
-
+          node-version: '20'  # ← 20に更新(18もOK)
+      
       - name: Fetch horoscope data (with translation)
         env:
           API_NINJAS_KEY: ${{ secrets.API_NINJAS_KEY }}
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-        run: |
-          npm install node-fetch@2
-          node fetch-horoscope.js
+        run: node fetch-horoscope.js  # ← npm install削除
       
       - name: Commit and push changes
         run: |
