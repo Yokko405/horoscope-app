@@ -138,7 +138,7 @@ async function fetchAllHoroscopes() {
       const japaneseText = await translateText(englishText);
 
       horoscopes[sign] = {
-        date: data.date,
+        date: jstDate, // 現在の日付（JST）を使用
         sign: data.sign,
         horoscope: englishText,
         horoscope_ja: japaneseText
