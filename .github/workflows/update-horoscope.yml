@@ -6,29 +6,37 @@ on:
 
 jobs:
   update-horoscope:
-    if: github.repository == 'Yokko405/horoscope-app'  # ← 大文字に修正
+    if: github.repository == 'Yokko405/horoscope-app'
     runs-on: ubuntu-latest
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  # ← v4に更新
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Node.js
-        uses: actions/setup-node@v4  # ← v4に更新
+        uses: actions/setup-node@v4
         with:
-          node-version: '20'  # ← 20に更新(18もOK)
+          node-version: '20'
       
       - name: Fetch horoscope data (with translation)
         env:
           API_NINJAS_KEY: ${{ secrets.API_NINJAS_KEY }}
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-        run: node fetch-horoscope.js  # ← npm install削除
+        run: |
+          echo "🔮 Starting horoscope update..."
+          node fetch-horoscope.js
+          echo "✅ Script completed"
       
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/horoscope.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update horoscope data $(date +'%Y-%m-%d')" && git push)
+          if git diff --staged --quiet; then
+            echo "ℹ️ No changes to commit"
+          else
+            git commit -m "Update horoscope data $(date +'%Y-%m-%d')" && git push
+            echo "✅ Changes committed and pushed"
+          fi

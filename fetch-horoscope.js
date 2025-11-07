@@ -26,34 +26,66 @@ const zodiacSigns = [
   'sagittarius', 'capricorn', 'aquarius', 'pisces'
 ];
 
-// --- Google Translation API ---
-async function translateText(text) {
-  if (!text) return '';
-  
-  const url = `https://translation.googleapis.com/language/translate/v2?key=${GOOGLE_KEY}`;
-  
-  try {
-    const response = await fetch(url, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        q: text,
-        target: "ja",
-        format: "text",
-      })
-    });
-
-    if (!response.ok) {
-      console.warn(`⚠️ Translation API error: ${response.status}`);
-      return text;
+// --- Google Translation API (httpsモジュール使用) ---
+function translateText(text) {
+  return new Promise((resolve, reject) => {
+    if (!text) {
+      resolve('');
+      return;
     }
 
-    const data = await response.json();
-    return data.data?.translations?.[0]?.translatedText || text;
-  } catch (error) {
-    console.error(`Translation error: ${error.message}`);
-    return text;
-  }
+    const postData = JSON.stringify({
+      q: text,
+      target: 'ja',
+      format: 'text',
+    });
+
+    const options = {
+      hostname: 'translation.googleapis.com',
+      path: `/language/translate/v2?key=${GOOGLE_KEY}`,
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Content-Length': Buffer.byteLength(postData),
+      },
+    };
+
+    const req = https.request(options, (res) => {
+      let data = '';
+      res.on('data', (chunk) => {
+        data += chunk;
+      });
+      res.on('end', () => {
+        if (res.statusCode !== 200) {
+          console.warn(`⚠️ Translation API error: ${res.statusCode}`);
+          resolve(text);
+          return;
+        }
+        try {
+          const json = JSON.parse(data);
+          const translatedText = json.data?.translations?.[0]?.translatedText || text;
+          resolve(translatedText);
+        } catch (err) {
+          console.error(`Translation parse error: ${err.message}`);
+          resolve(text);
+        }
+      });
+    });
+
+    req.on('error', (error) => {
+      console.error(`Translation error: ${error.message}`);
+      resolve(text);
+    });
+
+    req.setTimeout(10000, () => {
+      req.destroy();
+      console.error('Translation timeout');
+      resolve(text);
+    });
+
+    req.write(postData);
+    req.end();
+  });
 }
 
 function fetchHoroscope(sign) {
