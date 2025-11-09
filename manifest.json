@@ -1,0 +1,19 @@
+{
+  "name": "Cosmic Fortune - 今日の運勢",
+  "short_name": "Cosmic Fortune",
+  "description": "毎日自動更新される12星座の運勢アプリ",
+  "start_url": "/horoscope-app/",
+  "display": "standalone",
+  "background_color": "#1e1e2e",
+  "theme_color": "#ffd700",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
