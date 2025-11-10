@@ -1,79 +1,79 @@
 {
-  "updated_at": "2025-11-10T02:04:45.959Z",
-  "jst_date": "2025-11-10",
+  "updated_at": "2025-11-10T16:32:33.863Z",
+  "jst_date": "2025-11-11",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
-      "date": "2025-11-10",
+      "date": "2025-11-11",
       "sign": "Aries",
-      "horoscope": "You could find yourself organizing a gathering or social event today. Expect your attendees to have a flair for the arts or a deep spiritual side. The night promises to be both enjoyable and uplifting. To ensure everything goes smoothly, double-check that all your essentials are ready, from light fixtures to kitchen tools. You wouldn't want any small hiccups to spoil the fun.",
-      "horoscope_ja": "今日は、集まりや社交イベントを企画することになるかもしれません。参加者には芸術的な才能や深いスピリチュアルな側面を持つ人が期待できます。楽しい夜になり、気分も高揚することでしょう。すべてがスムーズに進むように、照明器具からキッチンツールまで、必要なものがすべて揃っているか、もう一度確認してください。ちょっとしたトラブルで楽しい時間を台無しにしたくないですよね。"
+      "horoscope": "Today, you might find that others are counting on you in various aspects, so it's essential to ensure you meet their expectations. It may feel as though you're under scrutiny, as if your actions are being assessed. However, don't let this idea overwhelm you. Remember, the key is to put forth your best effort rather than striving for flawless results.",
+      "horoscope_ja": "今日、あなたは様々な面で周りの人から期待されていることに気づくかもしれません。ですから、彼らの期待に応えることが不可欠です。まるで監視されているかのようで、自分の行動が評価されているように感じるかもしれません。しかし、この考えに圧倒されないでください。重要なのは、完璧な結果を求めるのではなく、全力を尽くすことです。"
     },
     "taurus": {
-      "date": "2025-11-10",
+      "date": "2025-11-11",
       "sign": "Taurus",
-      "horoscope": "Today is the perfect opportunity to dive into your writing endeavors. Your intellect is keen, and your creativity is flowing. You may notice some unexpected yet mostly favorable happenings in your local area. However, be cautious, as the details might be unclear and rumors could be flying around. Hold off on forming any judgments until you have a clearer picture of the situation.",
-      "horoscope_ja": "今日は執筆活動に没頭する絶好の機会です。知性が鋭敏になり、創造力が湧き出てきます。地元で予期せぬ出来事がいくつか起こるかもしれません。しかし、詳細は不明瞭で、噂が飛び交っている可能性もあるので、注意が必要です。状況がより明確になるまでは、判断を控えましょう。"
+      "horoscope": "Avoid getting entangled in the turmoil of others' emotional conflicts today. Your joyful and free-spirited essence deserves to remain unblemished by harsh words and intense feelings. If tensions rise, create a mental barrier to shield yourself. Those embroiled in their own drama might be oblivious to the impact their behavior has on those around them.",
+      "horoscope_ja": "今日は他人の感情的な葛藤に巻き込まれないようにしましょう。あなたの明るく自由な精神は、厳しい言葉や激しい感情に汚されることなく、大切にされなければなりません。緊張が高まったら、自分を守るために精神的なバリアを作りましょう。自分のドラマに巻き込まれている人は、自分の行動が周囲の人々にどのような影響を与えているかに気づいていないかもしれません。"
     },
     "gemini": {
-      "date": "2025-11-10",
+      "date": "2025-11-11",
       "sign": "Gemini",
-      "horoscope": "Financial affairs are on a positive trajectory, yet you may not feel as confident about them as you ought to. An overlooked skill of yours—possibly in the realms of creativity, healing, technology, or a combination of these—might emerge. Consider seeking opportunities to develop this talent further. Exploring various paths could lead to unexpected choices that may pleasantly surprise you.",
-      "horoscope_ja": "経済状況は好調ですが、本来あるべき自信が持てないかもしれません。創造性、ヒーリング、テクノロジー、あるいはこれらの組み合わせなど、これまで見過ごされてきた才能が開花するかもしれません。この才能をさらに伸ばす機会を探ってみてはいかがでしょうか。様々な道を模索することで、思いがけない選択に繋がり、嬉しい驚きを感じるかもしれません。"
+      "horoscope": "Today, you are likely to experience a sense of emotional balance, yet you might find yourself second-guessing your analytical skills. A person in your life is pushing you to expand your perspective, urging you to venture into uncertain territory. While you find comfort in the solid ground of your current beliefs, it's perfectly okay to remain there if you're not ready to embrace the risk just yet.",
+      "horoscope_ja": "今日は感情のバランスが取れているように感じる一方で、自分の分析能力に疑問を抱くこともあるかもしれません。あなたの周りにいる誰かが、視野を広げ、不確かな領域に踏み込むよう促しています。あなたは現在の確固たる信念に安らぎを感じているかもしれませんが、まだリスクを受け入れる準備ができていないのであれば、そこに留まるのも全く問題ありません。"
     },
     "cancer": {
-      "date": "2025-11-10",
+      "date": "2025-11-11",
       "sign": "Cancer",
-      "horoscope": "Today, you may find yourself brimming with idealism, creativity, and a heightened sense of intuition. Your presence radiates a captivating energy that draws in admiration and attention, more than you might typically experience. In matters of the heart, things are looking bright, as a magical vibe envelops your life. Savor this enchanting moment while it lasts, as the everyday grind will return soon enough!",
-      "horoscope_ja": "今日は、理想主義、創造性、そして鋭敏な直感に溢れているかもしれません。あなたの存在は、普段では考えられないほどの、人々の称賛と注目を集める、魅惑的なエネルギーを放っています。恋愛面では、魔法のような雰囲気があなたの人生を包み込み、物事は明るい兆しを見せています。この魅惑的な瞬間を今のうちから味わい尽くしてください。すぐに日常が戻ってきますから！"
+      "horoscope": "Treat yourself to that movie you've been eager to watch for a while. You'll find joy in immersing yourself in a world that's different from your own. Right now, your imagination and love for fantasy are at their peak. Just be cautious not to let burdensome emotional matters that aren't yours drag you down.",
+      "horoscope_ja": "ずっと観たいと思っていた映画を、ぜひ自分にご褒美として観てください。自分とは違う世界に浸ることで、きっと喜びを感じられるでしょう。今、あなたの想像力とファンタジーへの愛は最高潮に達しています。ただ、自分に関係のない重荷となる感情的な問題に引きずられないように気をつけてください。"
     },
     "leo": {
-      "date": "2025-11-10",
+      "date": "2025-11-11",
       "sign": "Leo",
-      "horoscope": "Today, you may find yourself drifting in a dreamy, romantic haze, as if you're floating among the clouds. Everything around you might appear idyllic and enchanting—almost too good to be real. Engaging with technology, like computers or other electronic devices, could ground you and keep you connected to reality. This could also be a great time to explore training in fields like computer graphics or sound engineering.",
-      "horoscope_ja": "今日は、まるで雲間を漂っているかのように、夢のようなロマンチックな霞の中を漂っているかもしれません。周りのすべてが牧歌的で魅惑的に見え、現実とは思えないほど素晴らしいかもしれません。コンピューターやその他の電子機器などのテクノロジーに触れることで、落ち着きを取り戻し、現実との繋がりを保つことができます。また、コンピューターグラフィックスやサウンドエンジニアリングなどの分野でのトレーニングを検討するのにも最適な時期かもしれません。"
+      "horoscope": "You find yourself at a crossroads, caught between two distinct paths. Loved ones are aligning themselves with opposing views, leaving you in a state of indecision. Your ability to empathize with both perspectives complicates your choice, as you may feel inclined to act as a mediator. Remember, the situation isn't as clear-cut as others might perceive; there are shades of gray that deserve recognition.",
+      "horoscope_ja": "あなたは岐路に立たされ、二つの異なる道の間で板挟みになっています。愛する人たちが正反対の意見に同調し、あなたは決断に迷っています。どちらの立場にも共感できるあなたの能力は、仲介役を務めたくなる気持ちを抱かせ、選択を複雑にしています。しかし、状況は他の人が考えるほど単純ではありません。認識すべきグレーゾーンが存在することを忘れないでください。"
     },
     "virgo": {
-      "date": "2025-11-10",
+      "date": "2025-11-11",
       "sign": "Virgo",
-      "horoscope": "Today, your thoughts are likely to be colored by romantic feelings towards your friends. You may find yourself viewing a long-time companion in a fresh, romantic way. The idea of a supportive group might appear to hold the key to resolving your challenges. You could feel an overwhelming appreciation for your friends, believing them to be the best in the world. While this positive perspective is uplifting, just be cautious not to idealize everyone as flawless!",
-      "horoscope_ja": "今日は、友人への恋愛感情に心が支配されやすい日です。長年のパートナーを、新鮮でロマンチックな目で見るようになるかもしれません。支え合える仲間の存在が、あなたの課題解決の鍵となるかもしれません。友人たちへの感謝の気持ちが溢れ、彼らが世界で一番素晴らしいと感じられるかもしれません。こうした前向きな考え方は心を明るくしますが、誰もが完璧だと理想化しないように注意しましょう。"
+      "horoscope": "Exercise caution when it comes to allowing your imagination to take control of your emotions. The elaborate scenarios you create in your mind could lead to disappointment if they don't materialize as you hoped. Today carries a pragmatic vibe, urging you to approach your feelings with seriousness and practicality.",
+      "horoscope_ja": "想像力に感情を支配されてしまうことには注意が必要です。頭の中で作り上げた精巧なシナリオが、期待通りに実現しなかった場合に失望につながる可能性があります。今日は現実的な雰囲気が漂っており、自分の感情に真剣かつ現実的に取り組むよう促されます。"
     },
     "libra": {
-      "date": "2025-11-10",
+      "date": "2025-11-11",
       "sign": "Libra",
-      "horoscope": "With your professional life thriving, you may find yourself lost in fantasies of success and even fame! While it's great to envision your future achievements, remember that this is just the beginning of your journey. Channel your practicality to create a solid plan for moving forward. Remember, dreams require effort and strategy to become reality.",
-      "horoscope_ja": "仕事が順調に進み、成功や名声といった夢に囚われてしまうこともあるかもしれません。将来の成功を思い描くのは素晴らしいことですが、これはまだ旅の始まりに過ぎないことを忘れないでください。現実的な視点で、着実に前進するための計画を立てましょう。夢を実現するには、努力と戦略が必要です。"
+      "horoscope": "Today, your intentions are pure, yet you may struggle to bring your aspirations to life. Creative endeavors, particularly in art and music, might feel especially challenging at the moment. They demand a level of intellectual engagement that you might not be ready to embrace. You may find yourself more inclined towards the spiritual aspects of life, rather than fully engaging with the logical side.",
+      "horoscope_ja": "今日、あなたの意図は純粋ですが、夢を実現するのに苦労するかもしれません。特に芸術や音楽といった創造的な活動は、今は特に困難に感じるかもしれません。それらは、あなたが受け入れる準備ができていないレベルの知的関与を要求するかもしれません。論理的な側面に完全に没頭するよりも、人生の精神的な側面に傾倒していることに気づくかもしれません。"
     },
     "scorpio": {
-      "date": "2025-11-10",
+      "date": "2025-11-11",
       "sign": "Scorpio",
-      "horoscope": "Today, your thoughts are likely to drift towards spiritual or philosophical themes, sparking your curiosity about intriguing new concepts. Some of these ideas may originate from distant places, igniting a desire for travel. Friends or social circles might introduce these notions to you, or you might find yourself sharing your insights with them. To quiet your busy mind before sleep, consider taking a stroll; otherwise, those thoughts may keep you awake!",
-      "horoscope_ja": "今日は、スピリチュアルや哲学的なテーマに思考が傾き、興味深い新しい概念への好奇心が刺激されるかもしれません。こうしたアイデアの中には、遠く離れた場所からやってきたものもあり、旅への憧れを掻き立てるかもしれません。友人や交友関係の人たちからこうした考えを紹介されたり、自分の洞察を彼らと共有したりすることもあるでしょう。寝る前に忙しい心を静めるには、散歩に出かけてみるのも良いでしょう。そうしないと、考え事で眠れなくなってしまうかもしれません。"
+      "horoscope": "Should you encounter obstacles or feelings of irritation today, consider it a prompt to explore a different path. Aim for a day where everything unfolds effortlessly. Be mindful that today, the clash between reality and your dreams may be particularly intense, especially if you haven't clearly distinguished between the two. Embrace your imaginative side, but remember to engage with the real world as well.",
+      "horoscope_ja": "今日、何か障害やイライラに遭遇したら、別の道を模索するきっかけだと捉えましょう。すべてがスムーズに進むような一日を目指しましょう。特に、これまで明確に区別できていなかった場合は、現実と夢の衝突が特に激しくなる可能性があることに注意してください。想像力豊かな面を大切にしつつ、現実世界との関わりも忘れずに。"
     },
     "sagittarius": {
-      "date": "2025-11-10",
+      "date": "2025-11-11",
       "sign": "Sagittarius",
-      "horoscope": "Today, love is likely to dominate your mind. Expect some intriguing dreams tonight that could be filled with romance or spark your creativity—or perhaps a mix of both! Be sure to jot them down, as they may uncover insights about yourself that could be significant. When it comes to finances, your feelings may fluctuate between assurance and anxiety. Remember to stay grounded in reality!",
-      "horoscope_ja": "今日は、愛があなたの心を支配しそうです。今夜は、ロマンスに満ちた、あるいは創造性を刺激するような、興味深い夢を見るかもしれません。あるいは、その両方かもしれません。夢は必ず書き留めてください。自分自身について、重要な洞察が得られるかもしれません。お金のこととなると、安心感と不安の間で揺れ動くかもしれません。現実にしっかりと目を向けることを忘れないでください！"
+      "horoscope": "Embrace your sensual side today, as it often remains hidden. Consider taking a long stroll with a loved one, or create a cozy atmosphere at home with candles in your bedroom or a soothing hot bath. Your senses are heightened right now, making flavors and fragrances particularly delightful. Treat yourself to a romantic dinner for two, but remember to balance your thoughts with the pleasures of the senses—don't let the intellectual take over the joy of experiencing life.",
+      "horoscope_ja": "今日は、隠れがちな官能的な一面を、ぜひ受け入れてください。愛する人と長い散歩に出かけたり、寝室にキャンドルを灯したり、温かいお風呂に浸かって心地よい雰囲気を作ったりしてみてはいかがでしょうか。五感が研ぎ澄まされている今、味覚や香りが特に心地よく感じられます。二人きりでロマンチックなディナーを楽しんでください。ただし、思考と五感の喜びのバランスを忘れないようにしましょう。知的な思考に人生を体験する喜びを奪われないようにしましょう。"
     },
     "capricorn": {
-      "date": "2025-11-10",
+      "date": "2025-11-11",
       "sign": "Capricorn",
-      "horoscope": "Your thoughts are likely to drift towards love today. For those in a marriage, expect to deepen your bond with your spouse. If you're single but dating, your connection might evolve into something more serious. And if you're not currently seeing anyone, be prepared to encounter someone intriguing. A sense of closeness and affection may envelop you. Embrace your partner for who they truly are.",
-      "horoscope_ja": "今日は、あなたの思考が愛へと向かう可能性が高くなります。既婚の方は、配偶者との絆が深まるでしょう。独身で交際中の方は、二人の関係がより真剣なものへと発展するかもしれません。そして、現在交際相手がいない方は、魅力的な人に出会う準備をしておきましょう。親密さと愛情があなたを包み込むかもしれません。パートナーのありのままの姿を受け入れてあげてください。"
+      "horoscope": "Today, you might find yourself caught in a tug-of-war between relaxation and action. One moment, you may feel inclined to take a step back and let events unfold naturally, while the next, you sense a nudge urging you to take initiative. Embracing this duality is key, as both approaches hold their own value. Acknowledge and respect each side of this dynamic.",
+      "horoscope_ja": "今日は、リラックスと行動の間で綱引きをしているかもしれません。ある時は一歩下がって自然に物事が進むのを待ちたい気持ちになる一方で、次の瞬間には、自分から積極的に行動を起こすよう促される衝動を感じるかもしれません。どちらのアプローチにもそれぞれ独自の価値があるため、この二面性を受け入れることが重要です。この力学におけるそれぞれの側面を認め、尊重しましょう。"
     },
     "aquarius": {
-      "date": "2025-11-10",
+      "date": "2025-11-11",
       "sign": "Aquarius",
-      "horoscope": "You're radiating positivity and your appearance is on point, so get ready for some compliments! However, be cautious, as your confidence might lead you to overestimate your energy levels. If you push yourself too hard today, you could end up feeling drained tomorrow. Focus on nourishing your body, ensuring you get plenty of rest, and take things at a steady pace. You'll still manage to check off all your tasks!",
-      "horoscope_ja": "ポジティブな雰囲気が溢れ、見た目も完璧。褒め言葉も期待できそうです！でも、自信過剰になりすぎると、自分のエネルギーレベルを過大評価してしまうこともあるので注意が必要です。今日頑張りすぎると、明日は疲れ切ってしまうかもしれません。体に栄養を与え、十分な休息を取り、物事を着実に進めていきましょう。そうすれば、きっとすべてのタスクをこなせるはずです！"
+      "horoscope": "Today, you might find yourself navigating through intense feelings—embrace them as your strength rather than a weakness. Your heart may feel a bit battered, so take the time to nurture it with kindness. Be cautious about allowing others to draw too near, especially if they lack the sensitivity to handle your delicate emotions. Prioritize your own well-being and shield yourself.",
+      "horoscope_ja": "今日は激しい感情に振り回されているかもしれません。それを弱さではなく、強さとして受け止めてください。心が少し傷ついているかもしれません。ですから、時間をかけて優しく寄り添いましょう。特に、あなたの繊細な感情をうまく扱えないような人に、あまり近づかないように気を付けてください。自分の健康を最優先に考え、自分を守りましょう。"
     },
     "pisces": {
-      "date": "2025-11-10",
+      "date": "2025-11-11",
       "sign": "Pisces",
-      "horoscope": "Love is wrapped in a dreamy atmosphere today, making your partner seem like they’ve walked straight out of a storybook. Remember, even the most enchanting characters have their imperfections, and those quirks can be quite charming! Your creative spirit is soaring, and any artistic endeavors you embark on may carry a magical essence that enhances their beauty and significance. Embrace this inspiration!",
-      "horoscope_ja": "今日、愛は夢のような雰囲気に包まれ、あなたのパートナーはまるで絵本から飛び出してきたかのようです。どんなに魅力的な人物にも欠点はあるものです。そして、その欠点こそが、時にとても魅力的になることもあるのです！あなたの創造力は高揚し、どんな芸術的な試みにも、その美しさと意義を高める魔法のエッセンスが宿るかもしれません。このインスピレーションを、ぜひ受け入れてください！"
+      "horoscope": "Today’s restlessness is a gentle nudge from the universe, urging you to dive into creative pursuits or musical activities that bring you joy. Seek inspiration from those who boldly chase their passions. Remember, it’s not about others’ opinions of your creations; focus on doing what fulfills you.",
+      "horoscope_ja": "今日の落ち着きのなさは、宇宙からの優しい促しです。喜びをもたらしてくれる創造的な活動や音楽活動に没頭するよう促しています。情熱を大胆に追いかける人々からインスピレーションを得ましょう。他人の意見ではなく、自分が心から満たされることをすることに集中しましょう。"
     }
   }
 }
