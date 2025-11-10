@@ -1,6 +1,6 @@
 # ✨ Cosmic Fortune - 今日の運勢
 
-![Favicon](https://raw.githubusercontent.com/Yokko405/horoscope-app/main/favicon.svg)
+![Favicon](https://raw.githubusercontent.com/Yokko405/horoscope-app/main/icon-512.png)
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)
 ![Workflow](https://img.shields.io/github/actions/workflow/status/yokko405/horoscope-app/update-horoscope.yml?label=Auto%20Update)
