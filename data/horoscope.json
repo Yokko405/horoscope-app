@@ -1,79 +1,79 @@
 {
-  "updated_at": "2025-12-08T16:34:14.511Z",
-  "jst_date": "2025-12-09",
+  "updated_at": "2025-12-09T16:32:59.490Z",
+  "jst_date": "2025-12-10",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
-      "date": "2025-12-09",
+      "date": "2025-12-10",
       "sign": "Aries",
-      "horoscope": "You may find yourself organizing a gathering or meeting at your place today, attracting a diverse group of intriguing individuals. Many of them could bring valuable insights to the table. It's an excellent opportunity to focus on financial growth, whether for yourself or a cause close to your heart. If you're involved in fundraising, now is the time to brainstorm some innovative strategies.",
-      "horoscope_ja": "今日はご自宅で集まりや会議を企画されるかもしれません。様々な興味深い方々が集まり、貴重な知見を共有してくれるかもしれません。ご自身のためであれ、大切な活動のためであれ、経済的な成長に焦点を当てる絶好の機会です。資金調達に携わっている方は、革新的な戦略をブレインストーミングする絶好の機会です。"
+      "horoscope": "Today, your charisma will shine brightly! Your allure will reach new heights, especially in your career. If you have aspirations, dreams, or are seeking a salary increase, now is the perfect moment to voice those ambitions. Simply articulate your desires and allow your charm to work its magic.",
+      "horoscope_ja": "今日、あなたのカリスマ性は輝きを放ちます！特に仕事において、あなたの魅力は新たな高みへと到達するでしょう。もしあなたが大きな野望や夢を抱いているなら、あるいは昇給を望んでいるなら、今こそそれらを声に出す絶好の機会です。ただ自分の願望を言葉にするだけで、あなたの魅力が魔法のように発揮されるでしょう。"
     },
     "taurus": {
-      "date": "2025-12-09",
+      "date": "2025-12-10",
       "sign": "Taurus",
-      "horoscope": "Today, you might receive a heartfelt call from a family member or dear friend, possibly signaling a need for support. You're particularly well-prepared to lend a hand, but it's important to maintain a level head. The individual may be overstating their troubles or misinterpreting the situation. In fact, you may find that all forms of communication are a bit muddled today, making it challenging to distinguish between genuine concerns and mere anxieties.",
-      "horoscope_ja": "今日、家族や親しい友人から心のこもった電話がかかってくるかもしれません。それは、もしかしたらサポートを必要としているサインかもしれません。あなたは特に手を差し伸べる準備ができていますが、冷静さを保つことが大切です。相手は自分の悩みを大げさに表現したり、状況を誤解したりしているかもしれません。実際、今日はあらゆるコミュニケーションが少し混乱し、真の心配事と単なる不安の区別が難しくなるかもしれません。"
+      "horoscope": "You're embarking on a journey of rediscovering your dreams. The past few months may have felt challenging, as if your options were constrained. However, you've put in significant effort to bridge the gap between your aspirations and the real world. This hard work has sparked a renewed passion for pursuing your dreams! Chase after them, but remember to be kind to yourself in the process.",
+      "horoscope_ja": "あなたは今、自分の夢を再発見する旅に出ています。ここ数ヶ月は、選択肢が限られているように感じ、困難を感じたかもしれません。しかし、あなたは自分の夢と現実世界とのギャップを埋めるために、多大な努力を重ねてきました。この努力が、夢を追い求める情熱を新たに呼び起こしました。夢を追いかけましょう。ただし、その過程では、自分自身に優しくすることも忘れないでください。"
     },
     "gemini": {
-      "date": "2025-12-09",
+      "date": "2025-12-10",
       "sign": "Gemini",
-      "horoscope": "Diving into technology or computer-related projects might uncover a surprising talent within you. You may choose to nurture this newfound skill, as it has the potential to enhance your financial prospects. Your friends could lend a hand, whether it's with this endeavor or other issues you face. By the time the day wraps up, you'll find yourself feeling more centered and clear-headed than before.",
-      "horoscope_ja": "テクノロジーやコンピューター関連のプロジェクトに没頭することで、あなたの中に眠る意外な才能が発見されるかもしれません。この新しく発見したスキルは、経済的な見通しを向上させる可能性を秘めているので、ぜひ磨いてみてください。友人たちは、このプロジェクトだけでなく、あなたが直面している他の問題にも手を貸してくれるかもしれません。一日が終わる頃には、以前よりも落ち着きと明晰さを取り戻していることに気づくでしょう。"
+      "horoscope": "Expect a delightful surprise in your personal relationships today. Those close to you might express their gratitude in unexpected ways. Regardless, you have a fantastic opportunity to be in the limelight, shining brightly and looking your best. Embrace the admiration that comes your way!",
+      "horoscope_ja": "今日は、人間関係において嬉しいサプライズが期待できます。身近な人が思いがけない形で感謝の気持ちを表してくれるかもしれません。いずれにせよ、脚光を浴び、明るく輝き、最高の自分を見せられる絶好の機会です。あなたに向けられる称賛を、心から受け止めてください！"
     },
     "cancer": {
-      "date": "2025-12-09",
+      "date": "2025-12-10",
       "sign": "Cancer",
-      "horoscope": "Your thoughts are racing at lightning speed today, with a whirlwind of ideas, passions, ambitions, and projects swirling in your head. Make sure to jot them down! Review your list to identify which concepts are feasible, which require immediate attention, and which can be postponed. Consider taking a leisurely stroll before bedtime; otherwise, you may find it hard to drift off to sleep.",
-      "horoscope_ja": "今日は頭の中でアイデア、情熱、野心、そしてプロジェクトが渦巻き、思考が電光石火の速さで駆け巡っていることでしょう。それらを必ず書き留めてください！リストを見直し、実現可能なアイデア、すぐに対応が必要なアイデア、そして延期できるアイデアを識別しましょう。寝る前にゆっくりと散歩に出かけるのも良いでしょう。そうしないと、なかなか眠りに落ちないかもしれません。"
+      "horoscope": "Today is a day brimming with potential for good fortune, particularly in your relationships. You might find a friend connecting you with someone extraordinary who can help you achieve your career dreams. Alternatively, your partner could delight you with a surprise gift that shows how much they care. No matter how your luck unfolds, have faith that today is set to be truly wonderful.",
+      "horoscope_ja": "今日は幸運に恵まれる可能性に満ちた日です。特に人間関係において幸運が訪れるでしょう。友人が、あなたのキャリアの夢の実現を助けてくれる素晴らしい人との縁を結んでくれるかもしれません。あるいは、パートナーが、あなたのことをどれだけ大切に思っているかを示すサプライズギフトで、あなたを喜ばせるかもしれません。どんな運勢に転がろうとも、今日が本当に素晴らしい日になると信じてください。"
     },
     "leo": {
-      "date": "2025-12-09",
+      "date": "2025-12-10",
       "sign": "Leo",
-      "horoscope": "Today, you may find yourself drawn to the mysteries of the universe, whether it be through occult practices, alchemy, or astrology. Consider attending a lecture or enrolling in a workshop to deepen your understanding. Your intellect is particularly keen right now, allowing you to absorb information quickly and effectively. Engaging in reading or hands-on experimentation can yield significant insights. Additionally, exploring meditation, rituals, or even past-life regression could be enriching experiences for you.",
-      "horoscope_ja": "今日、あなたはオカルト、錬金術、占星術などを通して、宇宙の神秘に惹かれるかもしれません。理解を深めるために、講演会やワークショップに参加してみてはいかがでしょうか。あなたの知性は今、特に鋭敏で、情報を素早く効果的に吸収することができます。読書や実践的な実験に取り組むことで、深い洞察が得られるかもしれません。さらに、瞑想、儀式、あるいは前世回帰といった探求も、あなたにとって豊かな経験となるでしょう。"
+      "horoscope": "After a few days of tension, you might find that the mood has lightened considerably today. You could even find yourself sharing friendly conversations with those you’ve previously struggled to connect with. Embrace the tranquility of this day, allowing the soothing cosmic vibes to guide you as you savor the peaceful moments.",
+      "horoscope_ja": "数日間の緊張が続いた後、今日は気分がかなり軽くなっていることに気づくかもしれません。これまでなかなか繋がりを持てなかった人たちと、友好的な会話を交わせるようになるかもしれません。この日の静けさを受け入れ、心地よい宇宙の波動に導かれながら、穏やかなひとときを心ゆくまで味わってください。"
     },
     "virgo": {
-      "date": "2025-12-09",
+      "date": "2025-12-10",
       "sign": "Virgo",
-      "horoscope": "Today, you might find yourself drawn to friends who share your passion for the arts and sciences. It’s a great time to collaborate and bounce around some creative ideas. Your innovative spirit is likely to shine, and you may have valuable insights to share. Engaging in group activities, especially those focused on humanitarian efforts, will be particularly rewarding. Expect a lively and productive day ahead, but remember to pace yourself to avoid exhaustion.",
-      "horoscope_ja": "今日は、芸術や科学への情熱を共有する友人との出会いに惹かれるかもしれません。協力し合い、創造的なアイデアを出し合う絶好の機会です。あなたの革新的な精神が輝き、貴重な洞察を共有できるかもしれません。特に人道支援活動に焦点を当てたグループ活動に参加すると、大きな成果が得られるでしょう。活気に満ちた生産的な一日になるでしょうが、疲れすぎないようペースを守ることを忘れないでください。"
+      "horoscope": "Are you set on capturing the heart of someone special? Have you poured a lot of effort into this pursuit recently? Perhaps you're looking to breathe new life into your marriage? Today is incredibly favorable for matters of the heart. It's the perfect moment to indulge in playful flirting, pen heartfelt love notes, and stroll hand in hand down romantic paths!",
+      "horoscope_ja": "特別な人の心を掴もうと決心していますか？最近、そのことに力を入れましたか？それとも、結婚生活に新たな息吹を吹き込みたいとお考えですか？今日は恋愛に絶好のチャンスです。軽快な戯れに耽ったり、心のこもったラブレターを書いたり、手をつないでロマンチックな散歩道を歩いたりするのに最適な瞬間です！"
     },
     "libra": {
-      "date": "2025-12-09",
+      "date": "2025-12-10",
       "sign": "Libra",
-      "horoscope": "Today is best spent under the radar. Be cautious of any attention directed your way, as it may not be genuine. Stay wary of those who pry too much or show excessive curiosity about your activities. It's not an ideal time to embark on new ventures or deepen connections with unfamiliar faces. Instead, immerse yourself in your personal passions and interests.",
-      "horoscope_ja": "今日は目立たないように過ごすのがベストです。自分に向けられる注目には注意しましょう。それは本物ではないかもしれません。あなたの行動を詮索したり、過剰な好奇心を示したりしている人には注意が必要です。新しい事業に乗り出したり、知らない人との繋がりを深めたりするには、理想的な時期ではありません。むしろ、自分の情熱や興味に没頭しましょう。"
+      "horoscope": "Embrace today as a perfect opportunity to enjoy the warmth of your beloved home with your family. It’s a delightful day filled with the comforts of home. A serene and harmonious vibe prevails, easing any household stress. Use this time to rejuvenate your spirit, as you’ll want to be fully energized for what tomorrow brings.",
+      "horoscope_ja": "今日は、ご家族と共に愛する我が家の温かさを満喫する絶好の機会です。我が家の心地よさに満ちた、素敵な一日です。穏やかで調和のとれた雰囲気が、家庭のストレスを和らげてくれます。明日への活力を十分に蓄えるためにも、この時間を活用して心をリフレッシュしましょう。"
     },
     "scorpio": {
-      "date": "2025-12-09",
+      "date": "2025-12-10",
       "sign": "Scorpio",
-      "horoscope": "Today, your mind may be buzzing with a multitude of future possibilities. Inspiration will flow freely, and you might feel a surge of creativity and enthusiasm. However, with so many ideas swirling around, it could be challenging to pinpoint which ones are the most feasible. Embrace this energy and take the opportunity to outline your plans and brainstorm for your creative endeavors.",
-      "horoscope_ja": "今日は、未来への様々な可能性が頭の中を駆け巡っているかもしれません。インスピレーションが湧き出し、創造性と情熱が湧き上がるかもしれません。しかし、あまりにも多くのアイデアが渦巻く中で、どれが最も実現可能なのかを見極めるのは難しいかもしれません。このエネルギーを受け入れ、創造的な取り組みのための計画を練り、ブレインストーミングする機会を捉えましょう。"
+      "horoscope": "Today is a wonderful opportunity for those who possess curiosity and creativity—like yourself! Although you might not be feeling your best emotionally, you'll find yourself appreciating the positive experiences that come your way. If you're looking to connect with others or dive into new adventures with friends, now is the perfect time. The cosmic energy is perfect for enjoyment and fun!",
+      "horoscope_ja": "今日は、あなたのように好奇心と創造性に溢れる人にとって、素晴らしいチャンスです！感情面ではベストな状態ではないかもしれませんが、訪れるポジティブな経験に感謝する気持ちが湧いてくるでしょう。他の人と繋がりたい、友達と新しい冒険に飛び込みたいなら、今がまさに絶好のタイミングです。宇宙のエネルギーは、楽しみと喜びに満ち溢れています！"
     },
     "sagittarius": {
-      "date": "2025-12-09",
+      "date": "2025-12-10",
       "sign": "Sagittarius",
-      "horoscope": "You may find yourself tossing and turning tonight, with restless sleep and peculiar dreams leaving you feeling a bit unmotivated. It's time to shake off that lethargy! Keep an eye out for opportunities that could present themselves, as you'll be inspired to generate some intriguing new concepts. Just be aware that your energy might fluctuate throughout the day. To harness the best of the cosmic influences, make sure to nourish yourself well and maintain your focus.",
-      "horoscope_ja": "今夜は寝返りを打ち、眠れず、奇妙な夢を見て、少しやる気が出ないかもしれません。そんな無気力感を吹き飛ばす時です！何か新しい興味深いアイデアを生み出すインスピレーションが湧いてくるかもしれませんので、チャンスが訪れる可能性に目を光らせてください。ただし、一日を通してエネルギーが変動する可能性があることに注意してください。宇宙からの恵みを最大限に活用するには、栄養をしっかり摂り、集中力を維持することが大切です。"
+      "horoscope": "If you've been feeling downcast recently, today is set to lift your spirits. You can step forward with complete assurance in the cosmic energies at play. Your allure will be heightened, making you even more captivating to those around you. Expect a wealth of fulfilling moments in both your professional and romantic endeavors!",
+      "horoscope_ja": "最近、気分が落ち込んでいるなら、今日は気分が晴れやかになるでしょう。宇宙のエネルギーに身を委ね、自信を持って一歩踏み出せるでしょう。あなたの魅力は高まり、周りの人々をさらに魅了するでしょう。仕事でも恋愛でも、充実した瞬間がたくさんあるでしょう！"
     },
     "capricorn": {
-      "date": "2025-12-09",
+      "date": "2025-12-10",
       "sign": "Capricorn",
-      "horoscope": "You might find yourself experiencing emotional ups and downs today, leading to some friction with your partner. Be cautious, as you may misinterpret harmless comments as slights. Communication may feel a bit off, so taking some time for yourself to engage in enjoyable activities could be beneficial. This will help clear away any negative vibes. When you reconnect with your partner, you'll be able to bring back your delightful charm.",
-      "horoscope_ja": "今日は感情の起伏が激しく、パートナーとの間に軋みが生じるかもしれません。無害な発言を軽蔑と誤解してしまうこともあるので、注意が必要です。コミュニケーションがうまくいかないこともあるでしょうから、楽しいアクティビティに時間を費やすのも良いでしょう。そうすることで、ネガティブな感情を吹き飛ばすことができます。パートナーと再び繋がりを持てば、本来の愛すべき魅力を取り戻せるでしょう。"
+      "horoscope": "Today, your shine and charisma steal the spotlight, making you the center of attention! You're truly a star! Others may look to you for guidance and inspiration. While you relish this leadership role, don’t overlook the importance of treating yourself. Consider pampering yourself with a small gift, embarking on a fun adventure, or simply enjoying some solitude—these little joys could be just what you need.",
+      "horoscope_ja": "今日、あなたの輝きとカリスマ性がスポットライトを浴び、注目を集めるでしょう！あなたはまさにスターです！周りの人々はあなたに導きとインスピレーションを求めるかもしれません。リーダーシップを発揮するこの役割を心から楽しんでいる一方で、自分へのご褒美も忘れてはいけません。ちょっとしたプレゼントで自分を甘やかしたり、楽しい冒険に出かけたり、ただ一人で過ごしたりしてみてはいかがでしょうか。こうした小さな喜びこそが、まさにあなたが必要としているものかもしれません。"
     },
     "aquarius": {
-      "date": "2025-12-09",
+      "date": "2025-12-10",
       "sign": "Aquarius",
-      "horoscope": "Today, you might experience a sudden surge of inspiration that feels electrifying. Your creativity and inventiveness are at their peak, making it a perfect time to bring your ideas to life. Expect your creations to garner plenty of admiration. However, be mindful of your nerves; if you encounter some obstacles, take a deep breath and stay composed to navigate through them smoothly.",
-      "horoscope_ja": "今日は、電撃的なインスピレーションが突然湧き上がるかもしれません。創造性と発明力がピークに達し、アイデアを実現する絶好の機会です。あなたの作品は多くの称賛を集めるでしょう。しかし、緊張にはご注意ください。もし何か障害に遭遇したとしても、深呼吸をして冷静さを保ち、スムーズに乗り越えてください。"
+      "horoscope": "Today brings a wave of positivity your way. You’re likely to feel a sense of tranquility and equilibrium, making you more patient with the fluctuating emotions and whims of those around you. If possible, carve out a little time from your hectic agenda to focus on yourself. While self-care may not be your usual practice, indulging in it today could be incredibly beneficial.",
+      "horoscope_ja": "今日はポジティブな波があなたに訪れます。静けさと平衡感覚を感じ、周りの人の感情の揺れ動きや気まぐれに、より寛容になれるでしょう。可能であれば、慌ただしい日々の合間を縫って、少し時間を作り、自分自身に集中してみましょう。普段はセルフケアを実践していないかもしれませんが、今日はじっくりとセルフケアに取り組んでみることで、大きな効果が得られるかもしれません。"
     },
     "pisces": {
-      "date": "2025-12-09",
+      "date": "2025-12-10",
       "sign": "Pisces",
-      "horoscope": "You may find unexpected support for your creative endeavors, whether it's through collaboration or promotion, which will spark your inspiration. Now is a fantastic moment to showcase your work to the world or to influential individuals. Your innovative spirit is particularly strong right now, so seize this opportunity to shine. You might just astonish yourself with what you can achieve!",
-      "horoscope_ja": "コラボレーションやプロモーションなど、あなたの創造的な取り組みに思いがけない支援が舞い込み、インスピレーションが刺激されるかもしれません。今こそ、あなたの作品を世界や影響力のある人々に披露する絶好の機会です。あなたの革新的な精神は今、特に高まっています。この機会を逃さず輝かせてください。きっと、あなた自身が驚くほどの成果をあげられるでしょう！"
+      "horoscope": "Today, you'll experience a profound sense of connection to your life. The clarity around you will illuminate the strides you've taken toward your aspirations, filling you with a sense of fulfillment. It's a day to bask in your achievements, as you often do when you recognize the significance of your journey. However, remember that there are still tasks awaiting your attention.",
+      "horoscope_ja": "今日は、人生との深い繋がりを実感するでしょう。周囲の明晰さが、あなたが夢に向かって歩んできた道のりを照らし出し、充実感に満たされるでしょう。これまでの道のりの意義に気づいた時によくするように、今日は達成感に浸る日です。しかし、まだあなたが取り組むべき課題が残っていることを忘れないでください。"
     }
   }
 }
