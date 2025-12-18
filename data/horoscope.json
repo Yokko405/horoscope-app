@@ -1,79 +1,79 @@
 {
-  "updated_at": "2025-12-17T16:35:08.946Z",
-  "jst_date": "2025-12-18",
+  "updated_at": "2025-12-18T16:36:09.131Z",
+  "jst_date": "2025-12-19",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "sign": "Aries",
-      "horoscope": "You might find it challenging to align with today’s popular vibes. While the atmosphere is breezy and carefree, you may crave a deeper connection. Consider stepping back from your usual intensity and embrace a lighter approach. Engage in social interactions and enjoy the moment. By syncing with the day's energy, you could achieve a greater sense of balance and wholeness.",
-      "horoscope_ja": "今日の流行の雰囲気に合わせるのは難しいと感じるかもしれません。さわやかで気楽な雰囲気がある一方で、より深い繋がりを求めているかもしれません。いつもの緊張感から少し距離を置き、軽やかなアプローチを取り入れてみてはいかがでしょうか。人と交流し、その瞬間を楽しんでください。その日のエネルギーに同調することで、よりバランスの取れた、より充実した感覚を得られるかもしれません。"
+      "horoscope": "Today brings a positive opportunity for you to find balance amidst your strong feelings. You might feel a surge of assertiveness, but if you manage to channel this energy wisely, everything will go smoothly. Avoid unnecessary conflicts; instead, focus on staying grounded and accomplishing your tasks. Your attention will be best directed towards practical matters.",
+      "horoscope_ja": "今日は、激しい感情の中でバランスを見つける良い機会です。自己主張が強くなるかもしれませんが、そのエネルギーを賢くコントロールできれば、全てがスムーズに進むでしょう。不必要な衝突は避け、地に足をつけ、自分の課題をこなすことに集中しましょう。そうすれば、現実的な問題に意識を集中できるでしょう。"
     },
     "taurus": {
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "sign": "Taurus",
-      "horoscope": "Today could bring a peak of emotions for you, as situations may reach a boiling point. Be prepared for some significant pushback from others. While it's important to channel your energy openly, you might find that some individuals are trying to steer you off course. Embracing adaptability will be crucial. Break free from any limitations and allow yourself to think on your feet.",
-      "horoscope_ja": "今日は感情が頂点に達する日かもしれません。状況が沸点に達するかもしれません。周囲からの強い反発に備えましょう。自分のエネルギーをオープンに発散することは大切ですが、中にはあなたを軌道から外そうとする人もいるかもしれません。適応力を持つことが不可欠です。あらゆる制約から解放され、臨機応変に考えてみましょう。"
+      "horoscope": "Today, your emotions may feel particularly intense and assertive. It's essential to stay grounded and approach your responsibilities with a level head. Embrace honesty and empathy in your interactions, as vague expressions won't resonate unless they serve a clear purpose. Take some time to nurture your plants and tidy up your outdoor space. The more connected you are to nature today, the more beneficial it will be.",
+      "horoscope_ja": "今日は、感情が特に激しくなり、自己主張が強くなるかもしれません。地に足をつけ、冷静に責任を果たすことが大切です。会話では誠実さと共感を大切にしましょう。曖昧な表現は、明確な目的がなければ相手に響かないでしょう。少し時間を取って、植物を育て、屋外のスペースを整理しましょう。今日、自然との繋がりを深めるほど、自然はより豊かになります。"
     },
     "gemini": {
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "sign": "Gemini",
-      "horoscope": "Today, you might feel pulled in various directions, but there’s a sense of resistance holding you back. This frustrating clash of energies could hinder your ability to fully enjoy the day, but remember, you have the strength to navigate through it. Take your time and avoid rushing into decisions. Carefully consider all your options before settling on a choice. If nothing feels right, it’s perfectly okay to take a step back.",
-      "horoscope_ja": "今日は、様々な方向に引っ張られるような感覚があるかもしれませんが、抵抗感があなたを阻んでいるかもしれません。このもどかしいエネルギーの衝突は、一日を存分に楽しむことを妨げるかもしれませんが、あなたにはそれを乗り越える力があることを覚えておいてください。時間をかけて、決断を急がないでください。決断する前に、すべての選択肢を慎重に検討してください。もしどれもしっくりこないと感じたら、一歩引いても全く問題ありません。"
+      "horoscope": "Seize the opportunities this day presents, as such vibrant energy is rare. Embrace the assertive drive within you that pushes for action. Rather than letting the volume of tasks overwhelm you, tap into that inner motivation. Focus on practical responsibilities and address any matters related to your ambitions and professional path.",
+      "horoscope_ja": "この日がもたらすチャンスを掴みましょう。これほど活力に満ちたエネルギーは滅多にありません。行動を後押しする、あなたの内なる力強い衝動を受け入れましょう。膨大なタスクに圧倒されるのではなく、内なるモチベーションを引き出しましょう。現実的な責任に集中し、あなたの野心やキャリアパスに関連する問題に対処しましょう。"
     },
     "cancer": {
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "sign": "Cancer",
-      "horoscope": "Today, you might find your emotions feeling a bit heavy, yet overall, the stars are aligned in your favor. The connections you forge now could prove to be incredibly beneficial. Engaging with others may lead to valuable insights. It's an excellent day for juggling multiple tasks and checking off as many items from your to-do list as you can.",
-      "horoscope_ja": "今日は少し感情が重苦しいかもしれませんが、全体的には星の配置があなたに味方しています。今築き上げた繋がりは、非常に有益なものとなるでしょう。他の人と交流することで、貴重な洞察が得られるかもしれません。複数のタスクをこなし、ToDoリストの項目をできるだけ多くこなしていくには絶好の日です。"
+      "horoscope": "As the day unfolds, it might feel sluggish unless you take a moment to ground yourself and harness your intense feelings. While your typical emotional distance can aid in tackling problems intellectually, today calls for a deeper emotional engagement. Focus on establishing greater stability in your life. Approach any pressing tasks with determination and a proactive mindset to ensure they are completed.",
+      "horoscope_ja": "一日が進むにつれて、少し時間を取って落ち着きを取り戻し、激しい感情をコントロールしないと、だるく感じるかもしれません。普段は感情的に距離を置くことで、知的に問題に取り組むことができますが、今日はより深く感情的に向き合う必要があります。生活の安定をより確かなものにすることに集中しましょう。差し迫った課題には、決意と積極的な姿勢で取り組み、確実に完了させましょう。"
     },
     "leo": {
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "sign": "Leo",
-      "horoscope": "Today, it might feel as though those around you are lacking in empathy. In the midst of this, you may find yourself grappling with uncertainty and hesitation about your next steps. Remember, others are eager to hear your thoughts and opinions. Don’t hesitate to express yourself, even if your views differ from the prevailing sentiment. If things don’t unfold as you’d hoped, don’t let it bring you down; brighter days are just around the corner.",
-      "horoscope_ja": "今日は、周りの人たちの共感力が欠けているように感じるかもしれません。そんな中で、あなたは次のステップについて不安やためらいに悩まされているかもしれません。周りの人はあなたの考えや意見を聞きたがっていることを忘れないでください。たとえあなたの意見が世間の風潮と異なっていても、ためらわずに自分の考えを伝えてください。たとえ物事が期待通りに進まなくても、落ち込まないでください。明るい未来はすぐそこです。"
+      "horoscope": "Today, it might be wise to come back down to earth and address some of the practical matters you've been sidestepping. Your emotions are particularly intense right now, and you may find yourself feeling more assertive than usual. Harness this potent energy to propel yourself forward. Remember, it's important to stay true to your own path and not let others influence your decisions.",
+      "horoscope_ja": "今日は、地に足をつけて、これまで避けてきた現実的な問題に取り組むのが賢明かもしれません。今は感情が特に激しく、いつもより積極的になっているかもしれません。この力強いエネルギーを活かして、自分を前進させましょう。自分の道を歩み続け、他人に左右されないことが大切です。"
     },
     "virgo": {
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "sign": "Virgo",
-      "horoscope": "Today, you might find your emotions feeling a bit subdued, but don’t let that bring you down. Instead, harness this energy to your advantage. Focus on activities that demand discipline and determination. Shift into a serious mindset and make progress on your to-do list. Take on practical tasks that call for a steady approach and concentrated thinking. You have the potential to achieve a lot today.",
-      "horoscope_ja": "今日は少し感情が抑えられているように感じるかもしれませんが、落ち込む必要はありません。むしろ、このエネルギーを逆手に取って、自分の強みに変えましょう。規律と決意が求められる活動に集中しましょう。真剣な気持ちで、ToDoリストを着実に進めていきましょう。着実なアプローチと集中力を要する実践的なタスクに取り組んでみましょう。今日は多くのことを達成できる可能性を秘めています。"
+      "horoscope": "Today, your feelings are likely to hit with extra intensity, and you may find yourself taking them to heart. There's a powerful urge within you to protect your emotional well-being. The key is to remain centered and attentive. By planning and organizing your tasks, you'll accomplish a lot. Remember to avoid impulsive reactions if someone challenges you.",
+      "horoscope_ja": "今日は、感情がいつもより激しく揺さぶられ、ついつい心に留めてしまうかもしれません。心の健康を守りたいという強い衝動が、あなたの中に芽生えています。大切なのは、冷静さを保ち、注意深くいることです。計画を立て、タスクを整理することで、多くのことを達成できるでしょう。誰かに反論されたとしても、衝動的な反応は避けましょう。"
     },
     "libra": {
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "sign": "Libra",
-      "horoscope": "Today is charged with a whirlwind of activity that could make you feel somewhat sidelined. While you might prefer a more leisurely pace, the vibrant energy of the day encourages you to act swiftly. Embrace the opportunity to socialize and connect with others, as this is an ideal moment for networking. Juggling multiple tasks will serve you well, so stay adaptable and keep your sense of humor at the ready.",
-      "horoscope_ja": "今日は目まぐるしい活動で、どこか取り残されたような気分になるかもしれません。もっとゆったりとしたペースを好むかもしれませんが、活気に満ちたこの日は、迅速な行動を促します。人脈を広げる絶好の機会なので、交流し、人とつながる機会を大切にしましょう。複数のタスクをこなすことはあなたにとって良い結果をもたらすので、柔軟性を保ち、ユーモアのセンスも忘れずに。"
+      "horoscope": "Today shines brightly for you! Your emotions are at a high point, infused with an extra dose of strength that will empower you to face any challenges head-on. The encouraging news is that your careful planning is likely to bear fruit. You have powerful energies supporting you, propelling you forward on your journey toward your aspirations.",
+      "horoscope_ja": "今日はあなたにとって輝かしい一日です！感情が最高潮に達し、どんな困難にも正面から立ち向かう力を与えてくれる、さらなる強さが湧いています。心強い知らせは、綿密な計画が実を結ぶ可能性が高いということです。あなたを支え、夢に向かって進む力強いエネルギーがあなたを突き動かしています。"
     },
     "scorpio": {
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "sign": "Scorpio",
-      "horoscope": "Today shines brightly for you! You'll find that others resonate with your vibe more than ever, making it a perfect time to achieve your goals. Embracing a structured mindset could serve you well, so aim for a more pragmatic approach in your endeavors. Expect to maintain a cheerful disposition throughout the day, as your sharp wit and sense of humor will help you navigate any challenges with ease.",
-      "horoscope_ja": "今日はあなたにとって輝かしい一日です！周りの人たちがこれまで以上にあなたの雰囲気に共感してくれることに気づくでしょう。目標達成には絶好の機会です。計画的な思考を持つことがあなたにとって良い結果をもたらすでしょう。より現実的なアプローチで物事に取り組んでみてください。鋭いウィットとユーモアのセンスでどんな困難も乗り越えられるので、一日中明るい気分でいられるでしょう。"
+      "horoscope": "Today, it's time to ground your whimsical spirit. Allow others the space to express themselves without interruption. Listen more than you speak, as this will serve you well. The universe is ready to reflect back the energy you've put out, whether positive or negative. Consider taking a stroll in nature to reconnect with the world around you.",
+      "horoscope_ja": "今日は、気まぐれな心を落ち着かせる時です。他の人が邪魔されることなく、自由に表現できる空間を与えましょう。話すよりも聞くことを大切にしましょう。そうすれば、きっと良い結果がもたらされるでしょう。宇宙は、あなたが発したエネルギーを、それが良いものであれ悪いものであれ、必ず返してくれるでしょう。自然の中を散歩して、周りの世界と再び繋がってみてはいかがでしょうか。"
     },
     "sagittarius": {
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "sign": "Sagittarius",
-      "horoscope": "Today is an excellent opportunity to socialize rather than stay cooped up at home. Engage in personal conversations and impart some of your insights. Be receptive to valuable lessons from those around you as well. Keep the mood light; today isn’t ideal for heavy discussions, as everyone is likely to prefer a more relaxed atmosphere.",
-      "horoscope_ja": "今日は家に閉じこもるよりも、社交を楽しむ絶好の機会です。個人的な会話に積極的に参加し、自分の考えを伝えましょう。周りの人から得られる貴重な教訓にも耳を傾けましょう。軽めの雰囲気を保ちましょう。誰もがリラックスした雰囲気を好む傾向があるため、今日は深い議論には適していません。"
+      "horoscope": "Focus on your living space today and tackle those household tasks. Sweep the floors, handle the laundry, and create to-do lists to keep you organized. You'll find a solid sense of stability throughout the day, which will aid you in staying focused. Embrace efficiency as your guiding principle. Expect to see a boost in your work progress, especially when your emotions are balanced and centered.",
+      "horoscope_ja": "今日は生活空間に意識を向け、家事に取り組みましょう。床を掃き、洗濯物を片付け、ToDoリストを作って整理整頓しましょう。一日を通して安定した気分になり、集中力を維持するのに役立ちます。効率性を常に意識しましょう。特に感情のバランスが取れ、落ち着いている時は、仕事の進捗も向上するでしょう。"
     },
     "capricorn": {
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "sign": "Capricorn",
-      "horoscope": "Today, you have an abundance of energy to ignite your passions, so seize the moment! Engage with children and let your creativity flow. Use your playful spirit to inspire those around you to join in the fun. It's an excellent day to share your skills in collaborative projects, making you a valued participant in any social gathering.",
-      "horoscope_ja": "今日は、情熱を燃やすエネルギーが溢れています。この機会を逃さず掴みましょう！子どもたちと触れ合い、創造力を解き放ちましょう。遊び心を活かして、周りの人たちも一緒に楽しく過ごしましょう。共同プロジェクトでスキルを披露するのに最適な日です。どんな社交の場でも、あなたは貴重な存在となるでしょう。"
+      "horoscope": "Today, you might feel an invigorating surge of energy that inspires you to express your emotions more vividly. Embrace your authentic feelings and let them shine through. It's important to assert your presence and show that you are a powerful individual. You don't have to be confrontational or overtly aggressive to make your point. Remember, if someone tries to provoke you, you possess the inner strength and bravery to stand your ground.",
+      "horoscope_ja": "今日は、爽快なエネルギーの高まりを感じ、感情をより鮮やかに表現したくなるかもしれません。ありのままの気持ちを受け入れ、輝かせましょう。存在感を示し、力強い人間であることを示すことが大切です。自分の意見を主張するために、対立したり、あからさまに攻撃的になる必要はありません。たとえ誰かがあなたを挑発しようとしたとしても、あなたは自分の立場を貫くための内なる強さと勇気を持っていることを忘れないでください。"
     },
     "aquarius": {
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "sign": "Aquarius",
-      "horoscope": "Today, you might find it challenging to reach a conclusion. With a flood of facts and data coming your way, you could feel a bit lost on how to move forward. Remember, don’t let it overwhelm you. You possess a remarkable talent for analysis and organization. If anyone can untangle this web, it’s definitely you. Have faith in your skills and take action. Maintain a light-hearted and vibrant approach, and try not to get too caught up in the minutiae.",
-      "horoscope_ja": "今日は、結論を出すのが難しいと感じるかもしれません。膨大な事実やデータが押し寄せ、どう進めばいいのか分からず途方に暮れてしまうかもしれません。でも、決して圧倒されてはいけません。あなたは分析力と整理力に優れた才能を持っています。もしこの網を解きほぐせる人がいるとしたら、それは間違いなくあなたです。自分の能力を信じて行動を起こしましょう。軽やかで活気のあるアプローチを維持し、些細なことにこだわりすぎないようにしましょう。"
+      "horoscope": "Your grounded approach is likely to be recognized today, thanks to the current cosmic influences. You have a strong energy backing you in all your endeavors, along with the determination to see them through. Now is the perfect moment to address those small, detail-oriented tasks that have been lingering on your to-do list. Take the initiative to clear them out of the way.",
+      "horoscope_ja": "現在の宇宙的な影響のおかげで、あなたの地に足のついたアプローチは今日、評価されるでしょう。あらゆる取り組みにおいて、力強いエネルギーと、それをやり遂げる強い意志があなたを支えています。今こそ、ToDoリストにずっと積み残している、細かい作業に取り組む絶好の機会です。率先して、それらを片付けましょう。"
     },
     "pisces": {
-      "date": "2025-12-18",
+      "date": "2025-12-19",
       "sign": "Pisces",
-      "horoscope": "Today is a fantastic day for you! You'll find yourself accomplishing a great deal. Your emotions may take on a deeper tone, providing the focus you need to tackle your tasks effectively. Collaborate with others to discover amazing breakthroughs together. Plus, you'll be able to keep a cheerful attitude in all your social interactions.",
-      "horoscope_ja": "今日はあなたにとって素晴らしい日です！多くのことを達成できることに気づくでしょう。感情がより深く揺さぶられ、タスクを効果的にこなすために必要な集中力が得られるでしょう。他の人と協力して、素晴らしいブレークスルーを共に発見しましょう。さらに、あらゆる社交の場で明るい態度を保つことができるでしょう。"
+      "horoscope": "Today, practicality is your guiding star. Stay grounded and maintain your focus, as others may not be receptive to whimsical thoughts. It's best to keep those daydreams to yourself for now. Instead, connect with the collective energy by contributing to a meaningful cause in any way you can. Spend some time in a garden and immerse yourself in the earth beneath your fingers.",
+      "horoscope_ja": "今日は、現実的なことがあなたの導き手です。周りの人は気まぐれな考えに耳を傾けてくれないかもしれないので、地に足をつけ、集中力を保ちましょう。空想は今は自分の中に留めておくのが一番です。その代わりに、できる限り意義のある活動に貢献することで、集合的なエネルギーと繋がりましょう。庭で時間を過ごし、指先の土に浸りましょう。"
     }
   }
 }
