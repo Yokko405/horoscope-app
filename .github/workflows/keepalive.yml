@@ -1,0 +1,33 @@
+name: Keepalive (60日停止回避)
+
+on:
+  schedule:
+    - cron: '0 0 1 * *' # 毎月1日に実行
+  workflow_dispatch: # 手動実行用
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Commit keepalive activity
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # ダミーファイルの更新
+          date > keepalive.txt
+          
+          git add keepalive.txt
+          
+          # 変更がある場合のみコミット（念のため）
+          if git diff --staged --quiet; then
+            echo "ℹ️ No changes to commit"
+          else
+            git commit -m "Keepalive: 60日停止回避のための自動アクティビティ"
+            git push
+          fi
