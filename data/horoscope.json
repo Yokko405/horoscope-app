@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-01-14T09:59:16.107Z",
-  "jst_date": "2026-01-14",
+  "updated_at": "2026-01-14T16:37:03.334Z",
+  "jst_date": "2026-01-15",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "sign": "Aries",
-      "horoscope": "Today, Aries, you may find yourself deeply engaged in organizing social gatherings in your community, which could lead to plenty of phone calls. Alternatively, you might be busy driving around, tackling a list of errands that could relate to the healing arts. Whatever the task at hand, it resonates with you on a profound level. Additionally, a current or prospective romantic interest could play a role in your endeavors. Consider inviting them out for dinner; the night is likely to conclude on a delightful note!",
-      "horoscope_ja": "牡羊座のあなたは今日、地域の社交行事の企画に熱心に取り組み、たくさんの電話がかかってくるかもしれません。あるいは、ヒーリングアートに関連した用事リストをこなすために、車で忙しく動き回っているかもしれません。どんな仕事であれ、それはあなたにとって深いレベルで共鳴するものでしょう。さらに、現在または将来の恋愛対象者が、あなたの取り組みに影響を与えるかもしれません。夕食に誘ってみてはいかがでしょうか。きっと楽しい夜になるでしょう！"
+      "horoscope": "Today, Aries, your imagination is likely to soar, sparking a strong urge to express yourself artistically. You may find a flurry of creative ideas swirling in your mind, which could lead to some anxiety about whether you'll have the opportunity to bring them to life. To manage this, jot down your thoughts as they come, prioritizing them based on what resonates most with you. Then, tackle each idea one at a time.",
+      "horoscope_ja": "牡羊座のあなたは、今日、想像力が羽ばたき、芸術的に自分を表現したいという強い衝動に駆られるでしょう。頭の中で創造的なアイデアが次々と湧き上がり、それを実現できる機会があるかどうか不安になるかもしれません。そんな時、思いついたアイデアを書き留め、自分に一番響くものから優先順位をつけましょう。そして、一つずつアイデアに取り組んでいきましょう。"
     },
     "taurus": {
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "sign": "Taurus",
-      "horoscope": "Today, Taurus, you may encounter fresh insights that could transform your perspective on career, business, and personal growth. While this shift might feel unsettling at first, it's ultimately a beneficial change. Your path may begin to diverge in exciting new directions starting now. If you're craving some joy, consider planning a romantic dinner with your partner. Take a break from the changes around you and savor your evening!",
-      "horoscope_ja": "おうし座のあなたは今日、キャリア、ビジネス、そして個人的な成長に対する考え方を変えるような、新たな気づきに出会うかもしれません。最初は不安に感じるかもしれませんが、最終的には有益な変化となるでしょう。これから、あなたの道は刺激的な新しい方向へと分岐していくかもしれません。喜びを求めているなら、パートナーとロマンチックなディナーを計画してみてはいかがでしょうか。周りの変化から少し離れて、この夜を満喫してください！"
+      "horoscope": "Recent achievements and a boost in your finances may spark a longing for a better living environment, Taurus. Yet, you might find yourself uncertain about the best path forward. Should you relocate or just renovate? Would it be wiser to stay nearby or venture to a new neighborhood? Take some time to jot down the advantages and disadvantages of each choice, and weigh them thoughtfully. There's no rush to make a decision just yet.",
+      "horoscope_ja": "おうし座さん、最近の成果と経済的な豊かさが、より良い住環境への憧れを掻き立てているかもしれません。しかし、これからの人生で何が最善なのか、迷っているかもしれません。引っ越しをするべきか、それともリフォームするべきでしょうか？近所に住み続けるべきか、それとも新しい地域に移住するべきか？それぞれの選択肢のメリットとデメリットを書き留め、じっくり検討してみましょう。今すぐ決断を急ぐ必要はありません。"
     },
     "gemini": {
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "sign": "Gemini",
-      "horoscope": "Gemini, the fresh insights you've been exploring lately are steering your thoughts in a new direction. You're beginning to move away from familiar beliefs and embracing novel concepts that have recently caught your attention. This shift could inspire you to embark on personal projects, particularly in writing or public speaking. Additionally, engaging in open and sincere dialogue with your partner could pave the way for a cozy evening together. Prepare for some deep discussions, among other delightful surprises!",
-      "horoscope_ja": "ふたご座さん、最近探求している新鮮な洞察が、あなたの思考を新たな方向へと導いています。慣れ親しんだ信念から離れ、最近注目している斬新な概念を受け入れ始めています。この変化は、特に執筆や人前でのスピーチといった個人的なプロジェクトに取り組むきっかけとなるかもしれません。さらに、パートナーとオープンで誠実な対話をすることで、心地よい夜を過ごすことができるかもしれません。深い議論をはじめ、様々な素敵なサプライズが待っているでしょう！"
+      "horoscope": "The pressures of work may be weighing heavily on you, leaving you feeling less than your best. However, your determination to meet deadlines might make you hesitant to take a break, Gemini. Keep in mind that pushing yourself too hard could hinder your progress. Embrace a more measured pace, allow yourself moments to unwind, and you'll find that everything will flow more effortlessly than you anticipate.",
+      "horoscope_ja": "仕事のプレッシャーが重くのしかかり、ベストな状態を保てていないかもしれません。しかし、締め切りに間に合わせたいという強い意志が、休憩をためらわせる原因になっているかもしれません、ふたご座さん。無理をしすぎると、かえって進歩が遅れてしまう可能性があるので、気をつけましょう。もっと慎重にペースを調整し、リラックスする時間を設ければ、すべてが予想以上にスムーズに進むでしょう。"
     },
     "cancer": {
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "sign": "Cancer",
-      "horoscope": "Today, Cancer, your analytical mind may grapple with the unusual metaphysical concepts swirling in your thoughts. While some of these ideas could stem from your recent readings, others may very well be messages from beyond. Be sure to jot down any insights that come to you; they may defy logic but could significantly impact your life. Later in the evening, share these intriguing thoughts with your partner.",
-      "horoscope_ja": "蟹座のあなたは今日、分析的な思考で、思考の中に渦巻く奇妙な形而上学的な概念と格闘するかもしれません。これらのアイデアの中には、最近読んだ本から生まれたものもあれば、もしかしたら超自然からのメッセージかもしれません。浮かんだ洞察は必ず書き留めておきましょう。論理に反するものかもしれませんが、あなたの人生に大きな影響を与えるかもしれません。夜遅くには、これらの興味深い考えをパートナーと共有しましょう。"
+      "horoscope": "You might encounter some hurdles in your projects today, Cancer, leading you to question your capabilities. It's perfectly normal to feel this way, but try not to let self-doubt take over. Take a moment to step back and assess the situation with a clear mind. Focus on finding the most effective and practical strategies to overcome these challenges and achieve your desired outcomes. Remember, don’t allow your insecurities to overshadow your potential.",
+      "horoscope_ja": "蟹座のあなたは、今日、プロジェクトでいくつかの障害に遭遇し、自分の能力に疑問を抱くかもしれません。このような気持ちになるのはごく自然なことですが、自己不信に支配されないようにしてください。少し立ち止まり、冷静に状況を評価してください。これらの課題を克服し、望ましい結果を達成するための最も効果的で実践的な戦略を見つけることに集中してください。忘れないでください。不安に負けて、自分の可能性を覆い隠さないでください。"
     },
     "leo": {
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "sign": "Leo",
-      "horoscope": "You may find that your bond with a close friend or romantic partner deepens, fueled by shared passions and interests. The two of you might even contemplate embarking on an exciting journey together, possibly to a far-off state or even abroad. Leo, now is not the moment to play it safe or hold back. Your life is unfolding beautifully, so if you're eager to escape with this special someone, seize the opportunity! Later in the evening, make sure to connect with your partner!",
-      "horoscope_ja": "親しい友人や恋人との絆は、共通の情熱や興味によって深まるかもしれません。二人で刺激的な旅に出ることさえ考えてしまうかもしれません。もしかしたら、遠く離れた州や海外へ出かけるかもしれません。獅子座さん、今は安全策をとったり、ためらったりする時ではありません。あなたの人生は美しく展開しています。大切な人と逃避したいなら、この機会を逃さず掴みましょう！夜遅くには、パートナーとの絆を深めましょう！"
+      "horoscope": "Leo, while it may seem like everything is falling into place, today you could experience a moment of anxiety. You might feel a fleeting worry that your good fortune is fleeting. This unease is likely rooted in your own insecurities surfacing. Try not to overanalyze these feelings, and don’t let the skepticism of others sway you. Trust in your abilities, stay dedicated, and keep pushing forward.",
+      "horoscope_ja": "しし座さん、すべてが順調に進んでいるように見えるかもしれませんが、今日は不安な瞬間を迎えるかもしれません。幸運が束の間になってしまうのではないかと、一瞬不安を感じるかもしれません。この不安は、あなた自身の不安が表面化していることが原因かもしれません。こうした感情を過度に分析せず、他人の懐疑的な見方に惑わされないでください。自分の能力を信じ、ひたむきに努力を続け、前進し続けてください。"
     },
     "virgo": {
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "sign": "Virgo",
-      "horoscope": "Today, Virgo, you may find yourself swept up in a magnetic romantic energy that sparks your creativity. Your heightened passion is set to influence not just your personal connections but also your professional endeavors. Expect the creative work you produce to be so remarkable that it surprises even you. Your efforts at work are likely to catch the eye of your bosses, earning you some well-deserved recognition. Embrace your alluring vibe—put on something that makes you feel fabulous and see where the day takes you!",
-      "horoscope_ja": "おとめ座のあなたは今日、創造性を刺激する、魅惑的なロマンチックなエネルギーに巻き込まれるかもしれません。高まった情熱は、個人的なつながりだけでなく、仕事にも影響を与えるでしょう。あなたが生み出すクリエイティブな作品は、あなた自身も驚くほど素晴らしいものになるでしょう。仕事での努力は上司の目に留まり、当然の評価を得ることになるでしょう。あなたの魅力的な雰囲気を存分に味わいましょう。素敵な気分になれる服を着て、一日がどんな一日へと誘ってくれるか、楽しみに待っていてください！"
+      "horoscope": "Virgo, you may feel a bit uncertain today about how to tackle a specific task or project you're engaged in. With several viable options available, it’s easy to feel overwhelmed. Remember, if all choices are sound and feasible, there's no need to overthink it. If you're stuck, consider flipping a coin! The stars suggest that you'll achieve success as long as you keep your stress levels in check.",
+      "horoscope_ja": "おとめ座のあなたは、今日は取り組んでいる特定のタスクやプロジェクトにどう取り組めばいいのか、少し不安に感じるかもしれません。実行可能な選択肢がいくつもあるため、つい圧倒されてしまうかもしれません。しかし、すべての選択肢が妥当で実現可能なら、考えすぎる必要はありません。行き詰まったら、コインを投げてみるのも良いでしょう。星占いは、ストレスレベルをコントロールしさえすれば、きっと成功できると示唆しています。"
     },
     "libra": {
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "sign": "Libra",
-      "horoscope": "Today, Libra, you may find yourself deeply engaged in a project with a group you’re part of. Expect to be on the phone or driving around to libraries and bookstores in search of valuable information. A dear friend or romantic partner might join you on this quest. Your passion for the task at hand will likely make the day fulfilling, so embrace it! In the evening, take some time to unwind with someone special.",
-      "horoscope_ja": "天秤座のあなたは今日、参加しているグループとプロジェクトに熱中するかもしれません。貴重な情報を求めて、電話をかけたり、図書館や書店を車で回ったりすることになるでしょう。大切な友人や恋人が、この探求に加わってくれるかもしれません。目の前の仕事への情熱が、きっと充実した一日になるでしょう。その情熱を受け止めましょう！夜は、大切な人とゆっくりとくつろぐ時間を取りましょう。"
+      "horoscope": "A family member might be facing some inner turmoil, Libra, but they aren't ready to share what's on their mind. Your usual intuition feels a bit clouded right now, making it hard for you to understand their struggles. Instead of probing, it's best to let them be; their feelings may be too deeply rooted for you to uncover. Simply express your willingness to support them if they choose to open up, and then give them the space they need. Remember, this situation shouldn't shake your confidence in their appreciation and respect for you.",
+      "horoscope_ja": "天秤座さん、家族が心の葛藤を抱えているかもしれませんが、なかなか自分の気持ちを打ち明ける準備ができていません。普段の直感が少し鈍っているようで、彼らの葛藤を理解するのが難しいようです。詮索するのではなく、そのままにしておくのが最善です。彼らの感情はあまりにも深く根付いていて、あなたが理解できないかもしれません。もし彼らが心を開くことを選んだら、あなたは喜んでサポートする意思を伝え、必要なスペースを与えてあげましょう。この状況によって、彼らがあなたへの感謝と尊敬を抱くというあなたの自信が揺らぐことはないことを覚えておいてください。"
     },
     "scorpio": {
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "sign": "Scorpio",
-      "horoscope": "Today, Scorpio, you may encounter fresh perspectives and innovative ideas about your career that could challenge your current beliefs about value and success. This might inspire you to explore a completely new line of work that you hadn't thought of before. Seek out literature on the topic, as it can provide valuable insights and motivation, along with support from your loved ones. Trust your instincts during this period—embrace the change!",
-      "horoscope_ja": "蠍座のあなたは今日、キャリアに関して新たな視点や革新的なアイデアに出会うかもしれません。それは、あなたの価値観や成功に対する現在の信念を揺るがすかもしれません。これは、これまで考えたこともなかった全く新しい職種を探求するきっかけになるかもしれません。このテーマに関する文献を探してみましょう。貴重な洞察とモチベーションを与えてくれるだけでなく、愛する人からのサポートも得られるでしょう。この時期は自分の直感を信じ、変化を受け入れましょう！"
+      "horoscope": "Scorpio, today you may find yourself enveloped in a haze of uncertainty. Expect to receive some intriguing yet perplexing news that could challenge your beliefs; however, trust that the source is credible. Interactions with those around you may feel unclear, as communication seems to be lacking. You might need to tap into your intuition to truly understand their emotions.",
+      "horoscope_ja": "蠍座のあなたは、今日、不確実性の霧に包まれているかもしれません。あなたの信念を揺るがすような、興味深くも不可解なニュースを受け取ることになるでしょう。しかし、その情報源は信頼できるものなので、信じてください。周囲の人々とのやり取りは、コミュニケーション不足のため、曖昧に感じるかもしれません。彼らの感情を真に理解するには、直感に頼る必要があるかもしれません。"
     },
     "sagittarius": {
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "sign": "Sagittarius",
-      "horoscope": "Today, Sagittarius, your enthusiasm for group activities and social gatherings is at an all-time high. You'll encounter a variety of new faces, dive into intriguing projects, and perhaps even discover a romantic spark if you haven't already. The exchange of captivating ideas at these events could inspire you to embark on a new educational journey. Any partnerships you forge today are likely to thrive. As the evening rolls in, consider enjoying a meal with your newfound friends.",
-      "horoscope_ja": "射手座のあなたは、今日、グループ活動や社交的な集まりへの熱意がかつてないほど高まっています。様々な新しい出会いがあり、興味深いプロジェクトに没頭し、もしかしたらまだであれば、ロマンチックな出会いも生まれるかもしれません。こうしたイベントでの魅力的なアイデアの交換は、新たな学びの旅への出発を促すかもしれません。今日築いたパートナーシップは、きっと実りあるものになるでしょう。夜が更けていくにつれ、新しく出会った友人たちと食事をするのもおすすめです。"
+      "horoscope": "Sagittarius, you may find that your instincts and intuitive nudges are particularly intense today, especially if they hint at some challenging situations on the horizon. These insights are not meant to alarm you but rather to guide you in navigating what lies ahead. Additionally, you might confront some inner uncertainties. Stay focused, take proactive steps, and trust that you can create a favorable outcome. Keep in mind, you have the ability to transform difficulties into something valuable!",
+      "horoscope_ja": "射手座のあなたは、今日、本能や直感が特に強くなるかもしれません。特に、困難な状況が近づいていることを暗示している場合はなおさらです。これらの洞察はあなたを不安にさせるものではなく、むしろこれから起こることを乗り切るための指針となるでしょう。また、内なる不安に直面することもあるかもしれません。集中力を保ち、積極的に行動し、好ましい結果を生み出すことができると信じてください。あなたには困難を価値あるものに変える力があることを忘れないでください！"
     },
     "capricorn": {
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "sign": "Capricorn",
-      "horoscope": "Today could be the day you finally wrap up those long-term projects that have demanded your careful consideration. Your dedication will not go unnoticed, Capricorn, and you might find yourself receiving recognition from important figures in your life, possibly even in a public setting. A boost in your earnings may be on the way, reflecting the hard work you've put in to reach this point. Don't hesitate to celebrate your achievements—after all, you deserve a moment of self-congratulation. Dive in!",
-      "horoscope_ja": "今日こそ、これまでじっくりと検討を重ねてきた長期プロジェクトをついに完了させる日かもしれません。山羊座のあなた、あなたの献身的な努力は必ず報われ、人生における重要な人物、ひょっとしたら公の場でさえ、その功績が認められるかもしれません。ここまで辿り着くまでの努力が実り、収入も増えるかもしれません。成果を惜しまずに祝いましょう。だって、自分を褒めてあげる時間はあなたにも十分あるのですから。さあ、思いっきり楽しんでください！"
+      "horoscope": "Today, Capricorn, you might find yourself questioning a long-term goal that you've invested so much hope and trust in. However, don't interpret this uncertainty as a sign of failure. Instead, view it as a prompt to put in some extra effort and rekindle your belief in your aspirations. Remember, tomorrow could bring a fresh perspective that makes your doubts seem trivial. Stay determined and keep pushing forward!",
+      "horoscope_ja": "山羊座のあなたは今日、大きな希望と信頼を託してきた長期的な目標に疑問を抱くかもしれません。しかし、この不確実性を失敗の兆候と捉えてはいけません。むしろ、もう少し努力を重ね、自分の夢への信念を再び燃え上がらせるためのきっかけと捉えましょう。明日は新たな視点をもたらし、あなたの疑念が些細なものに思えるかもしれないことを忘れないでください。決意を固め、前進し続けましょう！"
     },
     "aquarius": {
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "sign": "Aquarius",
-      "horoscope": "Aquarius, you may find that inspiration from diverse cultures and experiences ignites your creativity, leading you to embark on an exciting new project. With your sharp intellect and abundant energy, today promises to be quite eventful. Additionally, you might be feeling particularly romantic and alluring, eager to share your recent adventures with a significant other. If possible, plan a steamy date night and don your finest attire! Have fun!",
-      "horoscope_ja": "水瓶座さん、多様な文化や経験から得たインスピレーションがあなたの創造性を刺激し、刺激的な新しいプロジェクトに乗り出すきっかけとなるかもしれません。鋭い知性と溢れるエネルギーで、今日はきっと充実した一日になるでしょう。さらに、あなたは特にロマンチックで魅力的な気分になり、最近の冒険を大切な人と分かち合いたくなるかもしれません。もし可能であれば、最高の装いで、刺激的なデートナイトを計画してみてください！楽しんでください！"
+      "horoscope": "You may notice that a partner or coworker is experiencing some shifts in their life, leading you to question the potential of your future together. It might seem like you're progressing while they are struggling to keep up. However, Aquarius, this situation could be fleeting, so it's wise to refrain from making any hasty judgments right now. Extend your support and do your best to help, but allow them the space to navigate their own challenges. This phase is likely to resolve itself in just a few days.",
+      "horoscope_ja": "パートナーや同僚が人生に変化を経験していることに気づき、一緒に過ごす未来の可能性に疑問を抱くかもしれません。あなたは順調に進んでいるように見える一方で、相手はそれに追いつくのに苦労しているように見えるかもしれません。しかし、水瓶座さん、この状況は一時的なものになる可能性があるので、今は性急な判断は控えた方が賢明です。相手を支え、できる限りの支援をしましょう。ただし、相手が自分自身で課題を乗り越えられるよう、余裕を持たせてあげてください。この局面は数日で収束する可能性が高いでしょう。"
     },
     "pisces": {
-      "date": "2026-01-14",
+      "date": "2026-01-15",
       "sign": "Pisces",
-      "horoscope": "Dreams and visions may spark some creative ideas for sprucing up your living space, Pisces. You might find yourself diving into books to discover how to bring your concepts to life. Once you do, you'll tackle the project with enthusiasm! On another note, thoughts of love and intimacy are also swirling in your mind right now. Consider enlisting a partner to assist you with your endeavors; this collaboration could lead to delightful outcomes.",
-      "horoscope_ja": "魚座のあなたは、夢やビジョンが、生活空間を華やかにするための独創的なアイデアをひらめかせるかもしれません。自分のアイデアを具体化する方法を探るために、本を読みふけっているかもしれません。一度見つければ、プロジェクトに情熱を持って取り組むことができるでしょう！また、愛と親密さへの思いも今、頭の中で渦巻いています。あなたの取り組みを手伝ってくれるパートナーを探してみてはいかがでしょうか。このコラボレーションは、素晴らしい結果につながるかもしれません。"
+      "horoscope": "Currently, you may find yourself questioning beliefs and perspectives that have shaped your life thus far. As a naturally compassionate individual, Pisces, you might feel a strong urge to lend a hand to someone dear to you today. However, this person could be grappling with personal challenges that they need to confront on their own, which might make them seem ungrateful. Remember, this isn't a reflection of your efforts.",
+      "horoscope_ja": "現在、あなたはこれまでの人生を形作ってきた信念や考え方に疑問を抱いているかもしれません。生まれつき思いやりの深い魚座のあなたは、今日、大切な人に手を差し伸べたいという強い衝動に駆られるかもしれません。しかし、その人は一人で乗り越えなければならない個人的な課題に取り組んでいる可能性があり、それが感謝の気持ちの欠如のように見えるかもしれません。しかし、これはあなたの努力の表れではないことを忘れないでください。"
     }
   }
 }
