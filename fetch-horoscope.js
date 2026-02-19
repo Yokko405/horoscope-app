@@ -152,6 +152,13 @@ async function fetchAllHoroscopes() {
     }
   }
 
+  // 全星座失敗の場合は既存データを上書きしない
+  const successCount = Object.keys(horoscopes).length;
+  if (successCount === 0) {
+    console.log('\n⚠️ 全星座のデータ取得に失敗 → 既存データを保持（上書きスキップ）');
+    return;
+  }
+
   const outputData = {
     updated_at: now.toISOString(),
     jst_date: jstDate,
@@ -169,7 +176,7 @@ async function fetchAllHoroscopes() {
   fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf8');
 
   console.log(`\n✨ Saved to: ${outputPath}`);
-  console.log(`✅ Done (${Object.keys(horoscopes).length}/12 signs)`);
+  console.log(`✅ Done (${successCount}/12 signs)`);
 }
 
 fetchAllHoroscopes()

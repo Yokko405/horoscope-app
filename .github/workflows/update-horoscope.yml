@@ -2,6 +2,7 @@ name: Update Horoscope Data
 on:
   schedule:
     - cron: '0 16 * * *' # UTC16:00 = JST1:00
+    - cron: '0 18 * * *' # UTC18:00 = JST3:00（バックアップ）
   workflow_dispatch: # 手動実行も可能
 
 jobs:
