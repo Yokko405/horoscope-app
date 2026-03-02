@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-03-01T18:02:49.749Z",
-  "jst_date": "2026-03-02",
+  "updated_at": "2026-03-02T16:18:05.003Z",
+  "jst_date": "2026-03-03",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
-      "date": "2026-03-02",
+      "date": "2026-03-03",
       "sign": "Aries",
-      "horoscope": "Embrace a vibrant day, Aries, where you can fully immerse yourself in your heart's desires. Your creativity may transport you to an exciting new world where you shine as the main character. Don't hesitate to live out these dreams! Keep in mind that if you can envision it, you can achieve it, so aim high. The passion within you is ablaze, so harness this energy wisely before it gets diverted by external influences.",
-      "horoscope_ja": "牡羊座さん、心の欲望に心底浸れる、活気あふれる一日をお過ごしください。あなたの創造性が、あなたを刺激的な新しい世界へと誘い、あなたが主人公として輝くことができるかもしれません。ためらわずに夢を実現してください！思い描くことができれば、実現できるということを心に留め、高い目標を目指しましょう。あなたの内に燃え上がる情熱。外的な影響によってそのエネルギーが逸れてしまう前に、賢く活用しましょう。"
+      "horoscope": "You may come across some unsettling gossip today regarding acquaintances or your job. Expect a flurry of calls or emails from others eager to share their insights. However, Aries, take this news with a grain of salt; it may stem from speculation or even falsehoods. It's wise to seek the truth before letting it drive you to distraction.",
+      "horoscope_ja": "今日は、知人や仕事に関する不安な噂話に遭遇するかもしれません。自分の意見を共有したいという人からの電話やメールが殺到するでしょう。しかし、牡羊座のあなたは、このニュースを鵜呑みにしないでください。憶測や虚偽から来ている可能性もあります。混乱してしまう前に、真実を探るのが賢明です。"
     },
     "taurus": {
-      "date": "2026-03-02",
+      "date": "2026-03-03",
       "sign": "Taurus",
-      "horoscope": "Today, Taurus, your heart is likely to be focused on the well-being of others. You might find yourself thinking about those who are struggling. It could be a great time to connect with a local church or community group to lend a helping hand to those in need. Additionally, nurturing your spiritual side is essential today, so consider engaging in an activity that honors this aspect of yourself. You may find it challenging to stay centered, so be mindful of that.",
-      "horoscope_ja": "おうし座のあなた、今日は他人の幸せに心を奪われそうです。苦しんでいる人のことを思い浮かべてしまうかもしれません。地元の教会やコミュニティグループとつながり、困っている人に手を差し伸べる絶好の機会かもしれません。また、今日は精神的な側面を育むことが不可欠です。自分の精神的な側面を大切にできる活動に取り組んでみてはいかがでしょうか。集中力を保つのが難しいと感じるかもしれませんので、その点は意識してください。"
+      "horoscope": "Today, Taurus, you might find that your personal or work-related projects are progressing at a pace that feels a bit sluggish for your liking. You may start to question whether you're missing something crucial. However, it's likely not a reflection of your efforts. Instead, it's simply a temporary dip in energy that will likely shift back to a more favorable rhythm by tomorrow. Stay focused on your tasks, complete what you need to, and try not to stress over the slow pace. Embrace the current flow.",
+      "horoscope_ja": "おうし座のあなたは、今日、個人的なプロジェクトや仕事関連のプロジェクトの進捗が、あなたにとって少し遅いと感じるかもしれません。何か重要なことを見逃しているのではないかと不安になるかもしれません。しかし、それはあなたの努力の成果ではない可能性が高いです。単に一時的なエネルギーの低下で、明日にはより好ましいリズムに戻るでしょう。自分の仕事に集中し、やるべきことをやり遂げ、ペースの遅さにストレスを感じないようにしましょう。今の流れを受け入れましょう。"
     },
     "gemini": {
-      "date": "2026-03-02",
+      "date": "2026-03-03",
       "sign": "Gemini",
-      "horoscope": "Today promises to be a dynamic day for you, Gemini, making it an ideal time to collaborate with others. Your creativity is heightened, and you may find yourself vividly envisioning scenarios inspired by your dreams. The individuals around you are becoming increasingly significant, so take a moment to acknowledge and value their presence. Join forces with them to clear away the haze that seems to be lingering in the atmosphere today.",
-      "horoscope_ja": "ふたご座のあなたにとって、今日はダイナミックな一日になりそうです。他の人と協力するのに最適な時期です。創造性が高まり、夢からインスピレーションを得たシナリオを鮮やかに思い描くことができるかもしれません。周りの人たちの存在はますます重要になってきています。少し時間を取って、彼らの存在を認め、大切にしましょう。彼らと力を合わせ、今日の空気に漂うもやを払いのけましょう。"
+      "horoscope": "You may find yourself feeling constrained by your current circumstances today. Whether it's contemplating a job change or dreaming of relocating to a more adventurous destination, these thoughts could be appealing, Gemini. However, it's best to hold off on making any firm choices or exploring these possibilities just yet. Your perspective isn't as clear as it could be right now. Give it a few days before revisiting these ideas; you might discover a different viewpoint.",
+      "horoscope_ja": "今日は、現状に窮屈さを感じているかもしれません。転職を考えている、あるいはもっと冒険的な場所への移住を夢見ているなど、こうした考えは魅力的かもしれません、双子座さん。しかし、具体的な決断を下したり、可能性を探ったりするのは、まだ控えた方が良いでしょう。今のあなたの視点は、まだ十分に明確ではありません。これらのアイデアを再検討する前に、数日待ってみてください。もしかしたら、違った視点が見つかるかもしれません。"
     },
     "cancer": {
-      "date": "2026-03-02",
+      "date": "2026-03-03",
       "sign": "Cancer",
-      "horoscope": "Embrace the ebb and flow of the day, Cancer. Keep a light-hearted approach and avoid making any significant choices. You may feel that there are unseen forces at play, so listen to your intuition. Explore ways to connect the dots between your everyday life and your spiritual insights. Consider a trip to the beach or a peaceful stroll through the forest.",
-      "horoscope_ja": "蟹座のあなた、一日の流れを受け入れましょう。気楽な気持ちで、大きな決断は避けましょう。目に見えない力が働いていると感じるかもしれませんので、直感に耳を傾けましょう。日常生活とスピリチュアルな洞察を結びつける方法を探ってみましょう。ビーチへの旅行や、静かな森の散策などを検討してみてはいかがでしょうか。"
+      "horoscope": "Cancer, you may find yourself struggling to get the hang of a new computer program or some advanced technology today. This could lead to feelings of self-doubt and frustration. But don’t throw in the towel just yet! With a bit of focus, determination, and perseverance, you can overcome these challenges. Consider reaching out to someone who has more experience; their guidance could make all the difference.",
+      "horoscope_ja": "蟹座のあなたは、今日、新しいコンピュータープログラムや高度なテクノロジーの使い方に苦労するかもしれません。これは、自信喪失やフラストレーションにつながるかもしれません。しかし、まだ諦めないでください！少しの集中力、決意、そして粘り強さがあれば、これらの困難を乗り越えることができます。経験豊富な人に相談することを検討してみてください。彼らのアドバイスが大きな違いを生むかもしれません。"
     },
     "leo": {
-      "date": "2026-03-02",
+      "date": "2026-03-03",
       "sign": "Leo",
-      "horoscope": "Today might be one of those moments, Leo, where you dash out the door without your shoes! It's essential to ground yourself before you rise from your slumber; otherwise, you may find your thoughts drifting among the clouds. No matter how much you attempt to concentrate on your tasks, daydreams are likely to sneak into your mind.",
-      "horoscope_ja": "レオ、今日は靴を履かずにドアから飛び出してしまうような日になるかもしれないわね！眠りから覚める前に、しっかり落ち着くことが大切よ。そうしないと、考えが雲間を漂ってしまうかも。どんなに仕事に集中しようと思っても、空想が頭に浮かんでしまうこともあるわ。"
+      "horoscope": "Today, Leo, you may find the swift pace of your recent growth overwhelming. It’s important to pause and reflect on the changes unfolding in your life. With a surge of new friendships, insights, and opportunities, it’s natural to feel a bit uncertain about managing it all. Instead of resisting these emotions, take the time to process them. Embracing this moment will ultimately lead to greater clarity and strength.",
+      "horoscope_ja": "獅子座さん、今日は最近の急速な成長に圧倒されているかもしれません。立ち止まって、人生に起こっている変化についてじっくり考えることが大切です。新しい友情、洞察、そしてチャンスが次々と訪れる中、それらすべてにうまく対応できるか少し不安を感じるのは当然です。こうした感情に抵抗するのではなく、時間をかけて整理しましょう。この瞬間を受け入れることで、最終的にはより明確なビジョンと強さが生まれるでしょう。"
     },
     "virgo": {
-      "date": "2026-03-02",
+      "date": "2026-03-03",
       "sign": "Virgo",
-      "horoscope": "Today, Virgo, be cautious of the information that crosses your path; it might be misleading or unclear. Approach it with skepticism. Someone may attempt to deceive you, so double-check the bus schedule before you set off—getting on the wrong bus could lead you astray. Exercise patience and try not to let frustration build if the answers you seek remain elusive. Rest assured, the truth will reveal itself in due time.",
-      "horoscope_ja": "乙女座の皆さん、今日はあなたの目の前に現れる情報に注意してください。誤解を招くものや不明瞭なものかもしれません。疑いの目で見てください。誰かがあなたを騙そうとするかもしれません。出発前にバスの時刻表をもう一度確認してください。間違ったバスに乗ってしまうと、道に迷ってしまうかもしれません。もしあなたが求めている答えがなかなか見つからないとしても、忍耐強く、フラストレーションを溜め込まないようにしてください。安心してください。真実は必ず明らかになるでしょう。"
+      "horoscope": "Today, you may notice a slight dip in the momentum that has been driving you forward for the past few weeks, which could trigger some anxiety about your ongoing progress. This might leave you feeling a bit down. However, don’t let this feeling overwhelm you, Virgo. The rapid pace you’ve been experiencing was bound to ease up eventually. Rest assured, things will pick up again soon, giving you a chance to recharge. Stay strong!",
+      "horoscope_ja": "今日は、ここ数週間あなたを突き動かしてきた勢いが少し弱まっていることに気づくかもしれません。それが、これまでの進歩に不安を抱かせ、少し落ち込んでしまうかもしれません。しかし、乙女座のあなた、この気持ちに圧倒されないでください。これまでの急速なペースは、いずれ落ち着くはずです。安心してください。すぐに状況は好転し、エネルギーを充電するチャンスが訪れます。頑張ってください！"
     },
     "libra": {
-      "date": "2026-03-02",
+      "date": "2026-03-03",
       "sign": "Libra",
-      "horoscope": "Today, Libra, your imagination is set to soar, inviting you to escape into your own dreamscape. Embrace this creative energy and allow your thoughts to wander; you might find unexpected benefits spilling over into your daily routine. When it comes to making practical choices, it might be best to hold off—save those decisions for a time when you feel more centered.",
-      "horoscope_ja": "天秤座さん、今日は想像力が羽ばたき、夢の世界に逃避するよう誘います。この創造的なエネルギーを受け入れ、思考を自由に巡らせてみましょう。思いがけない恩恵が日々の生活に波及するかもしれません。現実的な選択をする際には、少し待つのが賢明かもしれません。もっと落ち着いて、落ち着いて判断できる時まで、決断は保留にしておきましょう。"
+      "horoscope": "Today, Libra, you may find yourself navigating a brief moment of introspection. While you’re achieving a lot, you might still sense that you haven’t quite reached your desired destination. On a spiritual level, you could be wrestling with some of the conventional beliefs you’ve previously challenged, while also pondering new ideas that have caught your interest. To lift your spirits, consider immersing yourself in a good book or enjoying a film. Rest assured, this mood will fade by tomorrow.",
+      "horoscope_ja": "天秤座のあなたは今日、束の間の内省に陥るかもしれません。多くのことを達成している一方で、まだ理想の目的地に到達していないと感じるかもしれません。精神的な面では、これまで疑問視してきた従来の信念と格闘したり、興味を引いた新しいアイデアについてじっくり考えたりするかもしれません。気分を高めるには、良い本を読んだり、映画を楽しんだりしてみてはいかがでしょうか。安心してください。この気分は明日には薄れていくでしょう。"
     },
     "scorpio": {
-      "date": "2026-03-02",
+      "date": "2026-03-03",
       "sign": "Scorpio",
-      "horoscope": "Today, Scorpio, you may find that everything feels a bit out of sync, so it's best not to force any issues. You might feel an overwhelming urge to retreat into a world of imagination and never return. It's wise to steer clear of any substances that could cloud your mind further. Focus on completing your tasks first, and then allow yourself some freedom. Dive deep into your thoughts and uncover the vibrant fantasies that your inner self has waiting for you.",
-      "horoscope_ja": "蠍座のあなたは、今日、すべてが少しずれているように感じるかもしれません。ですから、無理に問題を解決しない方が良いでしょう。想像の世界に引きこもり、二度と戻りたくないという衝動に駆られるかもしれません。思考をさらに曇らせる可能性のあるものは避けるのが賢明です。まずは課題をこなすことに集中し、それから少し自由を与えましょう。自分の思考の奥深くに潜り込み、内なる自分があなたを待っている、生き生きとした幻想を解き放ちましょう。"
+      "horoscope": "You may find yourself in a situation where a group you're part of is buzzing with enthusiasm for a plan that doesn't sit right with you, Scorpio. While you might express your concerns, they may be too caught up in the excitement to hear you out. Additionally, you might start questioning your own long-term aspirations that seem to be dragging on. Stay the course. Remember, good things often take time to unfold, and success is still on the horizon.",
+      "horoscope_ja": "蠍座のあなたは、自分が所属するグループが、自分には合わない計画に熱狂している状況に陥るかもしれません。懸念を伝えても、彼らは熱狂に巻き込まれすぎて、耳を傾けてもらえないかもしれません。また、先延ばしになっているように見える長期的な目標に疑問を抱き始めるかもしれません。でも、諦めずに進みましょう。良いことは実現するまでに時間がかかることが多く、成功はまだ先にあることを忘れないでください。"
     },
     "sagittarius": {
-      "date": "2026-03-02",
+      "date": "2026-03-03",
       "sign": "Sagittarius",
-      "horoscope": "Today, Sagittarius, your energy levels are particularly high, but your mind might feel a bit foggy. You may encounter someone who strongly disagrees with your choices, but keep in mind that their reasons might not be entirely clear. It's important to summon your self-assurance and advocate for yourself now. No matter the situation, you'll need to take some form of action. Make sure to evaluate the details thoroughly, as there could be some deception at play.",
-      "horoscope_ja": "射手座のあなた、今日はエネルギーレベルが特に高いですが、少し頭がぼんやりしているかもしれません。あなたの選択に強く反対する人に出会うかもしれませんが、彼らの理由が完全に明確ではないかもしれないことを覚えておいてください。今は自信を持ち直し、自分の意見を主張することが大切です。どんな状況であっても、何らかの行動を起こす必要があります。細部までよく検討してください。何らかの欺瞞が働いている可能性があります。"
+      "horoscope": "You may find that your intentions to meet up with friends or a loved one need to be delayed due to pressing work commitments. This could be frustrating for you, Sagittarius, particularly as it means letting others down. However, such situations are part of life. Try not to dwell on it; this won't negatively impact your relationships in the long run. Focus on completing your tasks, and remember to carve out some time for enjoyment later on.",
+      "horoscope_ja": "仕事の都合で、友人や愛する人と会う予定が延期せざるを得なくなるかもしれません。射手座のあなたにとって、特に周りの人をがっかりさせてしまうことになるので、これはストレスになるかもしれません。しかし、このような状況は人生の一部です。くよくよ考えすぎないようにしましょう。長期的には人間関係に悪影響を与えることはありません。やるべきことを終わらせることに集中し、その後の楽しみのための時間も確保することを忘れないでください。"
     },
     "capricorn": {
-      "date": "2026-03-02",
+      "date": "2026-03-03",
       "sign": "Capricorn",
-      "horoscope": "Today, Capricorn, you may find yourself navigating through a haze of uncertainty. It might be challenging to grasp the full picture of your circumstances. Relying solely on logic and analysis may not yield the clarity you seek. Instead, consider allowing the situation to rest for the time being and revisit it later when things are more defined. Release the urge to control or fully understand everything right now. Embrace a more laid-back approach and allow the day to unfold naturally.",
-      "horoscope_ja": "山羊座のあなたは今日、不確実性のもやの中を進むことになるかもしれません。状況の全体像を把握するのは困難かもしれません。論理と分析だけに頼っていては、あなたが求める明確さは得られないかもしれません。その代わりに、今は状況を静観し、状況がより明確になってから改めて検討することを検討しましょう。今すぐすべてをコントロールしたり、完全に理解しようとする衝動を手放しましょう。もっとリラックスしたアプローチを取り、一日が自然に展開していくのを待ちましょう。"
+      "horoscope": "Capricorn, your vitality has been shining brightly lately, but today you might find yourself feeling a bit off. This is likely just the result of accumulated stress. You've been putting in a lot of effort and focusing intensely, and now your body is signaling for a break. It's essential to prioritize some downtime. Allow yourself to unwind and recharge without any guilt. Remember, even the busiest leaders need their moments of solitude.",
+      "horoscope_ja": "山羊座さん、最近はバイタリティに溢れていますが、今日は少し気分が乗らないかもしれません。これはストレスが溜まっているせいかもしれません。これまで多大な努力と集中力を発揮してきた結果、体が休息を求めているのです。休息時間を優先することが重要です。罪悪感を抱かずに、リラックスしてエネルギーを充電しましょう。どんなに多忙なリーダーでも、一人になる時間が必要なことを忘れないでください。"
     },
     "aquarius": {
-      "date": "2026-03-02",
+      "date": "2026-03-03",
       "sign": "Aquarius",
-      "horoscope": "Today, Aquarius, it's time to take the plunge and embrace the call to action—don't hold back! Keep in mind that appearances can be deceiving; there's likely a hidden layer to the situation that warrants your attention before you proceed. Your thoughts may feel a bit muddled, and your imagination is particularly vibrant today, tempting you to escape into a dreamlike realm. Giving in to that urge might not be such a bad choice after all.",
-      "horoscope_ja": "水瓶座のあなた、今日は思い切って行動を起こす時です。ためらわずに！外見は時に人を欺くものです。状況には、先に進む前に注意を払うべき隠れた側面があるはずです。思考が少し混乱し、想像力が特に豊かになり、夢のような世界に逃避したくなるかもしれません。その衝動に身を任せるのも、結局は悪い選択ではないかもしれません。"
+      "horoscope": "It seems that an enjoyable evening with friends or a romantic partner may need to be put on hold due to circumstances outside your influence. While this may feel disheartening and irritating, Aquarius, there's little you can do to change the situation. Instead, consider rearranging your plans and finding an alternative way to spend your evening. Engaging in a solo activity, like catching a movie or attending a play, could be a great way to lift your spirits.",
+      "horoscope_ja": "友人や恋人との楽しい夜は、あなたの力の及ばない状況により、お預けになるかもしれません。水瓶座のあなたにとって、これは気が滅入り、苛立たしいことかもしれませんが、状況を変えるためにできることはほとんどありません。代わりに、予定を調整し、別の方法で夜を過ごす方法を検討してみましょう。映画や演劇など、一人で楽しめるアクティビティに興じることは、気分を高めるのに素晴らしい方法かもしれません。"
     },
     "pisces": {
-      "date": "2026-03-02",
+      "date": "2026-03-03",
       "sign": "Pisces",
-      "horoscope": "Today, Pisces, you may find it challenging to uncover the underlying issues at hand. Rather than letting it weigh you down, consider indulging in a refreshing nap this afternoon. Spend some time nurturing your plants and diving into a good book. Allow yourself to drift into a whimsical world that offers a break from your routine. Interacting with others might be tricky, as they may not be coming from a place of confidence. It’s best to postpone those conversations for another time.",
-      "horoscope_ja": "魚座のあなたは、今日、目の前の根本的な問題を明らかにするのが難しいと感じるかもしれません。その問題に押しつぶされるのではなく、午後は爽やかな昼寝をしてみてはいかがでしょうか。植物を育てたり、良い本を読んだりする時間を過ごしましょう。日常から少し離れて、気まぐれな世界に身を委ねてみましょう。相手が自信満々で話してくれないかもしれないので、人との交流は難しいかもしれません。そのような会話は別の機会に回した方が良いでしょう。"
+      "horoscope": "Recent disturbances in your community may leave your family feeling a bit down. Whether it's the noise of construction work or just some gloomy weather, Pisces, it might create some challenges for you all in the short term. However, patience is key. To lift everyone's spirits, consider hosting a spontaneous gathering. It's a surefire way to bring joy back into the mix!",
+      "horoscope_ja": "最近、地域で起こっている騒動で、ご家族が少し落ち込んでいるかもしれません。魚座さん、工事の騒音であれ、ただのどんよりとした天気であれ、短期的にはご家族全員にとって大変な状況になるかもしれません。しかし、忍耐が鍵です。皆の気分を明るくするには、自発的な集まりを開いてみてはいかがでしょうか。きっと喜びが戻ってきますよ！"
     }
   }
 }
