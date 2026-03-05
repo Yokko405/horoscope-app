@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-05T16:23:05.247Z",
+  "updated_at": "2026-03-05T18:33:08.086Z",
   "jst_date": "2026-03-06",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
@@ -7,19 +7,19 @@
       "date": "2026-03-06",
       "sign": "Aries",
       "horoscope": "Aries, it's time to step away from your usual schedule. You may feel like a commander rallying troops for an exciting quest, eager to explore uncharted territories. However, don’t forget to pause and allow yourself and your team some well-deserved downtime. This moment of tranquility is perfect for strategizing your next moves, ensuring you're ready to charge ahead with confidence.",
-      "horoscope_ja": "牡羊座の皆さん、いつものスケジュールから少し離れる時です。まるで指揮官のように、刺激的な冒険へと部隊を率い、未知の領域を開拓しようと躍起になっているかもしれません。しかし、少し立ち止まり、自分自身とチームにふさわしい休息の時間を与えることを忘れないでください。この静寂のひとときこそ、次の行動を練る絶好の機会となり、自信を持って突き進む準備を整えることができます。"
+      "horoscope_ja": "牡羊座の皆さん、いつものスケジュールから少し離れる時です。まるで指揮官のように、刺激的な冒険へと部隊を率い、未知の領域を開拓することに意欲を燃やしているかもしれません。しかし、少し立ち止まり、自分自身とチームにふさわしい休息の時間を与えることを忘れないでください。この静寂のひとときこそ、次の行動を練る絶好の機会となり、自信を持って突き進む準備を整えることができます。"
     },
     "taurus": {
       "date": "2026-03-06",
       "sign": "Taurus",
       "horoscope": "Taurus, your focus should be on reducing unnecessary drama in your life. You might not be aware of how much you hinder your own progress by amplifying every little detail. Shift your attention away from trivial matters that hold little significance. Engaging in petty jealousy and gossip about others is particularly unhelpful for you right now.",
-      "horoscope_ja": "おうし座のあなたは、人生における不必要なドラマを減らすことに集中すべきです。些細なことを大げさに騒ぎ立てることで、どれほど自分の成長を妨げているか、気づいていないかもしれません。あまり重要でない些細なことには目を向けないようにしましょう。特に、つまらない嫉妬や他人の噂話にふけるのは、今のあなたにとって何の役にも立ちません。"
+      "horoscope_ja": "おうし座のあなたは、人生における不必要なドラマを減らすことに集中すべきです。些細なことを大げさに騒ぎ立てることで、どれほど自分の成長を妨げているか、気づいていないかもしれません。あまり重要でない些細なことに意識を向け直しましょう。特に、つまらない嫉妬や他人の噂話にふけるのは、今のあなたにとって何の役にも立ちません。"
     },
     "gemini": {
       "date": "2026-03-06",
       "sign": "Gemini",
       "horoscope": "Gemini, tread lightly when portraying yourself as the epitome of strength and mental prowess, capable of managing it all. Remember, the mightiest mule often bears the heaviest load. Your emotions run deeper than you might realize, and certainly more than you let on. Embrace honesty about your feelings, rather than solely relying on your thoughts.",
-      "horoscope_ja": "ふたご座のあなた、すべてをこなせる強さと精神力の象徴のように自分を演出するときは、慎重に行いましょう。最も強いラバは、しばしば最も重い荷を背負うことを忘れないでください。あなたの感情は、あなたが思っている以上に深く、そして間違いなくあなたが表に出している以上に深いのです。思考だけに頼るのではなく、自分の感情に正直になりましょう。"
+      "horoscope_ja": "ふたご座のあなた、強さと精神力の象徴で、何でもこなせるような自分を演じる時は、慎重に行いましょう。最も強いラバは、しばしば最も重い荷を背負うことを忘れないでください。あなたの感情は、あなたが思っている以上に深く、そしておそらくあなたが表に出している以上に深く根付いています。思考だけに頼るのではなく、自分の気持ちに正直になりましょう。"
     },
     "cancer": {
       "date": "2026-03-06",
@@ -73,7 +73,7 @@
       "date": "2026-03-06",
       "sign": "Pisces",
       "horoscope": "Pisces, your intuition is spot on today, so lean into those gut feelings. You may find yourself forming a meaningful connection that will support the goals you're eager to pursue. Keep your focus on what aligns with your values. The solution is right before you; there's no need to look too far for it.",
-      "horoscope_ja": "魚座のあなた、今日のあなたの直感はまさに正鵠を射ています。その直感を信じてください。あなたが熱心に追い求めている目標の達成を後押ししてくれる、有意義な繋がりが生まれるかもしれません。自分の価値観と一致するものに集中してください。解決策はすぐ目の前にあるのです。遠くまで探す必要はありません。"
+      "horoscope_ja": "魚座のあなた、今日は直感が鋭いので、その直感を信じてください。あなたが熱心に追い求めている目標の達成を後押ししてくれる、有意義な繋がりが生まれるかもしれません。自分の価値観と一致するものに集中してください。解決策はすぐ目の前にあるので、遠くまで探す必要はありません。"
     }
   }
 }
