@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T16:11:52.740Z",
+  "updated_at": "2026-03-15T18:05:26.573Z",
   "jst_date": "2026-03-16",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
@@ -7,7 +7,7 @@
       "date": "2026-03-16",
       "sign": "Aries",
       "horoscope": "Today, Aries, your ability to go with the flow will serve you well. You may encounter a whirlwind of changing feelings and unyielding perspectives around you. Rather than seeking clear-cut answers from others, remember that they might be just as uncertain as you are about certain matters. Stay calm and navigate through the ups and downs with ease.",
-      "horoscope_ja": "牡羊座のあなたにとって、今日は流れに身を任せる能力が大いに役立つでしょう。周囲では、感情の起伏が激しく、意見が二転三転するかもしれません。しかし、他人に明確な答えを求めるのではなく、彼らもあなたと同じように、ある事柄について確信が持てないでいるかもしれないということを覚えておきましょう。冷静さを保ち、浮き沈みを難なく乗り越えていきましょう。"
+      "horoscope_ja": "牡羊座のあなたにとって、今日は流れに身を任せる能力が大いに役立つでしょう。周囲では、感情の起伏が激しく、意見が二転三転するかもしれません。他人に明確な答えを求めるのではなく、相手もあなたと同じように、ある事柄について確信が持てないかもしれないということを覚えておきましょう。落ち着いて、浮き沈みを軽やかに乗り越えていきましょう。"
     },
     "taurus": {
       "date": "2026-03-16",
@@ -19,7 +19,7 @@
       "date": "2026-03-16",
       "sign": "Gemini",
       "horoscope": "Today, Gemini, you may experience a surge of emotional resilience, but a persistent thought might urge you to take a breather and approach things more gradually. If you're not mindful, this inner chatter could become overwhelming. The key right now is to listen to your heart. Engage in activities that bring you joy and surround yourself with those you cherish and admire.",
-      "horoscope_ja": "双子座の皆さん、今日は感情的な回復力がみなぎるかもしれませんが、少し立ち止まって物事にもっとゆっくりと取り組むべきだという思いが頭をよぎるかもしれません。意識を向けなければ、この内なる声に圧倒されてしまう可能性があります。今は自分の心の声に耳を傾けることが大切です。喜びを感じられる活動に没頭し、大切に思う人や尊敬する人に囲まれて過ごしましょう。"
+      "horoscope_ja": "双子座の皆さん、今日は感情的な回復力がみなぎるかもしれませんが、一息ついて物事にもっとゆっくりと取り組むべきだという思いが頭から離れないかもしれません。意識を向けなければ、この内なる声に圧倒されてしまう可能性があります。今は自分の心の声に耳を傾けることが大切です。喜びを感じられる活動に没頭し、大切に思う人や尊敬する人に囲まれて過ごしましょう。"
     },
     "cancer": {
       "date": "2026-03-16",
@@ -31,7 +31,7 @@
       "date": "2026-03-16",
       "sign": "Leo",
       "horoscope": "Today, Leo, you might struggle to tap into your feelings. It seems challenging to carve out a moment of peace where you can truly hear your inner thoughts. With distractions vying for your attention from all sides, it’s easy to feel pulled in various directions. Remember, not all of these influences have your best interests at heart.",
-      "horoscope_ja": "獅子座のあなたにとって、今日は自分の感情と向き合うのが難しいかもしれません。心の内なる声に耳を傾けられる静かな時間を見つけるのは容易ではないでしょう。あらゆる方面から注意を引こうとする誘惑に駆られ、様々な方向に引っ張られているように感じてしまうかもしれません。しかし、これらの影響すべてがあなたの利益を考えているわけではないことを覚えておいてください。"
+      "horoscope_ja": "獅子座のあなたは、今日、自分の感情と向き合うのに苦労するかもしれません。心の内なる声に耳を傾けられる静かな時間を見つけるのは、なかなか難しいでしょう。あらゆる方面から注意を引こうとする誘惑に駆られ、様々な方向に引っ張られているように感じてしまうかもしれません。しかし、これらの影響すべてがあなたのことを心から思っているわけではないことを覚えておいてください。"
     },
     "virgo": {
       "date": "2026-03-16",
@@ -43,7 +43,7 @@
       "date": "2026-03-16",
       "sign": "Libra",
       "horoscope": "Today, Libra, you're brimming with energy, but be cautious not to get lost in daydreams. It's important to stay grounded, as you might encounter challenges in your work or personal life that require a clear mind. Remember, channeling your vibrant energy into resolving these issues can be far more beneficial than allowing them to weigh you down.",
-      "horoscope_ja": "天秤座の皆さん、今日はエネルギーに満ち溢れていますが、空想にふけりすぎないように注意してください。仕事や私生活で、冷静な判断力を必要とする課題に直面するかもしれません。地に足をつけて現実を見据えることが大切です。こうした問題に悩まされるよりも、その活気に満ちたエネルギーを問題解決に注ぎ込む方が、はるかに有益であることを覚えておいてください。"
+      "horoscope_ja": "天秤座の皆さん、今日はエネルギーに満ち溢れていますが、空想にふけりすぎないように注意してください。仕事や私生活で、冷静な判断力を必要とする課題に直面するかもしれません。地に足をつけて、これらの問題を解決することに活力を与える方が、問題に押しつぶされるよりもはるかに有益であることを覚えておきましょう。"
     },
     "scorpio": {
       "date": "2026-03-16",
