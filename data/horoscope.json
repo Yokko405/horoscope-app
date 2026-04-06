@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T16:21:34.442Z",
+  "updated_at": "2026-04-06T18:15:15.178Z",
   "jst_date": "2026-04-07",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
@@ -13,7 +13,7 @@
       "date": "2026-04-07",
       "sign": "Taurus",
       "horoscope": "Today, Taurus, you may find yourself drawn to a prominent individual, possibly an author, whose words resonate with you on multiple levels. Take the opportunity to explore their work thoroughly, as it could lead to meaningful personal revelations. If your rational side questions this newfound fascination, don't fret—embracing such interests can be beneficial!",
-      "horoscope_ja": "牡牛座のあなたは今日、著名な人物、おそらくは作家に惹かれるかもしれません。その言葉は、あなたの心に様々なレベルで響くでしょう。この機会に、その人物の作品をじっくりと探求してみてください。きっと、あなたにとって意義深い気づきが得られるはずです。もし、理性的な側面がこの新たな興味に疑問を抱いたとしても、心配しないでください。こうした興味を受け入れることは、きっとあなたにとって有益なものとなるでしょう。"
+      "horoscope_ja": "牡牛座のあなたは今日、著名な人物、おそらくは作家に惹かれるかもしれません。その言葉は、あなたの心に様々なレベルで響くでしょう。この機会に、その人物の作品をじっくりと探求してみてください。きっと、あなたにとって意義深い気づきが得られるはずです。もし、理性的な側面がこの新たな興味に疑問を抱いたとしても、心配しないでください。こうした興味を受け入れることは、きっとあなたにとって有益なことでしょう。"
     },
     "gemini": {
       "date": "2026-04-07",
@@ -31,25 +31,25 @@
       "date": "2026-04-07",
       "sign": "Leo",
       "horoscope": "Tonight's social gathering may introduce you to a captivating individual with a magnetic presence and an intriguing career, Leo. Their charm and allure could leave a lasting impression on you. If you're currently single, this encounter might spark a romantic possibility! Even if romance isn't in the cards, this person could inspire you to explore new intellectual or spiritual paths. By the time you depart the event, you may feel a sense of transformation.",
-      "horoscope_ja": "今夜の社交の場で、魅力的なオーラと興味深いキャリアを持つ、獅子座の素敵な人物と出会うかもしれません。その魅力とカリスマ性は、あなたに強い印象を残すでしょう。もしあなたが現在独身なら、この出会いがロマンチックな可能性のきっかけになるかもしれません！たとえ恋愛関係に発展しなくても、この人物はあなたに新たな知的、あるいは精神的な探求の道を切り開くインスピレーションを与えてくれるでしょう。イベントを終える頃には、あなたは何か変化を感じていることに気づくかもしれません。"
+      "horoscope_ja": "今夜の社交の場で、魅力的なオーラと興味深いキャリアを持つ、獅子座の素敵な人物と出会うかもしれません。その魅力とカリスマ性は、あなたに強い印象を残すでしょう。もしあなたが現在独身なら、この出会いがロマンスのきっかけになるかもしれません！たとえ恋愛関係に発展しなくても、この人物はあなたに新たな知的、あるいは精神的な探求の道を切り開くインスピレーションを与えてくれるでしょう。イベントを終える頃には、あなたは何か変化を感じ取っているかもしれません。"
     },
     "virgo": {
       "date": "2026-04-07",
       "sign": "Virgo",
       "horoscope": "Virgo, your ability to concentrate is usually impressive, but today you find yourself even more laser-focused, likely on a project that holds significant importance for you. Whether it's work-related, assisting a friend, or a personal endeavor, you're set to achieve a great deal today. Just be mindful that in your drive, you might overlook basic needs like eating, sleeping, or taking breaks. Remember to take care of yourself!",
-      "horoscope_ja": "乙女座のあなた、普段から集中力は素晴らしいですが、今日はさらに研ぎ澄まされた集中力を発揮するでしょう。おそらく、あなたにとって非常に重要なプロジェクトに取り組んでいるはずです。仕事であれ、友人の手助けであれ、個人的な取り組みであれ、今日は大きな成果を上げられるでしょう。ただし、集中力が高まるあまり、食事や睡眠、休憩といった基本的なニーズを見落としてしまう可能性があるので、注意してください。自分の体を大切にしましょう！"
+      "horoscope_ja": "乙女座のあなた、普段から集中力は素晴らしいですが、今日はさらに研ぎ澄まされた集中力を発揮するでしょう。おそらく、あなたにとって非常に重要なプロジェクトに取り組んでいるはずです。仕事、友人の手助け、個人的な取り組みなど、何であれ、今日は大きな成果を上げられるでしょう。ただし、集中しすぎるあまり、食事や睡眠、休憩といった基本的なニーズを見落としてしまう可能性があるので、注意してください。自分の体を大切にしましょう！"
     },
     "libra": {
       "date": "2026-04-07",
       "sign": "Libra",
       "horoscope": "Today, Libra, you may find yourself in a deep and meaningful discussion with your significant other. This conversation could lead to a pivotal moment in your relationship, possibly touching on the topic of marriage. For those already tied the knot, it might signal the start of new responsibilities, like welcoming a child or moving into a new home. If you're single, be prepared to encounter someone intriguing who captivates you on multiple fronts.",
-      "horoscope_ja": "天秤座の皆さん、今日は大切な人と深く有意義な話し合いをするかもしれません。この会話は、二人の関係における重要な転換点となり、結婚という話題に触れる可能性もあります。すでに結婚している方にとっては、子供の誕生や新居への引っ越しなど、新たな責任の始まりを告げるものとなるでしょう。独身の方は、様々な面であなたを魅了する、興味深い人物との出会いに備えてください。"
+      "horoscope_ja": "天秤座の皆さん、今日は大切な人と深く有意義な話し合いをするかもしれません。この会話は、二人の関係における重要な転換点となり、結婚という話題に触れる可能性もあります。すでに結婚している方にとっては、子供を迎える、新しい家に引っ越すなど、新たな責任の始まりを告げるものとなるでしょう。独身の方は、様々な面であなたを魅了する、興味深い人物との出会いに備えてください。"
     },
     "scorpio": {
       "date": "2026-04-07",
       "sign": "Scorpio",
       "horoscope": "Today, you and your family may find yourselves contemplating some transformations at home, Scorpio. This could range from a fresh coat of paint or a renovation to something as simple as a deep clean. Alternatively, you might even consider relocating to a new space altogether. It's clear that a shift in your environment is calling to you, so take the plunge and start making those changes!",
-      "horoscope_ja": "蠍座のあなた、今日はご家族と一緒に、ご自宅の模様替えについて考えるかもしれません。ペンキを塗り替えたり、リフォームをしたり、あるいは大掃除をしたりといった簡単なことから、思い切って新しい住まいへ引っ越すことまで、様々な可能性が考えられます。環境の変化があなたを呼んでいるのは明らかです。思い切って、変化を起こしてみましょう！"
+      "horoscope_ja": "蠍座のあなた、今日はご家族と一緒に、ご自宅の模様替えについて考えるかもしれません。ペンキを塗り替えたり、リフォームをしたり、あるいは大掃除をしたりといった簡単なことから、全く新しい住まいへの引っ越しまで、様々な可能性が考えられます。環境の変化があなたを呼んでいるのは明らかです。思い切って、変化を起こしてみましょう！"
     },
     "sagittarius": {
       "date": "2026-04-07",
@@ -61,7 +61,7 @@
       "date": "2026-04-07",
       "sign": "Capricorn",
       "horoscope": "Today is the day for you, Capricorn, to tackle any financial paperwork that’s been on your desk. Whether it’s a settlement, a new commission, or a bonus, this task could lead to some exciting news. While the paperwork may feel tedious, the prospect of money flowing in should lift your spirits. Stay focused and complete it swiftly so you can enjoy a celebration with your loved ones. Don’t forget to book a table at your favorite eatery!",
-      "horoscope_ja": "山羊座のあなたにとって、今日はデスクに溜まっている金銭関係の書類を片付ける絶好の日です。和解金、新たな報酬、ボーナスなど、この作業は嬉しいニュースにつながるかもしれません。書類作成は面倒に感じるかもしれませんが、お金が入ってくる見込みはきっと気分を高揚させてくれるでしょう。集中力を保ち、迅速に処理を終えれば、大切な人たちと祝杯を挙げることができます。お気に入りのレストランの予約もお忘れなく！"
+      "horoscope_ja": "山羊座のあなたにとって、今日はデスクに溜まっている金銭関係の書類を片付ける絶好の日です。和解金、新たな報酬、ボーナスなど、この作業は嬉しいニュースにつながるかもしれません。書類作成は面倒に感じるかもしれませんが、お金が入ってくる見込みはきっと気分を高揚させてくれるでしょう。集中力を保ち、迅速に処理を終えて、大切な人たちと祝杯を挙げましょう。お気に入りのレストランの予約もお忘れなく！"
     },
     "aquarius": {
       "date": "2026-04-07",
