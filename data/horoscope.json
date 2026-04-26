@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T16:19:10.029Z",
+  "updated_at": "2026-04-26T18:11:14.794Z",
   "jst_date": "2026-04-27",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
@@ -19,7 +19,7 @@
       "date": "2026-04-27",
       "sign": "Gemini",
       "horoscope": "Today, Gemini, you might find yourself questioning the intentions of a coworker. Their agenda appears to be self-serving, potentially disregarding the feelings and needs of those who might oppose them. It's wise to be cautious and not overlook any red flags in their behavior. The most prudent approach is to keep your distance and prioritize your own well-being.",
-      "horoscope_ja": "双子座のあなたは今日、同僚の意図を疑うかもしれません。その同僚は自己中心的な考えを持ち、反対する人々の感情やニーズを無視しているように見えます。用心深く、彼らの行動に少しでも危険信号がないか注意深く観察することが賢明です。最も賢明な対応は、距離を置き、自分の健康を最優先することです。"
+      "horoscope_ja": "双子座のあなたは今日、同僚の意図を疑うかもしれません。その同僚は自己中心的な考えを持ち、反対する人々の感情やニーズを無視しているように見えます。用心深く、彼らの行動に見られる危険信号を見逃さないようにしましょう。最も賢明な対応は、距離を置き、自分の健康を最優先することです。"
     },
     "cancer": {
       "date": "2026-04-27",
@@ -43,13 +43,13 @@
       "date": "2026-04-27",
       "sign": "Libra",
       "horoscope": "Today, Libra, you may find yourself feeling a bit off-kilter, and your ability to concentrate might wane. You could struggle to stay focused on your tasks. Don't fret; this is more of a mental phase and will soon fade. You might be tempted to rely on coffee throughout the day to keep your energy up. However, it’s wise to practice moderation, as too much caffeine could backfire. Just hang in there!",
-      "horoscope_ja": "天秤座の皆さん、今日は少し調子が悪く、集中力が低下するかもしれません。目の前の作業に集中するのが難しくなるでしょう。でも心配しないでください。これは一時的なもので、すぐに解消されます。エネルギーを維持するために、一日中コーヒーに頼りたくなるかもしれません。しかし、カフェインの摂りすぎは逆効果になることもあるので、適量を心がけましょう。もう少し頑張ってください！"
+      "horoscope_ja": "天秤座の皆さん、今日は少し調子が悪く、集中力が低下するかもしれません。目の前の作業に集中するのが難しくなるでしょう。でも心配しないでください。これは一時的なもので、すぐに解消されます。エネルギーを維持するために、一日中コーヒーに頼りたくなるかもしれませんが、カフェインの摂りすぎは逆効果になることもあるので、適量を心がけましょう。もう少し頑張ってください！"
     },
     "scorpio": {
       "date": "2026-04-27",
       "sign": "Scorpio",
       "horoscope": "Today, Scorpio, you may find yourself grappling with doubts and insecurities in your romantic life. Are you and your partner on the same wavelength? Is your friend being truthful with you? What does the future hold for this relationship? The key to overcoming this inner conflict lies in taking things slowly and carefully evaluating the outcome of each step you take. By doing so, you will gradually find clarity and resolution to your uncertainties.",
-      "horoscope_ja": "蠍座の皆さん、今日は恋愛面で不安や疑念に悩まされるかもしれません。パートナーと波長が合っているでしょうか？友人は正直に話してくれているでしょうか？この関係の未来はどうなるのでしょうか？こうした内なる葛藤を克服する鍵は、物事をゆっくりと進め、一歩一歩の結果を慎重に評価することです。そうすることで、徐々に不安が解消され、明確な答えが見えてくるでしょう。"
+      "horoscope_ja": "蠍座のあなたは今日、恋愛面で不安や疑念に苛まれるかもしれません。あなたとパートナーは波長が合っているでしょうか？友人はあなたに正直に話してくれているでしょうか？この関係の未来はどうなるのでしょうか？こうした内なる葛藤を克服する鍵は、物事をゆっくりと進め、一歩一歩の結果を慎重に評価することです。そうすることで、徐々に不安が解消され、明確な答えが見えてくるでしょう。"
     },
     "sagittarius": {
       "date": "2026-04-27",
@@ -73,7 +73,7 @@
       "date": "2026-04-27",
       "sign": "Pisces",
       "horoscope": "Typically, Pisces, you possess strong focus and concentration skills. However, today you may notice a dip in these abilities. You might struggle with your tasks and find yourself reflecting on past disappointments. It could be beneficial to pause and explore why these memories are surfacing at this time. Letting go of them could help restore your concentration to its usual level.",
-      "horoscope_ja": "魚座のあなたは、通常、高い集中力と注意力を持っています。しかし、今日はその能力が低下していることに気づくかもしれません。目の前の作業に苦労したり、過去の失望を思い返したりするかもしれません。なぜ今、そのような記憶が浮かび上がってくるのか、少し立ち止まって考えてみるのも良いでしょう。それらの記憶を手放すことで、集中力をいつものレベルに戻すことができるはずです。"
+      "horoscope_ja": "魚座のあなたは、通常、高い集中力と注意力を持っています。しかし、今日はその能力が低下していることに気づくかもしれません。目の前の作業に苦労したり、過去の失望を振り返ったりするかもしれません。なぜ今、そのような記憶が浮かび上がってくるのか、少し立ち止まって考えてみるのも良いでしょう。それらの記憶を手放すことで、集中力をいつものレベルに戻すことができるはずです。"
     }
   }
 }
