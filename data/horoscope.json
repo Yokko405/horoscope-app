@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T16:37:25.191Z",
+  "updated_at": "2026-04-30T18:25:42.856Z",
   "jst_date": "2026-05-01",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
@@ -13,7 +13,7 @@
       "date": "2026-05-01",
       "sign": "Taurus",
       "horoscope": "Today is set to be a calm one for you, Taurus. You may find yourself deeply engrossed in a project, dedicating your energy to it until the evening hours. If someone suggests you take a breather, you’ll likely find it easy to decline. This is a day to trust your gut, stay focused, and immerse yourself in your work.",
-      "horoscope_ja": "今日は牡牛座のあなたにとって穏やかな一日になりそうです。何かのプロジェクトに深く没頭し、夜遅くまでエネルギーを注ぎ込むかもしれません。もし誰かに休憩を勧められても、あなたは簡単に断ってしまうでしょう。今日は自分の直感を信じ、集中力を保ち、仕事に没頭するのにぴったりの日です。"
+      "horoscope_ja": "今日は牡牛座のあなたにとって穏やかな一日になりそうです。何かのプロジェクトに深く没頭し、夜遅くまでエネルギーを注ぎ込むかもしれません。もし誰かに休憩を勧められても、おそらく簡単に断ってしまうでしょう。今日は自分の直感を信じ、集中力を保ち、仕事に没頭するのにぴったりの日です。"
     },
     "gemini": {
       "date": "2026-05-01",
@@ -43,7 +43,7 @@
       "date": "2026-05-01",
       "sign": "Libra",
       "horoscope": "Indeed, Libra, your endeavors have required more time to come to fruition. This delay stems from a lack of focused attention on your part. Juggling multiple tasks has caused progress to lag behind your expectations. To navigate this shift in your approach, it's essential to channel your energy towards a singular goal. The pressing question now is - which path will you choose?",
-      "horoscope_ja": "確かに、天秤座のあなたにとって、努力が実を結ぶまでにはより多くの時間が必要でした。この遅れは、あなたの集中力不足に起因しています。複数のタスクを同時にこなそうとしたことで、進捗が期待を下回ってしまったのです。このアプローチの変化に対応するには、エネルギーを一つの目標に集中させることが不可欠です。さて、今問われているのは、あなたがどの道を選ぶかということです。"
+      "horoscope_ja": "確かに、天秤座のあなたにとって、努力が実を結ぶまでにはより多くの時間が必要でした。この遅れは、あなたの集中力不足に起因しています。複数のタスクを同時にこなそうとしたことで、進捗が期待を下回ってしまったのです。このアプローチの変化に対応するには、一つの目標にエネルギーを集中させることが不可欠です。さて、今問われているのは、あなたがどの道を選ぶかということです。"
     },
     "scorpio": {
       "date": "2026-05-01",
@@ -55,7 +55,7 @@
       "date": "2026-05-01",
       "sign": "Sagittarius",
       "horoscope": "Sagittarius, once you discover your true path, the urge to embark on that journey becomes instinctual. However, it's important to recognize that the opposite isn't the case. Trying to master the art of walking without a clear direction is ultimately pointless. This concept might feel a bit perplexing, but it's a fundamental truth: your passion fuels your skills, not the other way around.",
-      "horoscope_ja": "射手座の皆さん、自分の真の道を見つけたら、その旅に出たいという衝動は本能的なものになります。しかし、その逆は当てはまらないことを認識することが重要です。明確な方向性を持たずに歩く技術を習得しようとするのは、結局のところ無意味です。この概念は少し戸惑うかもしれませんが、これは根本的な真実です。情熱があなたのスキルを育むのであって、その逆ではありません。"
+      "horoscope_ja": "射手座の皆さん、自分の真の道を見つけたら、その旅に出たいという衝動は本能的なものになります。しかし、その逆は当てはまらないことを理解することが重要です。明確な方向性を持たずに歩く技術を習得しようとするのは、結局のところ無意味です。この概念は少し戸惑うかもしれませんが、これは根本的な真実です。情熱があなたのスキルを育むのであって、その逆ではありません。"
     },
     "capricorn": {
       "date": "2026-05-01",
@@ -73,7 +73,7 @@
       "date": "2026-05-01",
       "sign": "Pisces",
       "horoscope": "Today, dear Pisces, is the day to unveil the hidden feelings that have been weighing on your heart. You might be harboring some intense anger, hesitant to reveal it for fear of an explosive reaction. Alternatively, you could be nurturing a deep-seated passion for someone special, keeping it under wraps. Your intellect will take precedence over your emotions today, allowing for clear thinking. Consider using this clarity to your advantage.",
-      "horoscope_ja": "今日は、親愛なる魚座の皆さん、心に秘めてきた感情を解き放つ日です。激しい怒りを抱え、爆発的な反応を恐れて表に出せないでいるかもしれません。あるいは、特別な人への深い愛情を秘めているのかもしれません。今日は感情よりも知性が優先され、明晰な思考が促されるでしょう。この明晰さを、ぜひ自分の強みとして活用してください。"
+      "horoscope_ja": "今日は、親愛なる魚座の皆さん、心に秘めてきた感情を解き放つ日です。激しい怒りを抱え、爆発的な反応を恐れて表に出せないでいるかもしれません。あるいは、特別な誰かへの深い愛情を秘めているのかもしれません。今日は感情よりも知性が優先され、明晰な思考が促されるでしょう。この明晰さを、ぜひ自分の強みとして活用してください。"
     }
   }
 }
