@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-05-29T17:17:25.220Z",
+  "updated_at": "2026-05-29T18:48:21.105Z",
   "jst_date": "2026-05-30",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
       "date": "2026-05-30",
       "sign": "Aries",
-      "horoscope": "Today, Aries, your quirky charm will shine brightly, but remember to balance it with a touch of seriousness. The day carries a whimsical, hazy vibe that may challenge your focus on specific tasks. If you feign certainty when you're unsure, it could lead to misunderstandings for those who look to you for guidance. Acknowledge that many are seeking clarity right now.",
-      "horoscope_ja": "牡羊座の皆さん、今日はあなたの個性的な魅力が輝きを放ちますが、少し真面目さも忘れずにバランスを取りましょう。今日はどこか気まぐれでぼんやりとした雰囲気に包まれ、特定のタスクに集中するのが難しくなるかもしれません。確信が持てないのに自信があるふりをすると、あなたを頼りにしている人たちを誤解させてしまう可能性があります。今は多くの人が明確な答えを求めていることを理解しましょう。"
+      "horoscope": "Today, Aries, your quirky charm will shine brightly, but remember to balance it with a touch of seriousness. The day carries a whimsical, hazy vibe that may challenge your focus on specific tasks. If you act as if you have all the answers when you're unsure, it could lead to confusion for those who look to you for guidance. Acknowledge that everyone is seeking clarity right now.",
+      "horoscope_ja": "今日は牡羊座のあなたらしい個性的な魅力が輝きますが、少し真面目さも忘れずにバランスを取りましょう。今日はどこか気まぐれでぼんやりとした雰囲気が漂い、特定のタスクに集中するのが難しくなるかもしれません。もしあなたが確信が持てないのに、まるで全てを知っているかのように振る舞うと、あなたを頼りにしている人たちを混乱させてしまう可能性があります。今は誰もが明確な答えを求めていることを理解しましょう。"
     },
     "taurus": {
       "date": "2026-05-30",
       "sign": "Taurus",
-      "horoscope": "Today, Taurus, aim to cultivate a sense of tranquility. It's essential to recognize that your inner calm significantly contributes to your overall well-being, especially during stressful periods. Take some time for introspection and gently assess your current life situation. Shift your focus away from material possessions and pay more attention to your emotional health. You may find that those around you are also feeling a bit vulnerable and emotional, so invite them to join you in this reflective journey.",
-      "horoscope_ja": "牡牛座の皆さん、今日は心の平穏を育むことを目標にしましょう。特にストレスの多い時期には、心の平穏が全体的な幸福感に大きく貢献することを認識することが重要です。少し時間を取って内省し、現在の生活状況を穏やかに評価してみましょう。物質的なものへの執着を一旦脇に置き、心の健康に意識を向けましょう。周りの人も少し傷つきやすく、感情的になっているかもしれません。そんな時は、一緒に内省の旅に誘ってみてください。"
+      "horoscope": "Today, Taurus, aim to cultivate a sense of tranquility. Your well-being greatly depends on your inner calm, especially during stressful moments. Take some time to reflect and assess your current life situation. Shift your focus away from material possessions and pay more attention to your emotional health. You may notice that those around you are also feeling a bit sensitive and emotional, so invite them to join you in this introspective journey.",
+      "horoscope_ja": "牡牛座の皆さん、今日は心の平穏を育むことを心がけましょう。特にストレスの多い時期には、心の落ち着きがあなたの幸福に大きく影響します。少し時間を取って、今の生活状況を振り返り、評価してみましょう。物質的なものへの執着を一旦脇に置き、心の健康に意識を向けましょう。周りの人も少し敏感になっていたり、感情的になっていることに気づくかもしれません。そんな時は、一緒に内省の旅に出かけてみてはいかがでしょうか。"
     },
     "gemini": {
       "date": "2026-05-30",
       "sign": "Gemini",
-      "horoscope": "Today, Gemini, you might struggle to uncover the answers you seek. Communicating your thoughts could prove challenging, as it seems everyone is lost in their own daydreams. You might find yourself drifting into that dreamy space too. Instead of trying to pull yourself back to the ground, embrace this ethereal vibe and explore new viewpoints. A fresh perspective could be just what you need.",
-      "horoscope_ja": "双子座のあなたにとって、今日は求めている答えを見つけるのに苦労するかもしれません。周りの誰もが空想にふけっているようで、自分の考えを伝えるのは難しいでしょう。あなた自身も、いつの間にか夢の世界に迷い込んでしまうかもしれません。現実に戻ろうとするのではなく、この幻想的な雰囲気を受け入れ、新たな視点を探ってみましょう。新鮮な視点こそ、あなたに必要なものかもしれません。"
+      "horoscope": "Today, Gemini, you might struggle to uncover the answers you seek. Communicating your thoughts could prove challenging, as it seems everyone is lost in their own daydreams. You might find yourself drifting into that same dreamy state. Instead of trying to pull yourself back to the ground, embrace this ethereal vibe and explore new viewpoints. A fresh perspective could be just what you need.",
+      "horoscope_ja": "双子座のあなたにとって、今日は求めている答えを見つけるのに苦労するかもしれません。周りの誰もが空想にふけっているようで、自分の考えを伝えるのは難しいでしょう。あなた自身も、いつの間にか同じような夢のような状態に陥っているかもしれません。現実に戻ろうとするのではなく、この幻想的な雰囲気を受け入れ、新しい視点を探ってみましょう。新鮮な視点こそ、あなたに必要なものかもしれません。"
     },
     "cancer": {
       "date": "2026-05-30",
       "sign": "Cancer",
-      "horoscope": "Today is all about you, Cancer! Expect others to seek you out for guidance and encouragement. People are likely to be more receptive to your beliefs and ideas, creating an open atmosphere for discussion. You might find yourself delving into deeper, more spiritual conversations, and before long, you could be sharing your insights on life's profound questions. Your personal reflections are resonating with a wide audience that is hungry for your wisdom. Remember to wield this influence with care.",
-      "horoscope_ja": "今日は蟹座のあなたにとって特別な日です！周りの人たちがあなたに助言や励ましを求めてくるでしょう。あなたの信念や考えに耳を傾けてくれる人が増え、オープンな議論の場が生まれるはずです。より深く、精神的な対話へと発展していくかもしれません。そして、やがて人生の奥深い問いに対するあなたの洞察を分かち合うことになるでしょう。あなたの個人的な考察は、あなたの知恵を求める多くの人々の心に響きます。この影響力を慎重に使いましょう。"
+      "horoscope": "Today is all about you, Cancer! Expect others to seek you out for guidance and encouragement. People are likely to be more receptive to your beliefs and ideas. Engaging discussions may take a turn towards deeper, spiritual themes, and you might find yourself sharing profound insights about life's purpose. Your personal reflections could resonate with a wide audience that is hungry for your wisdom. Remember to wield this influence with care.",
+      "horoscope_ja": "今日は蟹座のあなたにとって最高の日です！周りの人たちがあなたに助言や励ましを求めてくるでしょう。人々はあなたの信念や考えに耳を傾けてくれるはずです。活発な議論は、より深い精神的なテーマへと発展し、あなたは人生の目的についての深い洞察を分かち合うことになるかもしれません。あなたの個人的な考察は、あなたの知恵を求めている多くの人々の心に響くでしょう。この影響力を慎重に行使することを忘れないでください。"
     },
     "leo": {
       "date": "2026-05-30",
       "sign": "Leo",
-      "horoscope": "Today calls for heightened vigilance, Leo. If you find it necessary to venture out, ensure you are composed and centered before taking the wheel. And if you're cycling, remember to wear your helmet! The intense feelings that may surface now can lead to strong physical reactions, potentially even aggressive ones. Stay mindful of these impulses.",
-      "horoscope_ja": "今日は特に注意が必要です、獅子座さん。外出する必要がある場合は、ハンドルを握る前に落ち着いて冷静さを保つようにしてください。自転車に乗る場合は、ヘルメットを忘れずに着用しましょう！今湧き上がる強い感情は、激しい身体反応、場合によっては攻撃的な行動につながる可能性があります。こうした衝動には十分注意してください。"
+      "horoscope": "Today, Leo, it's crucial to exercise heightened caution. If you need to venture out, ensure you're in a serene state of mind before taking the wheel. And if you're biking, remember to wear your helmet! The intense emotions you may experience now could lead to strong physical reactions, potentially even aggressive ones. Stay mindful of these impulses.",
+      "horoscope_ja": "獅子座の皆さん、今日は特に注意が必要です。外出する必要がある場合は、運転する前に心が落ち着いていることを確認してください。自転車に乗る場合は、ヘルメットを着用することを忘れないでください。今感じている強い感情は、強い身体的反応、場合によっては攻撃的な反応につながる可能性があります。こうした衝動に注意してください。"
     },
     "virgo": {
       "date": "2026-05-30",
       "sign": "Virgo",
-      "horoscope": "Today, Virgo, you might find it challenging to acknowledge a truth that’s been lingering in your mind. The reality of the situation is clearer than you realize, especially if you’re putting up walls between yourself and a loved one. If you continue to behave this way, take a moment to reflect on why you choose to remain in this relationship. Remember, periods of doubt don’t make our personal issues disappear. Be kind to yourself as you navigate through this tough phase.",
-      "horoscope_ja": "今日、乙女座のあなたは、心にずっと引っかかっている真実を認めるのが難しいと感じるかもしれません。特に、愛する人との間に壁を作っている場合、状況の現実はあなたが思っているよりもずっと明白です。もしあなたがこのような行動を続けるなら、なぜこの関係に留まることを選んだのか、少し時間を取って考えてみてください。疑念の時期があっても、個人的な問題が消えるわけではないことを覚えておいてください。この困難な時期を乗り越える間、自分自身に優しくしてください。"
+      "horoscope": "Today, Virgo, you might find it challenging to acknowledge a truth that you’re aware of deep down. The reality of the situation may be clearer than you realize, especially if you’re putting up walls between yourself and a loved one. If you continue to behave this way, take a moment to reflect on why you choose to remain in this relationship. Remember, periods of doubt don’t make our personal issues disappear. Be kind to yourself as you navigate through this tough phase.",
+      "horoscope_ja": "今日、乙女座のあなたは、心の奥底で気づいている真実を認めるのが難しいと感じるかもしれません。特に、愛する人との間に壁を作っている場合、状況の現実はあなたが思っているよりもずっと明白かもしれません。もしあなたがこのような行動を続けるなら、なぜこの関係に留まることを選んだのか、少し時間を取って考えてみてください。疑念の時期があっても、個人的な問題が消えるわけではないことを覚えておいてください。この困難な時期を乗り越える間、自分自身に優しくしてください。"
     },
     "libra": {
       "date": "2026-05-30",
       "sign": "Libra",
-      "horoscope": "Approach your day like a strategic chess match, Libra. Your opponent might be taking their time, and it's crucial not to let impatience rush you into a quick decision. Take all the time you require to weigh your options. Remember, they could be planning several steps ahead. Maintaining your composure and focus will enhance your clarity and decision-making.",
-      "horoscope_ja": "天秤座の皆さん、今日は戦略的なチェス対局のように過ごしましょう。相手は時間をかけているかもしれません。焦って性急な決断を下さないことが重要です。選択肢をじっくり検討するのに必要な時間をすべて使いましょう。相手は数手先まで考えている可能性があることを忘れないでください。冷静さと集中力を保つことで、思考の明晰さと意思決定能力が向上します。"
+      "horoscope": "Approach your day like a strategic chess match, Libra. Your counterpart might be taking their time, but don’t let impatience rush you into a quick decision. Take all the time you require to weigh your options. Remember, they could be planning several steps ahead. Maintaining your composure and focus will enhance your clarity.",
+      "horoscope_ja": "天秤座の皆さん、今日は戦略的なチェス対局のように過ごしましょう。相手は時間をかけているかもしれませんが、焦って性急な決断を下さないでください。選択肢をじっくり検討するのに必要な時間をすべて使いましょう。相手は数歩先まで計画しているかもしれないことを忘れないでください。冷静さと集中力を保つことで、物事をより明確に理解できるようになります。"
     },
     "scorpio": {
       "date": "2026-05-30",
       "sign": "Scorpio",
       "horoscope": "Today is the day for you to break free from your usual reserve, Scorpio. You'll find that those around you are particularly attuned to your emotions, as they themselves are feeling more deeply. Expect conversations to flow through subtle cues rather than just words, a dynamic that’s important to recognize even amidst the hustle and bustle of daily life. Make an effort to show others that you are truly engaged and listening.",
-      "horoscope_ja": "今日は、いつもの控えめな態度を解き放つ日です、蠍座さん。周りの人たちは、あなたの感情に特に敏感になっていることに気づくでしょう。なぜなら、彼ら自身もより深く感じているからです。会話は言葉だけでなく、微妙なサインを通して流れるようになるでしょう。日々の慌ただしさの中でも、この流れを意識することが大切です。あなたが真剣に耳を傾け、相手に関心を持っていることを、積極的に示しましょう。"
+      "horoscope_ja": "今日は、いつもの控えめな態度を解き放つ日です、蠍座さん。周りの人たちは、あなたの感情に特に敏感になっていることに気づくでしょう。なぜなら、彼ら自身もより深く感じているからです。会話は言葉だけでなく、微妙なサインを通して流れるようになるでしょう。日々の慌ただしさの中でも、この流れを意識することは大切です。あなたが真剣に耳を傾け、相手の話に真剣に向き合っていることを、周りの人に示しましょう。"
     },
     "sagittarius": {
       "date": "2026-05-30",
       "sign": "Sagittarius",
-      "horoscope": "Sagittarius, you might find yourself feeling a touch uneasy today, sensing an undercurrent of change that you can't quite put your finger on. Imagine standing on a bridge, with a powerful river flowing beneath you—it's enticing, yet you hesitate to dive in. Remember, you don't need to engage in every situation that arises. Perhaps your true path lies on the far side of the bridge, rather than in the turbulent waters below. Staying on solid ground could keep you much more comfortable.",
-      "horoscope_ja": "射手座のあなたは、今日、漠然とした不安を感じるかもしれません。何かが変わりつつあるような、漠然とした変化の兆しを感じているのでしょう。まるで、足元に力強い川が流れる橋の上に立っているような感覚です。川に飛び込みたくなる気持ちは分かりますが、ためらってしまうかもしれません。しかし、目の前に現れるあらゆる状況に飛び込む必要はないことを覚えておいてください。もしかしたら、あなたの真の道は、下の激流ではなく、橋の向こう側にあるのかもしれません。しっかりと地に足をつけている方が、ずっと安心できるでしょう。"
+      "horoscope": "Sagittarius, you might find yourself feeling a touch uneasy today, sensing an undercurrent of change that you can't quite put your finger on. Imagine standing on a bridge, with a powerful river flowing beneath you—its allure is strong, yet you hesitate to dive in. Remember, you don’t need to engage in every situation that arises. Perhaps your true path lies on the far side of the bridge, away from the turbulent waters. Staying on solid ground could keep you much more comfortable.",
+      "horoscope_ja": "射手座のあなたは、今日、漠然とした不安を感じるかもしれません。何かが変わりつつあるような、漠然とした変化の兆しを感じているのでしょう。まるで、足元に力強い川が流れる橋の上に立っているような感覚です。川の魅力は大きいものの、飛び込むのをためらってしまう。でも、目の前に現れるあらゆる状況に飛び込む必要はないのです。もしかしたら、あなたの真の道は、激流から離れた橋の向こう側にあるのかもしれません。しっかりと地に足をつけている方が、ずっと安心できるでしょう。"
     },
     "capricorn": {
       "date": "2026-05-30",
@@ -66,14 +66,14 @@
     "aquarius": {
       "date": "2026-05-30",
       "sign": "Aquarius",
-      "horoscope": "Today, Aquarius, you might feel like you're on an elevated path, almost like a bird gliding high above the earth. While you soar, your partner is grounded, doing their utmost to stay by your side. If you continue to ascend without direction, you risk losing your way and becoming disoriented. It might be wise to stay connected with your friend and keep your feet planted on solid ground.",
-      "horoscope_ja": "水瓶座のあなたは今日、まるで鳥が地上高くを滑空しているかのように、高みへと昇り詰めたような気分になるかもしれません。あなたが空高く舞い上がる一方で、パートナーは地に足をつけて、あなたのそばにいようと最善を尽くしています。もしあなたが方向性を見失い、上昇を続けるなら、道を見失い、方向感覚を失ってしまう危険性があります。友人との繋がりを保ち、しっかりと地に足をつけておくことが賢明でしょう。"
+      "horoscope": "Today, Aquarius, you might feel like you're on an elevated path, almost like a bird gliding high above the earth. While you soar, your partner is grounded, striving to keep pace with you. If you continue to ascend without direction, you risk losing your way and becoming disoriented. It might be wise to stay connected with your friend and keep your feet planted on solid ground.",
+      "horoscope_ja": "水瓶座のあなたは今日、まるで地上高くを滑空する鳥のように、高みへと昇り詰めたような気分になるかもしれません。あなたが空高く舞い上がる一方で、パートナーは地に足をつけて、あなたに追いつこうと努力しています。もしあなたが方向性を見失い、上昇を続けるなら、道を見失い、方向感覚を失う危険性があります。友人との繋がりを保ち、しっかりと地に足をつけておくのが賢明でしょう。"
     },
     "pisces": {
       "date": "2026-05-30",
       "sign": "Pisces",
       "horoscope": "Today, Pisces, it seems your vitality has returned! You've often sought refuge at home during times of uncertainty, but now you're brimming with renewed energy and eager to embrace the world. Your feelings are harmonizing beautifully with your actions, providing you with a clear sense of direction. You have a strong understanding of the journey ahead, and the way forward is unmistakable.",
-      "horoscope_ja": "魚座の皆さん、今日は活力が戻ってきたようですね！不安な時期には家に引きこもりがちだったかもしれませんが、今は新たなエネルギーに満ち溢れ、世界を積極的に受け入れようとしています。感情と行動が美しく調和し、明確な方向性が見えてきました。これから待ち受ける道のりをしっかりと理解しており、進むべき道は明白です。"
+      "horoscope_ja": "魚座の皆さん、今日は活力がみなぎっているようですね！不安な時期には家に引きこもりがちだったかもしれませんが、今は新たなエネルギーに満ち溢れ、世界を積極的に受け入れようとしています。感情と行動が美しく調和し、明確な方向性が見えてきました。これから待ち受ける道のりをしっかりと理解しており、進むべき道は明白です。"
     }
   }
 }
