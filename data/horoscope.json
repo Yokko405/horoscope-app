@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-08T17:13:36.107Z",
+  "updated_at": "2026-06-08T18:45:24.664Z",
   "jst_date": "2026-06-09",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
       "date": "2026-06-09",
       "sign": "Aries",
-      "horoscope": "Today holds significant implications for the trajectory of your romantic life. Any uncertainties you experience, particularly regarding your emotions, may prompt you to reflect deeply before taking any action. Should you reconsider your past choices or proceed with confidence? This is the dilemma you face at this moment. Take your time and avoid rushing into decisions.",
-      "horoscope_ja": "今日は、あなたの恋愛の行方に大きな影響を与える日となるでしょう。特に感情面で不安を感じている場合は、行動を起こす前にじっくりと考える必要があるかもしれません。過去の選択を見直すべきか、それとも自信を持って進むべきか？これが、あなたが今直面しているジレンマです。焦らず、じっくりと時間をかけて決断しましょう。"
+      "horoscope": "Today holds significant implications for the trajectory of your romantic life. Any uncertainties you experience, particularly regarding your emotions, will encourage you to reflect carefully before taking any action. Should you reconsider your past choices or proceed with confidence? This is the dilemma you face at the moment. Take your time and avoid rushing into decisions.",
+      "horoscope_ja": "今日は、あなたの恋愛の行方に大きな影響を与える日となるでしょう。特に感情面で不安を感じることがあるかもしれませんが、それは行動を起こす前にじっくりと考えるきっかけとなるはずです。過去の選択を見直すべきか、それとも自信を持って進むべきか？これが今のあなたのジレンマです。焦らず、じっくり考えましょう。"
     },
     "taurus": {
       "date": "2026-06-09",
@@ -18,62 +18,62 @@
     "gemini": {
       "date": "2026-06-09",
       "sign": "Gemini",
-      "horoscope": "As you navigate your day, you might find yourself contemplating the extent of your involvement in a dispute, whether it's within your family or at work. The weight of this decision may feel heavy, but remember, you don't need to choose a side. By remaining neutral, you can allow the situation to unfold naturally. Embrace the idea that sometimes, stepping back and letting events take their course can lead to the best outcomes.",
-      "horoscope_ja": "日々の生活の中で、家族や職場での争いに自分がどの程度関わっているのかを考えることがあるかもしれません。決断の重圧を感じるかもしれませんが、どちらかの側に立つ必要はないことを覚えておいてください。中立の立場を保つことで、状況が自然に展開するのを待つことができます。時には一歩引いて事態の成り行きを見守ることが、最良の結果につながることもあるという考え方を受け入れましょう。"
+      "horoscope": "As you navigate your day, you might find yourself contemplating the extent of your involvement in a dispute, whether it's within your family or at work. The weight of this decision may feel heavy, but remember, the key is to remain neutral. By refraining from taking sides, you’ll likely see the situation resolve itself. Embrace the idea of stepping back and allowing events to unfold naturally for a change.",
+      "horoscope_ja": "日々の生活の中で、家族や職場での争いに自分がどの程度関わっているのかを考えることがあるかもしれません。決断の重圧を感じるかもしれませんが、大切なのは中立を保つことです。どちらかの味方につかなければ、状況は自然と解決に向かうでしょう。たまには一歩引いて、事態が自然に展開するのを待つという考え方を受け入れてみてください。"
     },
     "cancer": {
       "date": "2026-06-09",
       "sign": "Cancer",
-      "horoscope": "It's time to ease your stress levels and let go of the little things that have been bothering you, Cancer. Today brings clarity, helping you uncover the underlying issues that have been affecting your mood. You'll gain insight into your personality and discover the true sources of your emotional ups and downs. Rest assured, there's really nothing to fret about.",
-      "horoscope_ja": "蟹座の皆さん、そろそろストレスを解消し、これまで悩まされてきた些細なことを手放しましょう。今日は物事がはっきりと見えてきて、気分に影響を与えていた根本的な問題が明らかになるでしょう。自分の性格を深く理解し、感情の浮き沈みの真の原因を発見できるはずです。心配する必要は全くありませんので、ご安心ください。"
+      "horoscope": "It's time to ease your stress levels and let go of the little things that have been bothering you, Cancer. Today brings clarity, helping you uncover the underlying issues that have been affecting your mood. You'll gain insights into your personality that reveal the true sources of your emotional ups and downs. Rest assured, there's really nothing to fret about.",
+      "horoscope_ja": "蟹座の皆さん、そろそろストレスを解消し、これまで悩まされてきた些細なことを手放しましょう。今日は物事がはっきりと見えてきて、気分に影響を与えていた根本的な問題が明らかになるでしょう。自分の性格に対する洞察が深まり、感情の浮き沈みの真の原因がわかるはずです。心配する必要は全くありませんので、ご安心ください。"
     },
     "leo": {
       "date": "2026-06-09",
       "sign": "Leo",
-      "horoscope": "Beware of those overly confident individuals, Leo; they might not intend to provoke you, but your instinct is to confront them to show that you won't be intimidated. Fortunately, the current cosmic vibes suggest a shift in this ongoing battle. You might find that others can genuinely respect and value you, even when you're not always on guard.",
-      "horoscope_ja": "獅子座のあなた、自信過剰な人には気をつけましょう。彼らはあなたを挑発するつもりはないかもしれませんが、あなたは本能的に彼らに立ち向かい、自分が怯まないことを示そうとします。幸いなことに、現在の宇宙のエネルギーは、この戦いに変化が訪れることを示唆しています。あなたが常に警戒していなくても、周りの人があなたを心から尊敬し、大切にしてくれることに気づくかもしれません。"
+      "horoscope": "Beware of those overly confident individuals, Leo; they might not intend to provoke you, but your instinct is to confront them to show that you won't be intimidated. Fortunately, the current cosmic vibes suggest a shift in this ongoing tension. You might find that others can genuinely respect and value you, even when you're not always on guard.",
+      "horoscope_ja": "獅子座のあなた、自信過剰な人には気をつけましょう。彼らはあなたを挑発するつもりはないかもしれませんが、あなたは本能的に彼らに立ち向かい、自分が怯まないことを示そうとします。幸いなことに、現在の宇宙のエネルギーは、この緊張関係に変化が訪れることを示唆しています。あなたが常に警戒していなくても、周りの人があなたを心から尊敬し、大切にしてくれることに気づくかもしれません。"
     },
     "virgo": {
       "date": "2026-06-09",
       "sign": "Virgo",
-      "horoscope": "Today holds significant meaning for you, Virgo, particularly if you’re involved in the arts. The creations you’ve started are starting to take on a life of their own. It’s the moment to define them and let them shine independently. While this process can be bittersweet, deep down, you understood that they wouldn’t remain solely yours. Embrace the duality of joy and sorrow that comes with the act of creation; it’s part of your journey.",
-      "horoscope_ja": "乙女座のあなたにとって、今日は特に芸術に携わっている方にとって、非常に重要な日となるでしょう。あなたが始めた創作活動は、独自の生命を宿し始めています。今こそ、それらを定義づけ、独立した輝きを放つ時です。この過程は喜びと悲しみが入り混じるものかもしれませんが、心の奥底では、それらがあなただけのものにはならないことを理解していたはずです。創造という行為に伴う喜びと悲しみの二面性を受け入れましょう。それはあなたの人生の旅の一部なのです。"
+      "horoscope": "Today holds significant meaning for you, Virgo, particularly if you’re involved in the arts. The project you’ve been nurturing is starting to take on a life of its own. It’s time to define it and allow it to shine independently. While this process may be bittersweet, deep down, you understood it wouldn’t remain solely yours. Embrace the duality of creation—the joy and the heartache—as part of your journey.",
+      "horoscope_ja": "乙女座のあなたにとって、今日は特に芸術に携わっている方にとって、非常に重要な日となるでしょう。あなたがこれまで大切に育ててきたプロジェクトが、いよいよ独自の生命を宿し始めています。今こそ、そのプロジェクトを明確に定義し、独立した輝きを放つ時です。この過程は喜びと悲しみが入り混じるものかもしれませんが、心の奥底では、それがあなただけのものにはならないことを理解していたはずです。創造の二面性――喜びと悲しみ――を、あなたの旅の一部として受け入れましょう。"
     },
     "libra": {
       "date": "2026-06-09",
       "sign": "Libra",
-      "horoscope": "Libra, do you see yourself as a thinker, a wordsmith, a storyteller, or a dramatist? The cosmic vibes today may have you grappling with your worries and uncertainties. Yet, one truth stands clear: words are your loyal companions on this journey. Embrace this blend of aspiration and challenge that resonates with your Libra essence. Dive into your writing; it’s where your true calling and enthusiasm await.",
-      "horoscope_ja": "天秤座の皆さん、あなたは自分を思想家、言葉の達人、物語の語り手、それとも劇作家だと考えていますか？今日の宇宙のエネルギーは、あなたの不安や不確実性と向き合うように促しているかもしれません。しかし、一つ確かなことがあります。それは、言葉はこの旅路におけるあなたの忠実な仲間だということです。天秤座の本質に響く、この願望と挑戦の融合を受け入れてください。執筆に没頭しましょう。そこにこそ、あなたの真の使命と情熱が待っています。"
+      "horoscope": "Libra, do you see yourself as a thinker, a wordsmith, a storyteller, or a dramatist? The cosmic vibes today may have you grappling with your worries and uncertainties. Yet, one truth stands clear: words are your loyal companions on this journey. Embrace this blend of aspiration and challenge that resonates with your Libra essence. Dive into your writing; it's where your true calling and enthusiasm await.",
+      "horoscope_ja": "天秤座の皆さん、あなたは自分を思想家、言葉の達人、物語の語り手、それとも劇作家だと考えていますか？今日の宇宙のエネルギーは、あなたの不安や不確実性と向き合うように促しているかもしれません。しかし、一つ確かなことがあります。それは、言葉はこの旅路におけるあなたの忠実な仲間だということです。天秤座の本質に響く、この高揚感と挑戦の融合を受け入れてください。執筆に没頭しましょう。そこにこそ、あなたの真の使命と情熱が待っています。"
     },
     "scorpio": {
       "date": "2026-06-09",
       "sign": "Scorpio",
-      "horoscope": "Have you been pushing yourself too hard and missing out on the joys that others seem to be relishing? Is there a tempting pair of shoes from your go-to online shop that you've been holding back from purchasing? Treat yourself today; you deserve it! Remember, the cost of something doesn't always reflect its true worth. Take a moment to reflect on this.",
-      "horoscope_ja": "自分を追い込みすぎて、周りの人が楽しんでいるような喜びを逃していませんか？お気に入りのオンラインショップで、ずっと購入をためらっている魅力的な靴はありませんか？今日は自分にご褒美をあげましょう。あなたはそれに値するのです！物の値段は必ずしもその真の価値を反映しているわけではないことを覚えておいてください。少し時間を取って、このことを考えてみてください。"
+      "horoscope": "Have you been pushing yourself too hard and missing out on the joys that others seem to be relishing? Is there a tempting pair of shoes from your go-to online shop that you've been holding back from purchasing? Treat yourself today; you deserve it, and you won't look back with regret. Remember, the cost of something doesn't always reflect its true worth. Take a moment to reflect on that.",
+      "horoscope_ja": "自分を追い込みすぎて、周りの人が楽しんでいるような喜びを逃していませんか？お気に入りのオンラインショップで、ずっと購入をためらっている魅力的な靴はありませんか？今日は自分にご褒美をあげましょう。あなたはそれに値するし、後悔することはありません。物の値段は必ずしもその真の価値を反映しているとは限らないことを覚えておいてください。少し時間を取って、そのことを考えてみてください。"
     },
     "sagittarius": {
       "date": "2026-06-09",
       "sign": "Sagittarius",
-      "horoscope": "You might be feeling a bit nostalgic for your family, Sagittarius, especially if they're not nearby. Remember, your friends are here for you and ready to demonstrate just how much they care. They value you deeply, and their support will remind you that you matter immensely. Plus, they'll help shield you from those who might try to take advantage of you as you pursue your dreams.",
-      "horoscope_ja": "射手座のあなたは、特に家族が近くにいない場合は、家族への郷愁を感じているかもしれません。でも、あなたの友人たちはいつもあなたのそばにいて、どれほどあなたを大切に思っているかを示そうとしています。彼らはあなたを深く愛しており、そのサポートはあなたがどれほど大切な存在であるかを思い出させてくれるでしょう。さらに、あなたが夢を追いかける中で、あなたを利用しようとする人たちから守ってくれるはずです。"
+      "horoscope": "You might be feeling the distance from your family, Sagittarius, and longing for their presence. Remember, your friends are here for you and ready to demonstrate their affection. They value you immensely, just as much as the air they breathe. Additionally, they'll stand by you, ensuring that no one takes advantage of you as you pursue your dreams.",
+      "horoscope_ja": "射手座のあなたは、家族との距離を感じ、彼らの存在を恋しく思っているかもしれません。でも、あなたの友人たちはいつもあなたのそばにいて、愛情を惜しみなく示してくれることを忘れないでください。彼らはあなたを、まるで呼吸する空気のように大切に思っています。さらに、彼らはあなたのそばにいて、あなたが夢を追いかける中で、誰もあなたを利用しないように守ってくれるでしょう。"
     },
     "capricorn": {
       "date": "2026-06-09",
       "sign": "Capricorn",
-      "horoscope": "The innocent child within you, Capricorn, is still influencing your life in ways you might not want to acknowledge. Why resist that gentle and loving side of yourself that continues to surface, even now? Embracing your childhood memories with warmth and affection can help you let go of your flaws and insecurities more effortlessly. So take a moment to reflect on those sweet times and allow yourself to smile at the past.",
-      "horoscope_ja": "山羊座のあなた、あなたの中に眠る無邪気な子供は、あなたが認めたくないような形で、今もなおあなたの人生に影響を与えています。今もなお表面化し続ける、優しく愛情深い一面を、なぜ拒絶するのでしょうか？幼い頃の思い出を温かく愛情深く受け入れることで、自分の欠点や不安をより容易に手放すことができるでしょう。さあ、あの甘い思い出に浸り、過去に微笑みかけてみてください。"
+      "horoscope": "The innocent child within you, Capricorn, is still influencing your life in ways you might not realize. Why resist acknowledging that gentle and loving side of yourself that lingers into adulthood? Embracing your childhood memories with warmth can help you let go of your flaws and insecurities more effortlessly. Take a moment to reflect on those joyful times and allow yourself to smile at the past.",
+      "horoscope_ja": "山羊座のあなた、あなたの中に眠る無邪気な子供は、あなたが気づかないうちに、今もなおあなたの人生に影響を与えています。大人になってもなお残る、優しく愛情深い一面を認めることを、なぜ拒むのでしょうか？幼い頃の思い出を温かく受け入れることで、自分の欠点や不安をより容易に手放すことができるでしょう。少し時間を取って、あの楽しい日々を振り返り、過去に微笑みかけてみてください。"
     },
     "aquarius": {
       "date": "2026-06-09",
       "sign": "Aquarius",
-      "horoscope": "Aquarius, today you’ll find yourself brimming with creativity, ready to address the challenges that have been affecting your circle. Your practical approach and diplomatic skills will enable you to effectively resolve the issues that have been causing distress for your loved ones. Be a source of calm amidst the potential anxiety that may linger in the air today.",
-      "horoscope_ja": "水瓶座のあなた、今日は創造力に満ち溢れ、周囲の人々を悩ませてきた課題に取り組む準備が整っているでしょう。あなたの現実的なアプローチと外交手腕は、愛する人々を苦しめてきた問題を効果的に解決するのに役立ちます。今日、周囲に漂うかもしれない不安の中で、あなたは穏やかな存在でありましょう。"
+      "horoscope": "Aquarius, today you’ll find yourself brimming with creativity, ready to address the challenges that have been affecting your circle. Your practical approach and diplomatic skills will enable you to effectively resolve the issues that have been causing distress for your loved ones. Be a source of calm amidst the potentially tense energy that may linger in the air today.",
+      "horoscope_ja": "水瓶座のあなた、今日は創造力に満ち溢れ、周囲の人々を悩ませてきた課題に取り組む準備が整っているでしょう。あなたの現実的なアプローチと外交手腕は、愛する人々を苦しめてきた問題を効果的に解決するのに役立つはずです。今日、周囲に漂うかもしれない緊張感の中で、あなたは穏やかな存在でありましょう。"
     },
     "pisces": {
       "date": "2026-06-09",
       "sign": "Pisces",
-      "horoscope": "Your loved ones are urging you to take a second look at your long-term goals, Pisces. Their needs are evolving, and it’s important to acknowledge this shift. However, the ideas you generate might fall short of what’s required. Stay calm and take this as an opportunity to reassess your approach, particularly in your connections with those who matter most.",
-      "horoscope_ja": "魚座のあなたへ。あなたの愛する人たちは、長期的な目標を改めて見直すよう促しています。彼らのニーズは変化しており、この変化を認識することが重要です。しかし、あなたが思いつくアイデアは、求められているものには及ばないかもしれません。落ち着いて、この機会に、特に最も大切な人たちとの関係において、自分のアプローチを再評価しましょう。"
+      "horoscope": "Your family is urging you to take a second look at your long-term goals, Pisces. It seems that the needs of your loved ones are evolving. However, the solutions you devise might fall short. Stay calm and take this as an opportunity to reassess your approach, particularly in your relationships with those who matter most to you.",
+      "horoscope_ja": "魚座のあなた、家族はあなたの長期的な目標を改めて見直すよう促しています。愛する人たちのニーズが変化しているようですが、あなたが考え出す解決策は不十分かもしれません。落ち着いて、この機会に、特にあなたにとって最も大切な人たちとの関係において、自分のアプローチを再評価してみましょう。"
     }
   }
 }
