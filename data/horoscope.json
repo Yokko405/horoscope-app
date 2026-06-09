@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-06-09T17:01:21.297Z",
+  "updated_at": "2026-06-09T18:39:40.597Z",
   "jst_date": "2026-06-10",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
       "date": "2026-06-10",
       "sign": "Aries",
-      "horoscope": "Your nurturing nature often leads you to step in and support those around you. However, today the tables have turned, and you might find yourself seeking guidance. To gain a clearer perspective on your own situation, consider taking a break from your routine. You may even start planning an exciting getaway to a foreign destination in the near future.",
-      "horoscope_ja": "あなたは思いやりのある性格で、周りの人を助けようとすることが多いでしょう。しかし今日は立場が逆転し、あなたが誰かの助けを求めることになるかもしれません。自分の状況をより明確に把握するために、日々のルーティンから少し離れてみるのも良いでしょう。近い将来、海外旅行を計画するのも良いかもしれません。"
+      "horoscope": "Your nurturing nature often leads you to step in and support those around you. However, today the tables have turned, and you might find yourself seeking guidance. To gain a clearer perspective on your own journey, consider taking a break from your routine. You may even start planning an exciting getaway abroad for the future.",
+      "horoscope_ja": "あなたは思いやりのある性格で、周りの人を助けようとすることが多いでしょう。しかし今日は立場が逆転し、あなたが導きを求める立場になっているかもしれません。自分の人生の歩みをより明確に理解するために、日々のルーティンから少し離れてみてはいかがでしょうか。将来、刺激的な海外旅行を計画し始めるのも良いかもしれません。"
     },
     "taurus": {
       "date": "2026-06-10",
       "sign": "Taurus",
-      "horoscope": "Navigating modern life often requires us to find a middle ground. While your convictions may run deep, balancing them with social interactions can be challenging. Today, you might find yourself contemplating whether you're willing to step back from the social scene to stand firm in your beliefs. Consider whether there's a way to harmonize your values with the realities of everyday life.",
-      "horoscope_ja": "現代社会を生き抜くには、しばしば妥協点を見つけることが求められます。強い信念を持っていても、それを社会生活と両立させるのは容易ではありません。今日、あなたは自分の信念を貫くために、社会生活から一歩引くべきかどうか悩んでいるかもしれません。自分の価値観と日常生活の現実を調和させる方法はないか、考えてみてください。"
+      "horoscope": "Navigating modern life often requires us to find a middle ground. While your convictions may run deep, balancing them with social interactions can be challenging. Today, you might find yourself contemplating whether you're ready to step back from societal norms to stand firm in your beliefs. Consider whether there's a way to harmonize your values with the realities of everyday life.",
+      "horoscope_ja": "現代社会を生き抜くには、しばしば妥協点を見つけることが求められます。強い信念を持っていても、それを社会生活と両立させるのは容易ではありません。今日、あなたは社会規範から一歩引いて、自分の信念を貫く覚悟ができているかどうか、自問自答しているかもしれません。自分の価値観と日常生活の現実を調和させる方法はないか、考えてみてください。"
     },
     "gemini": {
       "date": "2026-06-10",
@@ -30,14 +30,14 @@
     "leo": {
       "date": "2026-06-10",
       "sign": "Leo",
-      "horoscope": "Today, Leo, you may find yourself awash in a wave of emotions, reminiscent of your childhood days. This heightened sensitivity could leave you feeling a bit on edge. However, it's an excellent opportunity for introspection. Take this time to evaluate your life and assess whether everything around you aligns with your expectations. Embrace this mindset and make the most of your reflections.",
-      "horoscope_ja": "獅子座のあなたは今日、幼い頃を彷彿とさせるような感情の波に押し流されるかもしれません。この高まった感受性によって、少し神経質になることもあるでしょう。しかし、これは内省する絶好の機会です。この機会に自分の人生を振り返り、周囲のすべてが自分の期待に合致しているかどうかを評価してみましょう。この心構えを受け入れ、内省の時間を最大限に活用してください。"
+      "horoscope": "Today, Leo, you may find yourself awash in a wave of emotions, reminiscent of your childhood days. This heightened sensitivity could leave you feeling a bit on edge. However, it's an excellent opportunity for introspection. Take this time to assess whether your surroundings align with your expectations. Embrace this reflective mindset and make the most of it.",
+      "horoscope_ja": "獅子座のあなたは今日、幼い頃を彷彿とさせるような感情の波に押し流されるかもしれません。この高まった感受性によって、少し神経質になることもあるでしょう。しかし、これは内省する絶好の機会です。この時間を利用して、周囲の状況があなたの期待に合致しているかどうかをじっくり考えてみてください。この内省的な心構えを受け入れ、最大限に活用しましょう。"
     },
     "virgo": {
       "date": "2026-06-10",
       "sign": "Virgo",
-      "horoscope": "Virgo, your allure is undeniable. There's a vibrant energy within you that effortlessly captivates those in your vicinity. Today, your deep well of sensitivity and emotion has the potential to expand even further. You may find yourself enchanting new acquaintances. Remember to take some time for self-care to ensure your emotional well-being remains strong in the days ahead.",
-      "horoscope_ja": "乙女座のあなた、その魅力は紛れもないものです。あなたの内には、周囲の人々をたちまち魅了する活気に満ちたエネルギーが溢れています。今日は、あなたの深い感受性と感情がさらに広がる可能性を秘めています。新しい出会いを魅了することもあるでしょう。これから先も心の健康を保つために、セルフケアの時間も忘れずに取ってくださいね。"
+      "horoscope": "Virgo, your allure is undeniable. There's a captivating energy within you that effortlessly draws others in. Today, your deep well of sensitivity and emotion has the potential to expand even further. You may find yourself enchanting new acquaintances. Remember to take some time for self-care to ensure your emotional well-being remains strong in the days ahead.",
+      "horoscope_ja": "乙女座のあなた、その魅力は紛れもないものです。あなたの中には、人々を惹きつける不思議なエネルギーが宿っています。今日は、あなたの深い感受性と感情がさらに広がる可能性を秘めています。新しい知り合いを魅了することもあるでしょう。これから先も心の健康を保つために、セルフケアの時間も忘れずに取ってくださいね。"
     },
     "libra": {
       "date": "2026-06-10",
@@ -55,13 +55,13 @@
       "date": "2026-06-10",
       "sign": "Sagittarius",
       "horoscope": "Emotional connections are vital for your well-being, and today is no different. You may find yourself wanting to impress those you look up to. However, be aware that they might not respond as you hope right away. Patience is key; there will be plenty of chances ahead to make your mark.",
-      "horoscope_ja": "感情的な繋がりはあなたの幸福にとって不可欠であり、今日も例外ではありません。あなたは尊敬する人たちに好印象を与えたいと思うかもしれません。しかし、彼らがすぐにあなたの期待通りに反応するとは限らないことを覚えておいてください。忍耐が鍵となります。これから先、あなたの存在感を示す機会はいくらでもあります。"
+      "horoscope_ja": "感情的な繋がりはあなたの幸福にとって不可欠であり、今日も例外ではありません。あなたは尊敬する人たちに好印象を与えたいと思うかもしれません。しかし、彼らがすぐにあなたの期待に応えてくれるとは限らないことを覚えておいてください。忍耐が鍵となります。これから先、あなたの存在感を示す機会はいくらでもあります。"
     },
     "capricorn": {
       "date": "2026-06-10",
       "sign": "Capricorn",
-      "horoscope": "Today, it's best not to resist the emotions that surge within you. Avoid the temptation to overthink or rationalize them, as they may be tied to deep-seated feelings from your past. Instead of shying away from or dissecting these emotions, acknowledge them. You may experience a whirlwind of feelings, Capricorn, so seek solace and tranquility with someone special.",
-      "horoscope_ja": "今日は、心に湧き上がる感情に抵抗しないのが一番です。過去の深い感情と結びついている可能性があるので、考えすぎたり、理屈で説明しようとしたりするのは避けましょう。これらの感情から目を背けたり、分析したりするのではなく、ありのままに受け入れてください。山羊座のあなたは、感情の渦に巻き込まれるかもしれません。そんな時は、大切な人と安らぎと静けさを求めましょう。"
+      "horoscope": "Today, embrace the emotions that arise within you instead of resisting them. There's no need to dissect or justify these feelings, as they may be tied to experiences from your early years. Rather than shying away from or overthinking them, acknowledge the inner turbulence that may surface, Capricorn. Seek solace and tranquility with a loved one to help navigate through this emotional wave.",
+      "horoscope_ja": "今日は、心に湧き上がる感情に抵抗するのではなく、受け入れてみましょう。これらの感情を分析したり正当化したりする必要はありません。なぜなら、それらは幼少期の経験と結びついている可能性があるからです。山羊座のあなたは、感情から目を背けたり、考えすぎたりするのではなく、表面化するかもしれない内なる葛藤を認めましょう。この感情の波を乗り越えるために、愛する人と共に安らぎと静けさを求めてください。"
     },
     "aquarius": {
       "date": "2026-06-10",
