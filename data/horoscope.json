@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-06-22T17:36:26.924Z",
+  "updated_at": "2026-06-22T19:02:47.122Z",
   "jst_date": "2026-06-23",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
       "date": "2026-06-23",
       "sign": "Aries",
-      "horoscope": "Embrace your adventurous spirit today, Aries, and venture into uncharted waters. Step into the role of a trailblazer and seek out new experiences. This is not a day for hesitation or dwelling on potential outcomes; it's a time to initiate and explore. The universe is brimming with vibrant energy that supports your pursuit of the novel and exciting. Take charge of your journey, and don’t let naysayers or distractions derail your enthusiasm.",
-      "horoscope_ja": "今日は冒険心を発揮して、未知の領域へ踏み出しましょう、牡羊座の皆さん。先駆者の役割を担い、新しい経験を求めましょう。今日はためらったり、結果をあれこれ考えたりする日ではありません。行動を起こし、探求する時です。宇宙は、あなたが新しい刺激的なことを求めるのを後押しする、活気に満ちたエネルギーで溢れています。自分の旅を自ら切り開き、否定的な意見や邪魔なものに情熱をくじかれないようにしましょう。"
+      "horoscope": "Embrace your adventurous spirit today, Aries, and venture into uncharted waters. Step into the role of a trailblazer and seek out new experiences. This is not a day for hesitation or dwelling on potential outcomes; it's a time to initiate and explore. The universe is brimming with vibrant energy, supporting your journey towards the novel and exciting. Take charge and stay focused, avoiding distractions from those who may dampen your enthusiasm.",
+      "horoscope_ja": "今日は冒険心を発揮して、未知の領域へ踏み出しましょう、牡羊座の皆さん。先駆者としての役割を担い、新しい経験を求めてください。今日はためらったり、結果をあれこれ考えたりする日ではありません。行動を起こし、探求する時です。宇宙は活気に満ちたエネルギーに溢れ、あなたの新しい刺激的な旅を後押ししてくれます。主導権を握り、集中力を保ち、あなたの熱意を冷ますような邪魔者には惑わされないようにしましょう。"
     },
     "taurus": {
       "date": "2026-06-23",
       "sign": "Taurus",
-      "horoscope": "Today, Taurus, you might find yourself facing some challenging emotional situations that could stir up anxiety. It seems like things are moving forward without the thorough planning you prefer. Remember, excessive worry can impede your progress. Trust that everything will fall into place. Embrace your courage and take the initiative to propel things forward rather than holding back.",
-      "horoscope_ja": "牡牛座の皆さん、今日は不安を掻き立てるような、困難な感情的な状況に直面するかもしれません。物事はあなたが望むような綿密な計画なしに進んでいるように見えるでしょう。過度の心配は進歩を妨げることを覚えておいてください。すべてはうまくいくと信じましょう。勇気を出して、ためらうのではなく、率先して物事を前進させてください。"
+      "horoscope": "Today, Taurus, you might find yourself facing some challenging emotional situations that could stir up anxiety. It seems like things are unfolding without the thorough planning you prefer. Remember, excessive worry can impede your progress. Trust that everything will fall into place. Embrace your courage and take the initiative to propel things forward rather than holding back.",
+      "horoscope_ja": "牡牛座の皆さん、今日は不安を掻き立てるような、困難な感情的な状況に直面するかもしれません。物事が、あなたが望むような綿密な計画なしに展開しているように感じられるでしょう。過度の心配は進歩を妨げることを覚えておいてください。すべてはうまくいくと信じましょう。勇気を振り絞り、ためらうのではなく、率先して物事を前進させてください。"
     },
     "gemini": {
       "date": "2026-06-23",
@@ -36,8 +36,8 @@
     "virgo": {
       "date": "2026-06-23",
       "sign": "Virgo",
-      "horoscope": "Today, Virgo, the flames of passion are burning bright, so tread carefully. It's important to resist the urge to act on impulse. You might feel a strong inclination to react sharply to those around you without fully considering the aftermath. If you sense your temper rising, take a moment to pause and regain your composure. Chase your ambitions, but ensure that your pursuit doesn't come at the cost of others.",
-      "horoscope_ja": "今日は乙女座の皆さん、情熱の炎が激しく燃え上がっています。ですから、慎重に行動してください。衝動的に行動したいという気持ちを抑えることが大切です。周囲の人々に対して、結果を十分に考えずに激しく反応したくなるかもしれません。怒りがこみ上げてきたら、少し立ち止まって冷静さを取り戻しましょう。自分の目標を追い求めるのは良いことですが、その追求が他者を犠牲にすることにならないよう注意してください。"
+      "horoscope": "Today, Virgo, the flames of passion are burning bright, so tread carefully. It's important to resist the urge to act on impulse. Your instinct might lead you to react sharply to others without considering the fallout. If you feel your temper rising, take a moment to pause and regain your composure. Chase your ambitions, but be mindful not to trample on those around you in the process.",
+      "horoscope_ja": "今日は乙女座の皆さん、情熱の炎が激しく燃え上がっています。ですから、慎重に行動してください。衝動的に行動したいという気持ちを抑えることが大切です。本能的に、結果を考えずに他人に激しく反応してしまうかもしれません。怒りがこみ上げてきたら、少し立ち止まって冷静さを取り戻しましょう。目標に向かって努力するのは良いことですが、その過程で周囲の人を踏みにじらないように注意してください。"
     },
     "libra": {
       "date": "2026-06-23",
@@ -48,14 +48,14 @@
     "scorpio": {
       "date": "2026-06-23",
       "sign": "Scorpio",
-      "horoscope": "Today, Scorpio, you might sense that someone is nudging you to take action and shake off any inertia. If it feels like someone is teasing or targeting you without cause, don’t let it get under your skin. The insensitivity of those around you could be particularly pronounced today. Remember, it’s not a reflection of you. Your tough exterior may face challenges in shielding your more delicate feelings.",
-      "horoscope_ja": "蠍座のあなたは今日、誰かがあなたに行動を起こすよう促し、停滞感を打破させようとしているのを感じるかもしれません。もし誰かが理由もなくあなたをからかったり、標的にしているように感じても、気にしないようにしましょう。今日は周囲の無神経さが特に顕著に表れるかもしれません。しかし、それはあなた自身の性格を反映しているわけではないことを覚えておいてください。あなたの強気な外見は、繊細な感情を守る上で困難に直面するかもしれません。"
+      "horoscope": "Today, Scorpio, you might sense that someone is nudging you to take action and shake off any inertia. If it feels like someone is teasing or targeting you without cause, don’t let it get under your skin. The insensitivity of those around you could be particularly pronounced today. Remember, it’s not a reflection of you. Your tough exterior may face challenges, but it’s essential to acknowledge and protect your more delicate feelings.",
+      "horoscope_ja": "蠍座のあなたは今日、誰かがあなたに行動を起こすよう促し、停滞感を打破させようとしているのを感じるかもしれません。もし誰かが理由もなくあなたをからかったり、標的にしているように感じても、気にしないようにしましょう。今日は周囲の無神経さが特に顕著に表れるかもしれません。しかし、それはあなた自身の性格を反映しているわけではないことを覚えておいてください。あなたの強気な外見は困難に直面するかもしれませんが、繊細な感情を認識し、守ることが大切です。"
     },
     "sagittarius": {
       "date": "2026-06-23",
       "sign": "Sagittarius",
-      "horoscope": "Today is an excellent opportunity for you to step into the spotlight, Sagittarius. It's time to assert your leadership and show everyone that you’re at the forefront. Embrace this moment to take charge, as it’s crucial for you to rise to the occasion. Your inner warrior is likely to be fired up, so don’t hold back. Approach every challenge with bravery and confidence.",
-      "horoscope_ja": "今日は射手座のあなたにとって、スポットライトを浴びる絶好のチャンスです。リーダーシップを発揮し、自分が最前線に立っていることを皆に示しましょう。この機会を逃さず、主導権を握りましょう。この状況で力を発揮することが、あなたにとって非常に重要です。あなたの内なる戦士はきっと燃え上がっているでしょうから、ためらわずに突き進んでください。勇気と自信を持って、あらゆる課題に立ち向かいましょう。"
+      "horoscope": "Today is an excellent opportunity for you to step into the spotlight, Sagittarius. It's time to assert your leadership and show everyone that you’re at the forefront. Embrace this moment to take charge, as the call for your guidance is strong. Trust in your inner warrior; it’s likely to be fierce today. So, don’t hold back—face every challenge with bravery and confidence.",
+      "horoscope_ja": "射手座のあなたにとって、今日はスポットライトを浴びる絶好のチャンスです。リーダーシップを発揮し、自分が最前線に立っていることを皆に示しましょう。あなたの指導力が強く求められている今こそ、この機会を捉えて主導権を握りましょう。内なる戦士の力を信じてください。今日はその力が強く発揮されるでしょう。ですから、ためらわずに、勇気と自信を持ってあらゆる困難に立ち向かいましょう。"
     },
     "capricorn": {
       "date": "2026-06-23",
@@ -66,14 +66,14 @@
     "aquarius": {
       "date": "2026-06-23",
       "sign": "Aquarius",
-      "horoscope": "Today, Aquarius, you may find your emotions reaching a peak. While there's no need to panic, it's wise to tread carefully and avoid reacting impulsively towards others. You might feel a bit irritable, and minor provocations could trigger an emotional outburst. Remember, the words you choose today can have a lasting impact on those around you, so it's best to hold your tongue.",
-      "horoscope_ja": "水瓶座のあなたにとって、今日は感情が高ぶりやすい日かもしれません。パニックになる必要はありませんが、慎重に行動し、衝動的に他人に反応するのは避けるのが賢明です。少しイライラしやすく、些細なことで感情が爆発してしまう可能性もあります。今日あなたが選ぶ言葉は、周囲の人々に長く影響を与える可能性があるため、口を慎むのが最善です。"
+      "horoscope": "Today, Aquarius, you may find your feelings reaching a peak. While there's no need to panic, it's wise to tread carefully to avoid reacting impulsively towards others. You might feel a bit irritable, and minor provocations could trigger an emotional outburst. Remember, the words you choose today can have a lasting impact on those around you, so it's best to hold your tongue.",
+      "horoscope_ja": "水瓶座のあなたにとって、今日は感情が高ぶる日かもしれません。パニックになる必要はありませんが、衝動的に他人に反応しないよう、慎重に行動するのが賢明です。少しイライラしやすく、些細なことで感情が爆発してしまう可能性もあります。今日あなたが選ぶ言葉は、周囲の人々に長く影響を与える可能性があるため、口を慎むのが最善です。"
     },
     "pisces": {
       "date": "2026-06-23",
       "sign": "Pisces",
       "horoscope": "Today, Pisces, it's all about embracing the extremes. Action is your mantra, and you're the go-to person for getting things accomplished. There's no time to hesitate; it's time to dive right in. Your emotions are vibrant, and you possess a deep reservoir of inner strength and resources. Harness this energy to propel yourself forward. Engage with like-minded individuals, and prepare to witness remarkable outcomes.",
-      "horoscope_ja": "魚座のあなたにとって、今日は極限を受け入れることがすべてです。行動こそがあなたのモットーであり、物事を成し遂げる頼れる存在となるでしょう。ためらっている暇はありません。さあ、飛び込みましょう。あなたの感情は活気に満ち、内なる強さと資源の深い源泉を持っています。このエネルギーを活かして、前進しましょう。志を同じくする人々と交流し、素晴らしい成果を目の当たりにする準備をしてください。"
+      "horoscope_ja": "魚座のあなたにとって、今日は極限を受け入れることがすべてです。行動こそがあなたのモットーであり、物事を成し遂げる頼れる存在となるでしょう。ためらっている暇はありません。さあ、飛び込みましょう。あなたの感情は活気に満ち、内なる力と資源の深い源泉を秘めています。このエネルギーを活かして、前進しましょう。志を同じくする人々と交流し、素晴らしい成果を目の当たりにする準備をしてください。"
     }
   }
 }
