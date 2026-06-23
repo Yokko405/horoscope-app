@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T16:55:20.265Z",
+  "updated_at": "2026-06-23T18:36:51.777Z",
   "jst_date": "2026-06-24",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
@@ -25,19 +25,19 @@
       "date": "2026-06-24",
       "sign": "Cancer",
       "horoscope": "Today is likely to be one of your most hectic days in quite a while, Cancer. With the potential for ongoing success on the horizon, you may find yourself engaged in numerous phone calls, texts, or emails, and possibly taking a few quick jaunts around your neighborhood. While you might not connect with everyone you intended to, don’t let that discourage you. Stay determined, and you’ll make those connections in due time.",
-      "horoscope_ja": "蟹座のあなたにとって、今日はここしばらくで最も忙しい一日になりそうです。今後の成功の可能性が高まっているため、電話やメール、メッセージのやり取りに追われ、近所をちょっと散歩することもあるかもしれません。必ずしも全員と連絡が取れるとは限りませんが、それで落胆しないでください。諦めずに努力を続ければ、いずれ必ず繋がりが生まれるでしょう。"
+      "horoscope_ja": "蟹座のあなたにとって、今日はここしばらくで最も忙しい一日になりそうです。今後の成功の可能性が高まっているため、電話やメール、メッセージのやり取りに追われ、近所をちょっと散歩することもあるかもしれません。連絡を取りたいと思っていた人全員と連絡が取れないかもしれませんが、それで落胆しないでください。諦めずに努力を続ければ、いずれ必ず繋がりが見つかるでしょう。"
     },
     "leo": {
       "date": "2026-06-24",
       "sign": "Leo",
       "horoscope": "Leo, you're basking in the glow of recent achievements in your career and finances, bringing you a sense of joy and fulfillment. As you look to the future with optimism, be wary of those who may try to take advantage of your success. Some individuals may approach you with requests for loans or assistance, but tread carefully—trustworthiness may be in question. Stay alert and don't let any emotional appeals sway your judgment.",
-      "horoscope_ja": "獅子座のあなたは、最近の仕事と経済面での成功の輝きに浸り、喜びと充実感に満たされていることでしょう。未来に希望を抱いている一方で、あなたの成功を利用しようとする者には注意が必要です。中には、融資や援助を求めて近づいてくる人もいるかもしれませんが、慎重に行動しましょう。相手の信頼性には疑問が残るかもしれません。常に警戒を怠らず、感情的な訴えに惑わされないようにしてください。"
+      "horoscope_ja": "獅子座のあなたは、最近の仕事と経済面での成功の余韻に浸り、喜びと充実感に満たされていることでしょう。未来に希望を抱いている一方で、あなたの成功を利用しようとする者には注意が必要です。中には、融資や援助を求めて近づいてくる人もいるかもしれませんが、慎重に行動しましょう。相手の信頼性には疑問が残るかもしれません。常に警戒を怠らず、感情的な訴えに惑わされないようにしてください。"
     },
     "virgo": {
       "date": "2026-06-24",
       "sign": "Virgo",
       "horoscope": "As your professional aspirations start to take shape, Virgo, you may encounter some challenges along the way. For starters, new duties may arise, leading you to question your capacity to handle them. Additionally, you might be thrust into the tricky world of workplace dynamics. However, don’t allow these issues to stifle your excitement. You possess the skills to tackle the first challenge and the insight to navigate the second. Keep pushing forward!",
-      "horoscope_ja": "乙女座のあなたは、キャリアへの夢が具体化し始めるにつれ、いくつかの課題に直面するかもしれません。まず、新たな職務が発生し、それらをこなせるかどうか不安になるかもしれません。さらに、職場の人間関係という複雑な世界に放り込まれる可能性もあります。しかし、これらの問題にあなたの意欲をくじかれてはいけません。あなたは最初の課題を克服するスキルと、二つ目の課題を乗り越える洞察力を持っています。前進し続けましょう！"
+      "horoscope_ja": "乙女座のあなたにとって、キャリアへの夢が具体化し始めるにつれ、いくつかの課題に直面するかもしれません。まず、新たな職務が発生し、それらをこなせるかどうか不安になるかもしれません。さらに、職場の人間関係という複雑な世界に放り込まれる可能性もあります。しかし、これらの問題にあなたの意欲をくじかれてはいけません。あなたは最初の課題を克服するスキルと、二つ目の課題をうまく切り抜ける洞察力を持っています。前進し続けましょう！"
     },
     "libra": {
       "date": "2026-06-24",
@@ -66,14 +66,14 @@
     "aquarius": {
       "date": "2026-06-24",
       "sign": "Aquarius",
-      "horoscope": "Aquarius, your efforts, passion, and commitment are starting to yield financial rewards. You may find fresh avenues to monetize your creative skills. However, be cautious; your intense work ethic might leave you feeling too exhausted to tap into your creativity, despite the ideas flowing. Consider revising your timetable to maximize productivity while preserving your energy.",
-      "horoscope_ja": "水瓶座のあなた、あなたの努力、情熱、そして献身が、ついに経済的な報酬をもたらし始めています。あなたの創造性を収益化する新たな道が開けるかもしれません。しかし、注意が必要です。あなたの仕事への情熱は、アイデアが次々と湧き上がっても、疲労困憊してしまい、創造性を発揮できなくなる可能性があります。生産性を最大限に高めつつ、エネルギーを温存するために、スケジュールを見直すことを検討してみてください。"
+      "horoscope": "Aquarius, your efforts, passion, and commitment are starting to yield financial rewards. Exciting new avenues may be emerging for you to capitalize on your creative skills. However, be cautious; your intense work ethic might leave you feeling too exhausted to tap into your creativity, despite the inspiration bubbling within. Consider revising your schedule to maximize your productivity while conserving your energy.",
+      "horoscope_ja": "水瓶座の皆さん、あなたの努力、情熱、そして献身が、ついに経済的な報酬をもたらし始めています。創造性を活かせる、刺激的な新しい道が開けるかもしれません。しかし、注意が必要です。仕事に没頭しすぎるあまり、内なるインスピレーションが湧き上がっていても、創造性を発揮する余裕がなくなってしまう可能性があります。エネルギーを温存しつつ生産性を最大限に高めるために、スケジュールを見直すことを検討してみてください。"
     },
     "pisces": {
       "date": "2026-06-24",
       "sign": "Pisces",
-      "horoscope": "Those in your inner circle may be feeling concerned about your well-being, Pisces. The weight of your workload could be leaving you feeling off-kilter, possibly even a bit under the weather with headaches or fatigue. Today is an ideal opportunity to pause, unwind at home, and recharge your batteries. There's no need to fret about jeopardizing your achievements; they will remain intact. Take this time to rest, and you'll be ready to take charge again tomorrow.",
-      "horoscope_ja": "魚座のあなた、身近な人たちはあなたの体調を心配しているかもしれません。仕事の重圧で、あなたは調子を崩し、頭痛や疲労感など、少し体調不良を感じている可能性があります。今日は、少し立ち止まり、家でゆっくりくつろぎ、エネルギーを充電する絶好の機会です。これまでの成果が危うくなる心配はありません。それらはそのまま残ります。この機会に休息を取り、明日には再び力強く仕事に取り組めるようにしましょう。"
+      "horoscope": "Those in your inner circle may be feeling concerned about you, Pisces. The weight of your workload could be leaving you feeling off-kilter, possibly even a bit under the weather with headaches or fatigue. If this resonates, today is an ideal opportunity to pause, unwind at home, and recharge. There's no need to fret about hindering your progress; it will remain intact. Allow yourself this moment of respite, and you'll be ready to take charge again tomorrow.",
+      "horoscope_ja": "魚座のあなた、身近な人たちはあなたのことを心配しているかもしれません。仕事の重圧で、あなたは調子を崩し、頭痛や疲労感など、少し体調を崩している可能性があります。もしそうなら、今日は立ち止まって家でゆっくり過ごし、エネルギーを充電する絶好の機会です。仕事の進捗が滞る心配はありません。それはそのまま維持されます。このひとときを自分に与えて休息を取れば、明日には再び仕事に取り掛かる準備が整うでしょう。"
     }
   }
 }
