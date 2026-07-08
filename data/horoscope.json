@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-08T17:41:22.257Z",
+  "updated_at": "2026-07-08T19:05:35.135Z",
   "jst_date": "2026-07-09",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
       "date": "2026-07-09",
       "sign": "Aries",
-      "horoscope": "Today is a fantastic day for you, Aries! Your cheerful outlook on life is exactly what everyone needs right now. Take some time to connect with children and immerse yourself in their enchanting world. Share your warmth and kindness with those around you, ensuring that smiles replace frowns. A positive demeanor will open many doors for you!",
-      "horoscope_ja": "今日は牡羊座のあなたにとって素晴らしい一日です！あなたの明るい人生観は、まさに今、誰もが必要としているものです。子供たちと触れ合い、彼らの魅惑的な世界に浸ってみてください。周りの人々にあなたの温かさと優しさを分かち合い、しかめっ面を笑顔に変えましょう。前向きな姿勢は、あなたに多くの扉を開くでしょう！"
+      "horoscope": "Today is a fantastic day for you, Aries! Your cheerful outlook on life is exactly what everyone needs right now. Take some time to connect with children and immerse yourself in their enchanting world. Share your warmth and kindness with those around you, ensuring that smiles replace frowns. A positive demeanor will open many doors for you.",
+      "horoscope_ja": "今日は牡羊座のあなたにとって素晴らしい一日です！あなたの明るい人生観は、まさに今、誰もが必要としているものです。子供たちと触れ合い、彼らの魅惑的な世界に浸ってみてください。周りの人々にあなたの温かさと優しさを分かち合い、しかめっ面を笑顔に変えましょう。前向きな姿勢は、あなたに多くの扉を開くでしょう。"
     },
     "taurus": {
       "date": "2026-07-09",
@@ -18,62 +18,62 @@
     "gemini": {
       "date": "2026-07-09",
       "sign": "Gemini",
-      "horoscope": "You may notice a trend among those around you, Gemini, where a self-centered mindset is taking hold, and it might not resonate with your values. It could be time to reach out and gently remind them, \"What about the rest of us?\" However, it's important to keep your tone light and cheerful; a whiny demeanor won't help your cause. Approach the situation with warmth and positivity, and you'll find that opportunities will come your way.",
-      "horoscope_ja": "双子座のあなた、周りの人たちの間で自己中心的な考え方が蔓延している傾向に気づくかもしれません。それはあなたの価値観とは相容れないものかもしれません。そんな時は、「私たちのことも考えてくれないか？」と優しく声をかけてみるのも良いでしょう。ただし、明るく明るい口調を保つことが大切です。愚痴っぽい態度では何も解決しません。温かく前向きな姿勢で臨めば、きっと良い機会が訪れるでしょう。"
+      "horoscope": "You may notice a trend among those around you, Gemini, where a self-centered mindset is taking hold, and it might not resonate with your values. It could be time to reach out and gently remind them, \"What about the rest of us?\" However, it's important to keep your tone light and cheerful; a whiny or desperate demeanor won't help your cause. Approach the situation with warmth and positivity, and you'll find that opportunities will come your way.",
+      "horoscope_ja": "双子座のあなた、周りの人たちの間で自己中心的な考え方が蔓延していることに気づくかもしれません。それはあなたの価値観とは相容れないものかもしれません。そんな時は、優しく「私たちのことも考えてくれているの？」と声をかけてみるのも良いでしょう。ただし、明るく明るい口調を保つことが大切です。愚痴をこぼしたり、必死な態度をとったりしても、状況は好転しません。温かく前向きな姿勢で臨めば、きっと良い機会が訪れるでしょう。"
     },
     "cancer": {
       "date": "2026-07-09",
       "sign": "Cancer",
-      "horoscope": "Embrace a bright and hopeful perspective today, Cancer. Cultivate a sense of gratitude and take a moment to notice the beauty that surrounds you. Today is all about valuing what you have, particularly the loved ones in your life. Share kind words and express your appreciation for those who matter to you. Your thoughtful gestures will create a positive ripple effect, attracting a wealth of good fortune your way.",
-      "horoscope_ja": "蟹座の皆さん、今日は明るく希望に満ちた視点を持ちましょう。感謝の気持ちを育み、周りの美しさに目を向けてみてください。今日は、自分が持っているもの、特に大切な人たちを大切にする日です。優しい言葉をかけ、大切な人たちに感謝の気持ちを伝えましょう。あなたの思いやりのある行動は、良い波紋を広げ、たくさんの幸運を引き寄せてくれるでしょう。"
+      "horoscope": "Embrace a bright and hopeful perspective today, Cancer. Cultivate a sense of gratitude and take a moment to notice the beauty that surrounds you. Today is perfect for cherishing what you have, particularly the loved ones in your life. Share kind words and express your appreciation for them; your heartfelt compliments will create a positive ripple effect, attracting a wealth of good fortune your way.",
+      "horoscope_ja": "蟹座の皆さん、今日は明るく希望に満ちた視点を持ちましょう。感謝の気持ちを育み、周りの美しさに目を向けてみてください。今日は、自分が持っているもの、特に大切な人たちを大切にするのに最適な日です。優しい言葉をかけ、感謝の気持ちを伝えましょう。心からの褒め言葉は、良い波紋を広げ、あなたにたくさんの幸運を引き寄せてくれるでしょう。"
     },
     "leo": {
       "date": "2026-07-09",
       "sign": "Leo",
-      "horoscope": "Leo, the moment has arrived for you to emerge from your cozy retreat. Banish any lingering gloom and step into the sunshine! Today is all about joy and playfulness. Embrace the cheerful vibe around you and don’t hesitate to share a joke or a funny tale. Your mission? To spread laughter and joy to those around you. Allow your inner spark to shine brilliantly!",
-      "horoscope_ja": "獅子座のあなた、居心地の良い隠れ家から抜け出す時が来ました。残っている憂鬱な気分を吹き飛ばして、太陽の光の中へ踏み出しましょう！今日は喜びと遊び心に満ちた一日です。周りの明るい雰囲気に身を任せ、ジョークや面白い話をためらわずに共有しましょう。あなたの使命は？周りの人々に笑いと喜びを届けることです。あなたの内なる輝きを存分に発揮してください！"
+      "horoscope": "Leo, it's your moment to emerge from your cozy retreat! Banish any lingering gloom and step into the sunshine. Today is all about joy and playfulness. Embrace the cheerful vibe around you and be the one to share a laugh or a whimsical tale. Spread happiness and let your inner spark shine brightly!",
+      "horoscope_ja": "獅子座のみなさん、居心地の良い隠れ家から抜け出す時が来ました！残っている憂鬱な気分を吹き飛ばして、太陽の光の中へ踏み出しましょう。今日は喜びと遊び心に満ちた一日です。周りの明るい雰囲気に身を任せ、笑いや楽しいお話でみんなを楽しませてください。幸せを広げ、あなたの内なる輝きを輝かせましょう！"
     },
     "virgo": {
       "date": "2026-07-09",
       "sign": "Virgo",
-      "horoscope": "You might find that the inflexible attitudes of those around you are slowing your advancement, Virgo. This is a sign that it’s time to ease your hold on a particular perspective you’ve been clinging to. Today, your emotions carry significant weight, and they’re eager to be expressed. Don’t hesitate to step into the spotlight and share your thoughts, even if they differ from the consensus.",
+      "horoscope": "You might find that the inflexible attitudes of those around you are slowing your advancement, Virgo. This is a sign that it’s time to ease your hold on a particular perspective that you’ve been clinging to. Today, your emotions carry significant weight, and they’re eager to be expressed. Don’t hesitate to step into the spotlight and share your thoughts, even if they differ from the consensus.",
       "horoscope_ja": "乙女座のあなた、周囲の人々の融通の利かない態度が、あなたの進歩を妨げていることに気づくかもしれません。これは、あなたが固執してきた特定の考え方を少し緩めるべき時が来たというサインです。今日は、あなたの感情が大きな重みを持ち、表現したがっています。たとえそれが世間の意見と異なっていても、ためらわずにスポットライトを浴びて、自分の考えを共有しましょう。"
     },
     "libra": {
       "date": "2026-07-09",
       "sign": "Libra",
-      "horoscope": "The stagnant phase has passed, Libra, and it's time to rev up your energy! Step out into the world with confidence and showcase your unique gifts. Embrace bravery in your interactions and let your creativity shine through in all that you do. Remember, the more radiant your smile, the more opportunities will come your way in every situation you face.",
-      "horoscope_ja": "天秤座の皆さん、停滞期は終わりました。エネルギーを全開にする時です！自信を持って世界に飛び出し、あなたならではの才能を存分に発揮しましょう。人との交流では勇気を持ち、あらゆる場面で創造性を輝かせてください。笑顔が輝けば輝くほど、どんな状況でもチャンスが訪れることを忘れないでください。"
+      "horoscope": "Libra, the stagnant phase is behind you, and it's time to accelerate your momentum. Step out into the world with confidence and showcase your unique gifts. Embrace bravery in your interactions and allow your creativity to shine through. Remember, the more radiant your smile, the more opportunities will come your way in every situation you face.",
+      "horoscope_ja": "天秤座の皆さん、停滞期は終わり、勢いを加速させる時が来ました。自信を持って世界に飛び出し、あなたならではの才能を存分に発揮してください。人との交流では勇気を持ち、創造性を輝かせましょう。笑顔が輝けば輝くほど、どんな状況でもチャンスが訪れることを忘れないでください。"
     },
     "scorpio": {
       "date": "2026-07-09",
       "sign": "Scorpio",
-      "horoscope": "Today, Scorpio, your attentiveness will be highly valued by those around you, so don’t hesitate to share it generously with everyone you meet. A simple act of kindness or a heartfelt compliment will leave a lasting impression. Allow your compassionate nature to radiate brightly. Embrace the opportunity to open your heart and share love with the world. It’s an ideal day for joy and laughter!",
-      "horoscope_ja": "蠍座の皆さん、今日はあなたの細やかな気配りが周囲の人々に高く評価されるでしょう。ですから、出会うすべての人に惜しみなくその気配りを分かち合ってください。ちょっとした親切や心からの褒め言葉は、きっと人々の心に深く刻まれるはずです。あなたの思いやりの心を輝かせましょう。心を開いて世界に愛を分かち合う機会を存分に活かしてください。喜びと笑いに満ちた、まさに理想的な一日です！"
+      "horoscope": "Today, Scorpio, your attentiveness will be highly valued by those around you, so don’t hesitate to share it generously with everyone you meet. A simple act of kindness or a heartfelt compliment will leave a lasting impression. Allow your compassionate nature to radiate brightly. Embrace the opportunity to open your heart and share love with the world. It’s an ideal day for joy and connection.",
+      "horoscope_ja": "蠍座の皆さん、今日はあなたの細やかな気配りが周囲の人々に高く評価されるでしょう。ですから、出会うすべての人に惜しみなくその気配りを分かち合ってください。ちょっとした親切や心からの褒め言葉は、きっと人々の心に深く刻まれるでしょう。あなたの思いやりの心を輝かせましょう。心を開き、世界に愛を分かち合う機会をぜひ活かしてください。喜びと繋がりを育むのに理想的な一日です。"
     },
     "sagittarius": {
       "date": "2026-07-09",
       "sign": "Sagittarius",
-      "horoscope": "Today is set to be a fantastic day for you, Sagittarius, so embrace every opportunity that comes your way. This is your moment to truly dazzle, so let your light shine! Charge up your energy and put yourself out there. Your infectious smile will work wonders, so don’t hesitate to share it frequently. Your self-assurance holds immense strength, empowering you to approach any task with enthusiasm.",
-      "horoscope_ja": "射手座のあなたにとって、今日は素晴らしい一日になりそうです。目の前に現れるあらゆるチャンスを掴みましょう。まさに輝くチャンスです。あなたの光を存分に輝かせてください！エネルギーをチャージして、積極的に行動しましょう。あなたの魅力的な笑顔はきっと素晴らしい効果を発揮します。ためらわずに、頻繁に笑顔を見せてください。あなたの自信は計り知れない力となり、どんな仕事にも情熱を持って取り組む力を与えてくれるでしょう。"
+      "horoscope": "Today is set to be a fantastic day for you, Sagittarius, so embrace every opportunity that comes your way. This is your moment to truly dazzle! Charge up your energy and put yourself out there. Your radiant smile will be infectious, so don’t hesitate to share it frequently. Your self-assurance holds immense power, empowering you to approach any task with enthusiasm and vigor.",
+      "horoscope_ja": "今日は射手座のあなたにとって素晴らしい一日になりそうです。目の前に現れるあらゆるチャンスを掴みましょう。まさに輝くチャンスです！エネルギーをチャージして、積極的に自分をアピールしてください。あなたの輝く笑顔は周りの人を魅了するでしょう。ためらわずに、頻繁に笑顔を見せてください。あなたの自信は計り知れない力となり、どんな仕事にも情熱と活力をもって取り組む力を与えてくれます。"
     },
     "capricorn": {
       "date": "2026-07-09",
       "sign": "Capricorn",
-      "horoscope": "Take a break from your serious side today, Capricorn, and embrace the joy of laughter. Consider hosting a game night at your place, inviting close friends to join you for some card games and tasty treats that could last until the clock strikes midnight. This is your chance to unwind and fully express your playful spirit. Remember, your cheerful nature holds incredible strength!",
-      "horoscope_ja": "山羊座のみなさん、今日は真面目な一面を少し忘れて、笑いの喜びを味わってみませんか？自宅でゲームナイトを開いて、親しい友人たちを招き、カードゲームや美味しいお菓子を楽しみながら、夜が明けるまで盛り上がりましょう。これは、リラックスして遊び心あふれる自分を存分に表現する絶好の機会です。あなたの明るい性格には、計り知れない力が秘められていることを忘れないでください！"
+      "horoscope": "Take a break from your serious side today, Capricorn, and embrace the joy of laughter. Consider hosting a game night at your place, inviting close friends to join you for some card games and tasty treats that could last until the clock strikes midnight. This is your chance to unwind and fully express your playful spirit. Remember, your cheerful nature holds incredible strength—so let it shine!",
+      "horoscope_ja": "山羊座のみなさん、今日は真面目な一面を少し忘れて、笑いの喜びを味わってみませんか？自宅でゲームナイトを開いて、親しい友人たちを招き、カードゲームや美味しいお菓子を楽しみながら、夜が明けるまで盛り上がりましょう。これは、リラックスして遊び心あふれる自分を存分に表現する絶好の機会です。あなたの明るい性格には、計り知れない力が秘められています。さあ、その力を輝かせましょう！"
     },
     "aquarius": {
       "date": "2026-07-09",
       "sign": "Aquarius",
-      "horoscope": "Aquarius, your vibrant and easygoing spirit has a remarkable impact on those around you. Today, your innate charisma can open doors to new experiences, so don’t hesitate to let it shine. Focus on the bright side of life and embrace the joy that surrounds you. As you stroll through your day, keep a cheerful tune in your heart and bask in the warmth of positivity.",
-      "horoscope_ja": "水瓶座のあなた、あなたの活気に満ちた気さくな精神は、周囲の人々に大きな影響を与えます。今日は、あなたの生まれ持ったカリスマ性が新たな経験への扉を開くでしょう。ためらわずに、その魅力を輝かせてください。人生の明るい面に目を向け、周りに満ちる喜びを存分に味わいましょう。一日を通して、心に明るいメロディーを奏で、ポジティブなエネルギーの温かさに浸ってください。"
+      "horoscope": "Aquarius, your vibrant and easygoing spirit has a remarkable impact on those around you. Today, your innate charisma can open doors and lead you to exciting opportunities, so don’t hesitate to let it shine. Focus on the bright side of life and embrace positivity as you navigate your day. Let your joy resonate as you stroll along, and bask in the warmth of the sunshine.",
+      "horoscope_ja": "水瓶座のあなた、あなたの活気に満ちた気さくな精神は、周囲の人々に大きな影響を与えます。今日は、あなたの生まれ持ったカリスマ性が新たな扉を開き、刺激的なチャンスへと導いてくれるでしょう。ためらわずに、その魅力を輝かせてください。人生の明るい面に目を向け、ポジティブな気持ちで一日を過ごしましょう。散歩をしながら喜びを分かち合い、太陽の温かさを感じてください。"
     },
     "pisces": {
       "date": "2026-07-09",
       "sign": "Pisces",
-      "horoscope": "Today, Pisces, it's time to set aside any frustrations and embrace some laughter. Shift your focus from a tense, harsh energy to a more playful and joyful vibe. This positive outlook will serve you well. While minor disruptions may arise in your daily activities, remember that a simple smile can work wonders in easing any tension.",
-      "horoscope_ja": "今日は、魚座の皆さん、あらゆる不満を脇に置いて、笑いを楽しみましょう。緊張感や厳しさから、より遊び心と喜びにあふれた雰囲気へと意識を向けてみてください。この前向きな姿勢は、きっとあなたにとって良い結果をもたらすでしょう。日々の生活の中でちょっとした混乱が生じるかもしれませんが、笑顔一つで緊張を和らげることができることを覚えておいてください。"
+      "horoscope": "Today, Pisces, it's time to set aside any frustrations and embrace some laughter. Shift your focus from a tense, harsh energy to a more playful and joyful vibe. This positive outlook will serve you well. While minor disruptions may arise in your daily life, remember that a simple smile can work wonders in easing any tension.",
+      "horoscope_ja": "今日は、魚座の皆さん、あらゆる不満を脇に置いて、笑いを楽しみましょう。緊張感や厳しさから、より遊び心と喜びにあふれた雰囲気へと意識を向けてみてください。この前向きな姿勢は、きっとあなたにとって良い結果をもたらすでしょう。日常生活でちょっとしたトラブルが起こるかもしれませんが、笑顔一つで緊張を和らげることができることを覚えておいてください。"
     }
   }
 }
