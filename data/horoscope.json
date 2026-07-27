@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-27T17:45:33.796Z",
+  "updated_at": "2026-07-27T19:10:38.310Z",
   "jst_date": "2026-07-28",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
       "date": "2026-07-28",
       "sign": "Aries",
-      "horoscope": "Aries, it's perfectly fine to acknowledge your missteps. If you realize you've erred, don't hesitate to own up to it. Allowing your pride to hinder your growth won't serve you well. People may find it challenging to engage with you if you stubbornly cling to the belief that you're always correct, especially when that might not be the case. Today, your mental state could feel a bit delicate, so aim to be more understanding and open than you typically are.",
+      "horoscope": "Aries, it's perfectly fine to acknowledge your missteps. If you realize you've erred, don't hesitate to own up to it. Allowing your pride to hinder your growth won't serve you well. People may find it challenging to engage with you if you stubbornly cling to the belief that you're always correct, especially when that might not be the case. Today, your mental state might feel a bit delicate, so aim to be more understanding and open than you typically are.",
       "horoscope_ja": "牡羊座の皆さん、自分の過ちを認めることは全く問題ありません。もし自分が間違っていたことに気づいたら、ためらわずにそれを認めましょう。プライドが成長の妨げになるのは、あなたにとって良いことではありません。自分が常に正しいという信念に固執していると、特にそうでない場合もあるため、周りの人はあなたと関わることに抵抗を感じるかもしれません。今日は精神的に少し不安定な状態かもしれませんので、普段よりも理解と寛容さを心がけましょう。"
     },
     "taurus": {
@@ -18,32 +18,32 @@
     "gemini": {
       "date": "2026-07-28",
       "sign": "Gemini",
-      "horoscope": "Today, you might find your mental energy a bit low, Gemini. It seems you’re not operating at your usual quick-witted pace. This is a gentle reminder to take a breather and unwind. Remember, you don’t always have to be the star of the show. Embrace the role of a listener today and soak in the wisdom from those around you.",
-      "horoscope_ja": "今日は、双子座のあなたは少し頭の回転が鈍く感じるかもしれません。いつもの機敏な思考力が発揮できていないようです。少し休憩して、リラックスしましょう。いつも自分が主役である必要はないことを覚えておいてください。今日は聞き役に徹し、周りの人たちの知恵を吸収しましょう。"
+      "horoscope": "Today, you might find your mental agility a bit lacking, Gemini. It seems you’re not operating at your usual sharpness. This is a gentle reminder that it’s perfectly okay to take a step back and unwind. You don’t always have to be the one in the spotlight; consider embracing the role of a listener today and absorb the wisdom being shared by others.",
+      "horoscope_ja": "今日は、双子座のあなたは頭の回転が少し鈍っているかもしれません。いつものような鋭さが感じられないようです。少し立ち止まってリラックスするのは全く問題ないということを、優しく思い出させてあげましょう。いつも注目を浴びる必要はありません。今日は聞き役に徹して、周りの人たちが語る知恵を吸収してみてはいかがでしょうか。"
     },
     "cancer": {
       "date": "2026-07-28",
       "sign": "Cancer",
-      "horoscope": "Today, a key lesson for you is to acknowledge and value the strength of your emotions. It's crucial not to overlook how you feel. Instead, fully embrace your feelings with open arms. As you take a moment to relax and connect with your true emotions, you'll notice a clarity in your mind, allowing you to approach any challenges with thoughtful and rational decisions.",
-      "horoscope_ja": "今日、あなたにとって重要な教訓は、自分の感情の強さを認識し、大切にすることです。自分の感情を見過ごしてはいけません。むしろ、両手を広げて自分の感情をありのままに受け入れてください。少し時間を取ってリラックスし、本当の感情と向き合うことで、心が澄み渡り、どんな困難にも思慮深く合理的な判断で立ち向かえるようになるでしょう。"
+      "horoscope": "Today, a key lesson for you is to acknowledge and value the strength of your emotions. It's crucial not to overlook how you feel. Instead, fully embrace your emotions with open arms. As you take a moment to relax and connect with your true feelings, you'll notice a clarity in your mind, allowing you to approach any challenges with thoughtful and rational decisions.",
+      "horoscope_ja": "今日、あなたにとって重要な教訓は、自分の感情の強さを認識し、大切にすることです。自分の感情を見過ごしてはいけません。むしろ、両手を広げて感情をありのままに受け入れましょう。少し時間を取ってリラックスし、本当の気持ちと向き合うことで、心が澄み渡り、どんな困難にも思慮深く合理的な判断で立ち向かえるようになるでしょう。"
     },
     "leo": {
       "date": "2026-07-28",
       "sign": "Leo",
-      "horoscope": "Today, Leo, you might find that someone is addressing your behavior. Your bold and assertive demeanor could be unsettling for someone who isn't quite equipped to handle it. You may not even realize the impact your fierce attitude has on those around you. Take this opportunity to step into another person's shoes and gain a deeper understanding of their feelings regarding the situation.",
-      "horoscope_ja": "獅子座のあなた、今日は誰かがあなたの言動について指摘してくるかもしれません。あなたの大胆で断固とした態度は、それをうまく処理できない人にとっては不安を掻き立てるものかもしれません。あなた自身、自分の激しい態度が周囲の人々にどれほど影響を与えているか気づいていない可能性もあります。この機会に相手の立場に立って考え、状況に対する相手の気持ちをより深く理解するように努めましょう。"
+      "horoscope": "Today, Leo, you might find that someone is addressing your behavior. Your bold and assertive demeanor could be unsettling for someone who isn't as resilient. You may not even realize the impact your fierce attitude has on those around you. Take this opportunity to step into someone else's shoes and gain a deeper understanding of their feelings.",
+      "horoscope_ja": "今日、獅子座のあなたは、誰かがあなたの行動について指摘してくるかもしれません。あなたの大胆で断固とした態度は、精神的にそれほど強くない人にとっては不安を感じさせる可能性があります。あなた自身、自分の激しい態度が周囲の人々に与える影響に気づいていないかもしれません。この機会に、相手の立場に立って考え、彼らの気持ちをより深く理解するように努めましょう。"
     },
     "virgo": {
       "date": "2026-07-28",
       "sign": "Virgo",
-      "horoscope": "Today, Virgo, your thoughts are exceptionally clear. You'll find that you're adept at sensing the subtle energies surrounding you at this moment. The positive aspect is that your intellect and ego are in harmony, allowing you to achieve a more balanced state between these two facets of your mind with greater ease than usual.",
-      "horoscope_ja": "乙女座のあなたにとって、今日は思考が非常に明晰です。周囲の繊細なエネルギーを感じ取る能力に長けていることに気づくでしょう。良い点は、知性と自我が調和していることです。そのため、普段よりも容易に、心の二つの側面の間でよりバランスの取れた状態を達成できるでしょう。"
+      "horoscope": "Today, Virgo, your thoughts are exceptionally clear. You'll find that you're adept at sensing the subtle energies surrounding you at this moment. The positive aspect is that your intellect and sense of self are harmonizing, allowing you to achieve a more balanced relationship between these two facets of your mind with greater ease than usual.",
+      "horoscope_ja": "乙女座のあなたにとって、今日は思考が非常に明晰です。周囲の繊細なエネルギーを感じ取る能力に長けていることに気づくでしょう。良い点は、知性と自己意識が調和し、普段よりも容易に、心の二つの側面間のバランスの取れた関係を築くことができるということです。"
     },
     "libra": {
       "date": "2026-07-28",
       "sign": "Libra",
-      "horoscope": "Today, Libra, your openness to fresh perspectives is heightened. Pay close attention to the insights others share, as each encounter holds valuable lessons. Embrace the idea that every situation can teach you something new. Just as you maintain your physical health, it's essential to keep your mind active and engaged. Ensure you provide it with the daily challenges and stimulation it craves to function at its best.",
-      "horoscope_ja": "天秤座のあなたにとって、今日は新しい視点を受け入れる心が高まります。他者が共有する洞察に注意深く耳を傾けましょう。あらゆる出会いには貴重な教訓が隠されています。どんな状況からも何か新しいことを学べるという考え方を受け入れてください。身体の健康を維持するのと同じように、精神を活発に保ち、刺激を与え続けることも大切です。最高の状態で機能するために、日々の挑戦と刺激を意識的に与えましょう。"
+      "horoscope": "Today, Libra, your openness to fresh perspectives is heightened. Pay close attention to the insights others share, as each encounter holds valuable lessons for you. Every experience is an opportunity for growth. Just as you maintain your physical health, it's essential to keep your mind active and engaged. Ensure you provide it with the daily challenges and stimulation it craves to function at its best.",
+      "horoscope_ja": "天秤座のあなたにとって、今日は新しい視点を受け入れる心が高まります。他者が共有する洞察に注意深く耳を傾けてください。あらゆる出会いはあなたにとって貴重な学びの機会となるでしょう。すべての経験は成長のチャンスです。身体の健康を維持するのと同じように、精神を活発に保ち、刺激を与え続けることも大切です。最高の状態で機能するために、日々の挑戦と刺激を意識的に与えましょう。"
     },
     "scorpio": {
       "date": "2026-07-28",
@@ -54,20 +54,20 @@
     "sagittarius": {
       "date": "2026-07-28",
       "sign": "Sagittarius",
-      "horoscope": "Sagittarius, it's time to listen to the perspectives of those around you. When you concentrate solely on your own views, you risk overlooking the valuable insights and beauty that others can offer. Just as you wish for your opinions to be valued, extend that same courtesy to others. Your pride may cloud your judgment, but there's a lesson in empathy waiting for you to discover. Step back and allow someone else to share their thoughts.",
-      "horoscope_ja": "射手座の皆さん、周囲の人々の視点に耳を傾ける時が来ました。自分の意見ばかりに囚われていると、他人が提供してくれる貴重な洞察や美しさを見落としてしまう危険性があります。自分の意見が尊重されることを望むように、他人にも同じように敬意を払いましょう。プライドが判断を曇らせているかもしれませんが、共感の大切さを学ぶ機会があなたを待っています。一歩引いて、他の人が自分の考えを語るのを待ってみてください。"
+      "horoscope": "Sagittarius, it's time to listen to the perspectives of those around you. When you concentrate solely on your own views, you risk overlooking the valuable insights and beauty that others can offer. Just as you wish for your opinions to be valued, extend that same courtesy to them. Your pride may cloud your judgment, but there's a lesson in empathy waiting for you to discover. Step back and allow someone else to share their thoughts.",
+      "horoscope_ja": "射手座の皆さん、周囲の人々の視点に耳を傾ける時が来ました。自分の意見ばかりに囚われていると、他人が提供してくれる貴重な洞察や美しさを見落としてしまう危険性があります。自分の意見が尊重されることを望むように、他人にも同じように敬意を払いましょう。プライドが判断を曇らせるかもしれませんが、共感の大切さを学ぶ機会があなたを待っています。一歩引いて、他の人が自分の考えを語るのを待ってみてください。"
     },
     "capricorn": {
       "date": "2026-07-28",
       "sign": "Capricorn",
-      "horoscope": "Today, your mind is particularly alert, granting you a clearer understanding of your life's direction. You might feel a strong urge to nurture others, and your self-worth may be tied to how helpful you can be to those in your circle. It may feel like you're stepping into the role of a caring parent or a protective older sibling. Share your wisdom and guidance with others, as it will help them to evolve and gain insight.",
-      "horoscope_ja": "今日は特に頭の回転が速く、人生の方向性をより明確に理解できるでしょう。他者を支えたいという強い衝動に駆られ、自分の価値が周囲の人々にどれだけ貢献できるかに結びついていると感じるかもしれません。まるで、愛情深い親や、守ってくれる兄姉のような役割を担っているような感覚になるかもしれません。あなたの知恵と導きを周りの人々と分かち合うことで、彼らの成長と洞察力の向上を促すことができるでしょう。"
+      "horoscope": "Today, your mind is particularly alert, granting you a clearer understanding of your life's direction. You might feel a strong urge to nurture others, and your self-worth could be tied to how helpful you are to those in your circle. It may feel like you're stepping into the role of a caring parent or a protective older sibling. Share your wisdom and guidance with others, as it will help them to evolve and gain insight.",
+      "horoscope_ja": "今日は特に頭の回転が速く、人生の方向性をより明確に理解できるでしょう。他者を支えたいという強い衝動に駆られ、自分の価値が周囲の人々への貢献度と結びついていると感じるかもしれません。まるで、愛情深い親や、守ってくれる兄姉のような役割を担っているような感覚になるかもしれません。あなたの知恵と導きを周りの人々と分かち合うことで、彼らの成長と洞察力の向上を促すことができるでしょう。"
     },
     "aquarius": {
       "date": "2026-07-28",
       "sign": "Aquarius",
-      "horoscope": "A lot of individuals go through life on autopilot, unaware of the choices they make. It’s easy to drift through your day, but don’t let that happen to you, Aquarius. Today is the perfect opportunity to awaken your mind and take charge. Avoid letting others dictate your path; seize the reins of your own future. To keep harmony in your life today, remember to embrace your more sensitive side.",
-      "horoscope_ja": "多くの人は、自分がどんな選択をしているのか意識することなく、人生を無意識のうちに過ごしています。日々を漫然と過ごすのは簡単ですが、水瓶座のあなたはそうならないように。今日は、意識を覚醒させ、主体的に行動する絶好の機会です。他人に自分の進むべき道を左右されることなく、自分の未来を自ら切り開きましょう。今日の生活に調和をもたらすためには、あなたの繊細な一面を受け入れることを忘れないでください。"
+      "horoscope": "A lot of individuals go through life on autopilot, unaware of the choices they make. It’s easy to drift through your day, but don’t let that happen to you, Aquarius. Today is the perfect opportunity to awaken your mind and take charge. Avoid letting others dictate your path; seize the reins of your future. To keep harmony in your life today, remember to embrace your more sensitive side.",
+      "horoscope_ja": "多くの人は、自分がどんな選択をしているのか意識することなく、人生を無意識のうちに過ごしています。日々を漫然と過ごすのは簡単ですが、水瓶座のあなたはそうならないように。今日は、意識を覚醒させ、主導権を握る絶好の機会です。他人に自分の進むべき道を左右されることなく、未来の舵をしっかりと握りましょう。今日の生活に調和をもたらすためには、あなたの繊細な一面を受け入れることを忘れないでください。"
     },
     "pisces": {
       "date": "2026-07-28",
