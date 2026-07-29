@@ -1,43 +1,43 @@
 {
-  "updated_at": "2026-07-29T17:18:48.521Z",
+  "updated_at": "2026-07-29T18:55:47.423Z",
   "jst_date": "2026-07-30",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
       "date": "2026-07-30",
       "sign": "Aries",
-      "horoscope": "Aries, you've been through quite a lot lately. Have you taken the time to reflect on it all? Significant shifts may be on the horizon, whether at home or in your professional life. Concentrate on what you can influence instead of worrying about things beyond your reach. It might feel like you're on a wild ride, but rest assured, things will calm down soon. Take a moment to blink and let your eyes adjust to this unfamiliar brightness.",
-      "horoscope_ja": "牡羊座のあなた、最近は色々なことがありましたね。じっくりと振り返ってみましたか？家庭生活でも仕事でも、大きな変化が訪れるかもしれません。自分の力ではどうにもならないことを心配するのではなく、自分が影響を与えられることに集中しましょう。まるでジェットコースターに乗っているような気分かもしれませんが、ご安心ください。すぐに落ち着きます。少しの間まばたきをして、この見慣れない明るさに目を慣らしましょう。"
+      "horoscope": "Aries, you've been through quite a lot lately. Have you taken the time to reflect on it all? Significant shifts may be on the horizon, whether at home or in your professional life. Concentrate on your current tasks instead of worrying about things beyond your influence. It might feel like you're on a wild ride, but rest assured, things will calm down soon. Take a moment to blink and let your eyes adjust to this unfamiliar brightness.",
+      "horoscope_ja": "牡羊座のあなた、最近は色々なことがありましたね。じっくりと振り返ってみましたか？家庭生活でも仕事でも、大きな変化が訪れるかもしれません。自分の力ではどうにもならないことを心配するのではなく、目の前の仕事に集中しましょう。まるでジェットコースターに乗っているような気分かもしれませんが、ご安心ください。すぐに落ち着きます。少しの間まばたきをして、この見慣れない明るさに目を慣らしましょう。"
     },
     "taurus": {
       "date": "2026-07-30",
       "sign": "Taurus",
-      "horoscope": "Taurus, you've seen significant growth in your emotional responses over the last few weeks. Your hard work is paying off, and it appears you're learning to pause before you speak. It's crucial to maintain this progress. Be aware of someone in your life who seems intent on pushing your buttons. Don't allow them to get under your skin. Instead, take a moment to breathe deeply and elevate yourself above the situation.",
-      "horoscope_ja": "牡牛座の皆さん、ここ数週間で感情の反応が著しく向上しましたね。努力が実を結び、話す前に少し間を置くことを覚え始めているようです。この進歩を維持することが重要です。あなたの神経を逆撫でするような人が身近にいるかもしれないので注意してください。その人に感情を揺さぶられないようにしましょう。代わりに、深呼吸をして、状況を冷静に受け止めてください。"
+      "horoscope": "Taurus, you've seen significant growth in recent weeks, particularly in managing your temper. It hasn't been easy, but you're learning to pause before you speak. Hold on to the progress you've made. There's someone in your life who seems intent on pushing your buttons. Don't allow them to get under your skin. Instead, take a deep breath and elevate yourself above the situation.",
+      "horoscope_ja": "牡牛座のあなたは、ここ数週間で特に感情のコントロールにおいて著しい成長を遂げました。簡単なことではありませんでしたが、話す前に少し間を置くことを学んでいます。これまでの進歩を大切にしてください。あなたの周りには、あなたを苛立たせようと躍起になっている人がいるようです。しかし、その人に感情を乱されてはいけません。深呼吸をして、冷静さを保ちましょう。"
     },
     "gemini": {
       "date": "2026-07-30",
       "sign": "Gemini",
-      "horoscope": "Today could be quite a charged day for you, Gemini. Those close to you, including family and friends, might be on edge, so it’s best to give them some space. Rest assured, it’s not a reflection of your actions; it’s just the influence of the planets. If you have the chance to retreat to a quiet spot, take it. And if someone attempts to provoke you, resist the urge to engage. Tomorrow will bring a fresh perspective and a return to harmony.",
-      "horoscope_ja": "今日は双子座のあなたにとって、かなり緊張感のある一日になるかもしれません。家族や友人など、あなたの身近な人たちが神経質になっている可能性があるので、少し距離を置くのが賢明でしょう。これはあなたの行動のせいではなく、惑星の影響によるものなので、ご安心ください。静かな場所に身を置ける機会があれば、ぜひそうしてください。また、誰かがあなたを挑発しようとしても、応じる衝動を抑えましょう。明日には新たな視点と調和が訪れるでしょう。"
+      "horoscope": "Today could be quite a charged day for you, Gemini. Those close to you, including family and friends, might be on edge, so it’s best to give them some space. Rest assured, it’s not a reflection of your actions; it’s just the influence of the planets. If you have the chance to retreat to a quiet spot, take it. Should anyone attempt to provoke you, resist the urge to engage. Tomorrow will bring a fresh perspective and a return to harmony.",
+      "horoscope_ja": "今日は双子座のあなたにとって、かなり緊張感のある一日になるかもしれません。家族や友人など、あなたの身近な人たちが神経質になっている可能性があるので、少し距離を置くのが賢明でしょう。これはあなたの行動のせいではなく、惑星の影響によるものなので、ご安心ください。静かな場所に身を置く機会があれば、ぜひそうしてください。もし誰かがあなたを挑発しようとしても、応じる衝動を抑えましょう。明日には新たな視点と調和が訪れるでしょう。"
     },
     "cancer": {
       "date": "2026-07-30",
       "sign": "Cancer",
-      "horoscope": "Cancer, you may find yourself in a bit of a somber mood as pressing matters resurface, demanding your attention. While it might be tempting to ignore them, it's time to confront these issues head-on and resolve them for good. Focus on creating a more uplifting atmosphere at home, as your family and friends rely on you to lead the way in fostering positivity.",
-      "horoscope_ja": "蟹座のあなたは、差し迫った問題が再び浮上し、注意を向けざるを得なくなるため、少し憂鬱な気分になるかもしれません。それらを無視したくなるかもしれませんが、今こそ正面から向き合い、完全に解決する時です。家族や友人は、あなたが率先して前向きな雰囲気を作り出すことを期待しているので、家庭の雰囲気をより明るくすることに集中しましょう。"
+      "horoscope": "Cancer, you may find yourself in a bit of a somber mood as pressing matters resurface, demanding your attention. While it might be tempting to ignore them, it's clear that avoidance won't solve anything. Now is the moment to confront these issues head-on and put them to rest. Additionally, focus on cultivating a more uplifting atmosphere at home, as your family and friends rely on you to create a positive vibe.",
+      "horoscope_ja": "蟹座のあなたは、差し迫った問題が再び浮上し、注意を向けざるを得なくなるため、少し憂鬱な気分になるかもしれません。それらを無視したくなるかもしれませんが、避けても何も解決しないことは明らかです。今こそ、これらの問題に正面から向き合い、解決する時です。さらに、家族や友人はあなたがポジティブな雰囲気を作り出すことを期待しているので、家庭の雰囲気をより明るくすることにも力を注ぎましょう。"
     },
     "leo": {
       "date": "2026-07-30",
       "sign": "Leo",
-      "horoscope": "Leo, now is not the time to push or pressure anyone or anything. The energies at play today are just as unyielding as you tend to be. The current planetary alignments are nudging you to take the leap and transform your aspirations into tangible outcomes, whether you're ready or not. It's time to acknowledge that while you've been strategizing for quite a while, real progress has been elusive. Get ready for a shift!",
-      "horoscope_ja": "獅子座のあなた、今は誰かや何かを無理強いしたり、プレッシャーをかけたりする時ではありません。今日のエネルギーの流れは、あなたと同じように、非常に頑固です。現在の惑星の配置は、あなたが準備できていようといまいと、思い切って一歩踏み出し、願望を具体的な成果へと変えるよう促しています。これまで長い間戦略を練ってきたにもかかわらず、なかなか真の進歩が見られなかったことを認める時が来ました。変化の準備をしましょう！"
+      "horoscope": "Leo, now is not the time to push against the tide. The energies surrounding you today are just as unyielding as your own spirit. The current planetary alignments are nudging you to take the leap and transform your aspirations into tangible outcomes, whether you're ready or not. It's time to acknowledge that while you've been strategizing for quite a while, real progress has been elusive. Get ready for a shift!",
+      "horoscope_ja": "獅子座のあなた、今は流れに逆らう時ではありません。今日あなたを取り巻くエネルギーは、あなたの精神力と同じくらい揺るぎないものです。現在の惑星の配置は、あなたが準備ができているかどうかに関わらず、思い切って一歩踏み出し、願望を具体的な成果へと変えるよう促しています。あなたは長い間戦略を練ってきましたが、真の進歩はなかなか得られていませんでした。そろそろ変化の時です！"
     },
     "virgo": {
       "date": "2026-07-30",
       "sign": "Virgo",
-      "horoscope": "Virgo, your productivity is impressive, and your knack for business is shining through. Yet, you might be experiencing a sense of discontent with your current situation. As you survey your surroundings, you may find yourself longing for more tangible rewards for your efforts. It's important to steer clear of this mindset. True worth lies in the connections you nurture and the satisfaction that comes from a job well done. While a new vehicle or stylish attire might boost your mood temporarily, remember that these are merely surface-level enhancements.",
-      "horoscope_ja": "乙女座のあなた、生産性は素晴らしく、ビジネスセンスも光っています。しかし、現状に不満を感じているかもしれません。周囲を見渡すと、努力に見合う、より具体的な報酬を求めている自分に気づくでしょう。しかし、そのような考え方は避けるべきです。真の価値は、あなたが育む人間関係と、仕事をやり遂げた時の満足感にあります。新しい車やスタイリッシュな服は一時的に気分を高揚させるかもしれませんが、これらはあくまで表面的な満足感に過ぎないことを忘れないでください。"
+      "horoscope": "Virgo, your productivity is impressive, and your knack for business is shining through. Yet, you might be experiencing a sense of discontent with your current situation. As you survey your surroundings, you may find yourself longing for more tangible rewards for your efforts. It's important to steer clear of this mindset. True worth lies in the connections you nurture and the satisfaction that comes from a job well done. While a new vehicle or stylish attire might provide a temporary boost, remember that these are merely surface-level enhancements.",
+      "horoscope_ja": "乙女座のあなた、生産性は素晴らしく、ビジネスセンスも光っています。しかし、現状に不満を感じているかもしれません。周囲を見渡すと、努力に見合う、より具体的な報酬を求めている自分に気づくでしょう。しかし、そのような考え方は避けるべきです。真の価値は、あなたが育む人間関係と、仕事をやり遂げた時の満足感にあります。新しい車やスタイリッシュな服は一時的な気分転換にはなるかもしれませんが、これらはあくまで表面的な満足感に過ぎないことを忘れないでください。"
     },
     "libra": {
       "date": "2026-07-30",
@@ -48,32 +48,32 @@
     "scorpio": {
       "date": "2026-07-30",
       "sign": "Scorpio",
-      "horoscope": "A thrilling chapter is about to unfold in your romantic life, Scorpio. If your connection with your partner has felt stagnant recently, get ready for a shift. You both seem poised for a significant change—maybe a relocation or a deeper commitment is on the horizon. Trust your intuition; it will guide you toward the right path.",
-      "horoscope_ja": "蠍座のあなた、恋愛生活に刺激的な新章が幕を開けようとしています。最近パートナーとの関係が停滞していると感じているなら、変化の時が来るでしょう。二人は大きな変化を迎えようとしているようです。もしかしたら、引っ越しやより深い関係への発展が目前に迫っているかもしれません。自分の直感を信じてください。きっと正しい道へと導いてくれるはずです。"
+      "horoscope": "A thrilling chapter is about to unfold in your romantic life, Scorpio. If your connection with your partner has felt stagnant recently, prepare for a shift. You both seem poised for a significant change. Whether it's a new adventure together or a deeper commitment, the possibilities are exciting. Trust your intuition; it will guide you toward the right path.",
+      "horoscope_ja": "蠍座のあなた、恋愛生活に刺激的な新章が幕を開けようとしています。最近、パートナーとの関係が停滞していると感じているなら、変化の時が来るでしょう。二人は大きな変化を迎える準備ができているようです。新たな冒険を共に始めるにせよ、より深い絆を築くにせよ、可能性は無限大です。自分の直感を信じてください。きっと正しい道へと導いてくれるはずです。"
     },
     "sagittarius": {
       "date": "2026-07-30",
       "sign": "Sagittarius",
-      "horoscope": "As a Sagittarius, your fiery spirit is undeniable. However, it can be challenging when those around you don't match your vibrant energy. Now is a moment to dial it back a bit. There's a bit of friction in the atmosphere, and your usual enthusiasm might come off as irritating instead of endearing. Don't sulk; this phase won't last long. Soon enough, you'll be back in the spotlight, showering everyone with affection and warmth.",
-      "horoscope_ja": "射手座のあなたは、情熱的な精神の持ち主であることは間違いありません。しかし、周りの人があなたの活気に満ちたエネルギーに追いつかないと、少し苦労することもあるでしょう。今は少しペースを落とす時です。周囲に少し摩擦が生じており、いつもの熱意が愛嬌というよりは、むしろ苛立ちを招いているかもしれません。でも、落ち込む必要はありません。この時期は長くは続きません。すぐにあなたは再び脚光を浴び、皆に愛情と温かさを注ぐことができるでしょう。"
+      "horoscope": "As a Sagittarius, your fiery spirit is undeniable. However, it can be challenging when those around you don't match your vibrant energy. Now is a moment to dial it back a bit. There's a bit of friction in the atmosphere, and your usual enthusiasm might come off as irritating instead of endearing. Don't let this get you down; it's just a fleeting phase. Soon enough, you'll be back in the spotlight, showering everyone with affection and warmth.",
+      "horoscope_ja": "射手座のあなたは、情熱的な精神の持ち主であることは間違いありません。しかし、周りの人があなたの活気に満ちたエネルギーに追いつかないと、少し苦労することもあるでしょう。今は少しペースを落とす時です。周囲に少し摩擦が生じており、いつもの熱意が愛嬌というよりは、むしろ苛立ちとして受け取られてしまうかもしれません。でも、落ち込む必要はありません。これは一時的なものです。すぐにあなたは再び脚光を浴び、皆に愛情と温かさを注ぐことができるでしょう。"
     },
     "capricorn": {
       "date": "2026-07-30",
       "sign": "Capricorn",
-      "horoscope": "Today promises to be quite a powerful day for you, Capricorn. The silver lining is that you'll achieve significant milestones. However, be prepared for some fatigue by day's end. It's wise to manage your energy wisely. Concentrate on what genuinely matters instead of getting sidetracked by minor details. By keeping your eyes on the larger goals, the smaller issues will naturally fall into place.",
-      "horoscope_ja": "山羊座のあなたにとって、今日は非常に力強い一日になりそうです。大きな目標を達成できるでしょう。ただし、一日の終わりには多少の疲労を感じるかもしれません。エネルギーを賢く管理することが大切です。些細なことに気を取られず、本当に重要なことに集中しましょう。大きな目標に目を向けていれば、小さな問題は自然と解決していくでしょう。"
+      "horoscope": "Today promises to be quite a powerful day for you, Capricorn. The silver lining is that you'll achieve significant milestones. However, be prepared for some fatigue by day's end. It's wise to manage your energy wisely. Concentrate on what truly matters and avoid getting sidetracked by minor details. By keeping your eyes on the larger goals, the smaller issues will naturally fall into place.",
+      "horoscope_ja": "山羊座のあなたにとって、今日は非常に力強い一日になりそうです。大きな目標を達成できるでしょう。ただし、一日の終わりには多少の疲労を感じるかもしれません。エネルギーを賢く管理することが大切です。本当に重要なことに集中し、些細なことに気を取られないようにしましょう。大きな目標に目を向けていれば、小さな問題は自然と解決していくでしょう。"
     },
     "aquarius": {
       "date": "2026-07-30",
       "sign": "Aquarius",
-      "horoscope": "Aquarius, today is all about asserting your independence and trusting your own judgment. While you might lean towards seeking input from others, remember that your instincts are spot on. If you focus too much on how others might respond, you could find yourself stuck in indecision. You have a clear sense of what’s right for you, and taking action based on your convictions will ultimately benefit everyone around you. Now is not the moment for uncertainty—embrace your choices and move forward with confidence!",
-      "horoscope_ja": "水瓶座のあなたにとって、今日は独立心を主張し、自分の判断を信じる日です。他人の意見を聞きたくなるかもしれませんが、あなたの直感は正しいことを忘れないでください。他人の反応を気にしすぎると、優柔不断な状態に陥ってしまう可能性があります。あなたは自分にとって何が正しいのかをはっきりと理解しており、自分の信念に基づいて行動することで、最終的には周囲の人々にも利益をもたらします。今は迷っている場合ではありません。自分の選択を受け入れ、自信を持って前進しましょう！"
+      "horoscope": "Aquarius, today is all about asserting your independence and trusting your own judgment. While you may have a tendency to lean on others for guidance, remember that your insights are the most reliable. If you focus too much on how others might respond to your choices, you could find yourself stuck in indecision. You have a clear understanding of what’s right for you, and taking action based on your convictions will ultimately benefit everyone around you. Now is not the moment for uncertainty—embrace your decisions and move forward with confidence!",
+      "horoscope_ja": "水瓶座のあなたにとって、今日は独立心を主張し、自分の判断を信じる日です。他人に頼りがちかもしれませんが、自分の直感こそが最も信頼できるものであることを忘れないでください。他人の反応を気にしすぎると、優柔不断な状態に陥ってしまう可能性があります。あなたは自分にとって何が正しいのかを明確に理解しており、自分の信念に基づいて行動することで、最終的には周囲の人々にも利益をもたらすでしょう。今は迷っている場合ではありません。自分の決断を受け入れ、自信を持って前進しましょう！"
     },
     "pisces": {
       "date": "2026-07-30",
       "sign": "Pisces",
       "horoscope": "As a Pisces, your dreamy nature is cherished by those around you. However, the cosmic energies today call for a more grounded approach. It's essential to address some personal matters that require your attention, rather than getting lost in daydreams. Now is the moment to prioritize your loved ones, as they may be feeling overlooked. Take the necessary steps to show your family that you are present and ready to support them in any way they need.",
-      "horoscope_ja": "魚座のあなたは、夢見がちな性格が周囲の人々に愛されています。しかし、今日の宇宙のエネルギーは、より地に足の着いたアプローチを求めています。空想にふけるのではなく、注意を払うべき個人的な問題に取り組むことが重要です。大切な人たちは、自分が見過ごされていると感じているかもしれません。今こそ、彼らを優先すべき時です。家族に、あなたがそばにいて、必要なあらゆるサポートをする準備ができていることを示すために、必要な行動を取りましょう。"
+      "horoscope_ja": "魚座のあなたは、夢見がちな性格が周囲の人々に愛されています。しかし、今日の宇宙のエネルギーは、より地に足の着いたアプローチを求めています。空想にふけるのではなく、注意を払うべき個人的な問題に取り組むことが重要です。大切な人たちは、自分が軽視されていると感じているかもしれません。今こそ、彼らを優先すべき時です。家族に、あなたがそばにいて、必要なあらゆるサポートをする準備ができていることを示すために、必要な行動を取りましょう。"
     }
   }
 }
