@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-14T16:57:20.200Z",
+  "updated_at": "2026-08-14T18:39:32.794Z",
   "jst_date": "2026-08-15",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
       "date": "2026-08-15",
       "sign": "Aries",
-      "horoscope": "Aries, it's time to carve out some leisure time for yourself. Anticipating enjoyable activities can significantly ease the burdens of challenging moments. You'll be surprised at your resilience when you have a goal to aim for. This shift in perspective can uplift your spirits, so seize the opportunity to take charge and set up your own rewards. Treat yourself to something delightful as a token of appreciation for your daily efforts.",
-      "horoscope_ja": "牡羊座の皆さん、そろそろ自分のための時間を作る時です。楽しいアクティビティを心待ちにすることで、困難な状況の重荷を大幅に軽減できます。目標を持つことで、自分の回復力に驚くことでしょう。この視点の転換は気分を高揚させてくれるので、この機会に主体的に行動し、自分へのご褒美を設定しましょう。日々の努力への感謝の印として、何か素敵なものを自分にご褒美として与えてください。"
+      "horoscope": "Aries, it's time to carve out some time for enjoyment! Anticipating a fun activity can significantly ease the burdens of challenging moments. You'll be surprised at your resilience when you have a goal to aim for. This shift in perspective can uplift your spirits, so seize the opportunity to take charge and set up your own rewards. Treat yourself to something delightful as a nod to the effort you put in daily.",
+      "horoscope_ja": "牡羊座の皆さん、そろそろ楽しい時間を作る時です！楽しいアクティビティを心待ちにすることで、困難な状況の重荷がぐっと軽くなります。目標を持つことで、自分の回復力にきっと驚くでしょう。この視点の転換は気分を高揚させてくれるので、この機会に主導権を握り、自分へのご褒美を設定しましょう。日々の努力を労うために、何か素敵なものを自分にご褒美として与えてあげてください。"
     },
     "taurus": {
       "date": "2026-08-15",
@@ -36,8 +36,8 @@
     "virgo": {
       "date": "2026-08-15",
       "sign": "Virgo",
-      "horoscope": "Today, you're likely to be in high spirits and radiate positivity. Spread this uplifting vibe to those around you who may be struggling. Your cheerful demeanor can significantly influence your friends, loved ones, and even your children. Those in your community and extended family may sense your joyful energy, often without you noticing. If you encounter someone who is feeling down or upset, offer them your support and encouragement. Remember, everything will fall into place in due time.",
-      "horoscope_ja": "今日はきっと気分が高揚し、ポジティブなオーラを放つでしょう。周りの、もしかしたら悩んでいるかもしれない人たちにも、この明るい雰囲気を分けてあげてください。あなたの明るい態度は、友人や家族、そして子供たちにも大きな影響を与えるでしょう。地域社会や親戚も、あなたが気づかないうちに、あなたの喜びのエネルギーを感じ取っているかもしれません。もし落ち込んでいる人や、気分が沈んでいる人に出会ったら、ぜひ励ましとサポートを差し伸べてください。すべては時が経てばうまくいく、ということを忘れないでください。"
+      "horoscope": "Today, you’re likely to be in high spirits and radiating positivity. Spread this uplifting vibe to those around you who may be struggling. Your cheerful demeanor can significantly influence your friends, loved ones, and even your children. Those in your community and extended family may sense your joyful energy, often without you noticing. If you encounter someone who is feeling down or upset, offer them your support and encouragement. Remember, in the end, everything will fall into place.",
+      "horoscope_ja": "今日はきっと気分が高揚し、ポジティブなオーラを放っていることでしょう。周りの、もしかしたら苦しんでいるかもしれない人たちにも、この明るい雰囲気を分けてあげてください。あなたの明るい態度は、友人や家族、そして子供たちにも大きな影響を与えるでしょう。地域社会や親戚も、あなたが気づかないうちに、あなたの喜びのエネルギーを感じ取っているかもしれません。もし落ち込んでいる人や、気分が沈んでいる人に出会ったら、ぜひ励ましとサポートを差し伸べてください。最後には、すべてがうまくいくことを忘れないでください。"
     },
     "libra": {
       "date": "2026-08-15",
@@ -48,20 +48,20 @@
     "scorpio": {
       "date": "2026-08-15",
       "sign": "Scorpio",
-      "horoscope": "Don't let the melancholy weigh you down, Scorpio. Although some days may feel slow, keeping yourself occupied will help time fly by. Focus on wrapping up any outstanding tasks and consider making arrangements for a fun evening. With a glimmer of hope on the horizon, not only will the hours seem to quicken, but you'll also find comfort in knowing that you're nearing completion.",
-      "horoscope_ja": "蠍座のあなた、憂鬱な気分に負けないでください。確かに、時間がゆっくり過ぎるように感じる日もあるかもしれませんが、何かに没頭することで、あっという間に時間が過ぎていきます。残っている仕事を片付けることに集中し、楽しい夜を過ごす計画を立ててみましょう。希望の光が見え始めれば、時間が早く過ぎるように感じられるだけでなく、物事が終わりに近づいているという安心感も得られるでしょう。"
+      "horoscope": "Don't let the melancholy weigh you down, Scorpio. Although some days may feel slow, keeping yourself occupied will help time fly by. Focus on wrapping up any outstanding tasks and consider making arrangements for a fun night out. With a glimmer of hope on the horizon, not only will the hours seem to pass more quickly, but you'll also find comfort in knowing that you're nearing the finish line.",
+      "horoscope_ja": "蠍座のあなた、憂鬱な気分に負けないでください。確かに、時間がゆっくり過ぎるように感じる日もあるかもしれませんが、何かで忙しくしていれば、あっという間に時間が過ぎます。未完了のタスクを片付けることに集中し、楽しい夜の外出を計画してみてはいかがでしょうか。希望の光が見え始めれば、時間が早く過ぎるだけでなく、ゴールが近づいているという安心感も得られるでしょう。"
     },
     "sagittarius": {
       "date": "2026-08-15",
       "sign": "Sagittarius",
       "horoscope": "Embrace your uniqueness, Sagittarius! It's all too simple to slip into a monotonous routine—having your meals and sleep at the same hour, sticking to the same wardrobe, and approaching your tasks in a familiar manner. Before long, you might find yourself stuck in a groove. The key to escaping this cycle is to make a conscious choice to shake things up. Experiment with a fresh hairstyle, explore vibrant colors you haven't tried before, or if you're feeling particularly adventurous, think about a career change. Broaden your perspectives!",
-      "horoscope_ja": "射手座の皆さん、個性を大切にしましょう！食事や就寝時間を毎日同じにし、同じ服を着続け、いつものやり方で仕事に取り組むなど、単調なルーティンに陥るのは簡単です。気づけば、マンネリ化しているかもしれません。この悪循環から抜け出す鍵は、意識的に変化を起こすことです。新しいヘアスタイルに挑戦したり、今まで試したことのない鮮やかな色を試したり、あるいは冒険心があるなら、キャリアチェンジを考えてみるのも良いでしょう。視野を広げましょう！"
+      "horoscope_ja": "射手座の皆さん、個性を大切にしましょう！食事や就寝時間を毎日同じにし、同じ服を着続け、いつものやり方で仕事に取り組むなど、単調なルーティンに陥るのは簡単です。気づけば、マンネリ化しているかもしれません。この悪循環から抜け出す鍵は、意識的に変化を起こすことです。新しいヘアスタイルに挑戦したり、今まで試したことのない鮮やかな色に挑戦したり、あるいは冒険心があるなら、キャリアチェンジを考えてみるのも良いでしょう。視野を広げましょう！"
     },
     "capricorn": {
       "date": "2026-08-15",
       "sign": "Capricorn",
-      "horoscope": "Capricorn, embrace your unique lifestyle today and don't let self-doubt creep in. You made choices for a reason, and those choices reflect who you are. Even if you're contemplating a shift, there's no need to feel awkward or embarrassed about your current path. Each person forges their own journey, whether it aligns with the mainstream or not. Both paths are perfectly valid.",
-      "horoscope_ja": "山羊座の皆さん、今日はあなただけのライフスタイルを存分に楽しみ、自己疑念に陥らないようにしましょう。あなたが選んだ道には理由があり、その選択はあなた自身を映し出しています。たとえ変化を考えているとしても、今の自分の歩んでいる道に気まずさや恥ずかしさを感じる必要はありません。人はそれぞれ、主流と一致するかどうかに関わらず、自分自身の道を切り開いていくものです。どちらの道も、全く正当なものです。"
+      "horoscope": "Capricorn, embrace your unique lifestyle today and don't let self-doubt creep in. You made choices for meaningful reasons, and that's something to be proud of. Even if you're contemplating a shift, there's no reason to feel awkward about your current path. Each person forges their own journey, whether it aligns with the mainstream or not. Both paths are perfectly valid.",
+      "horoscope_ja": "山羊座の皆さん、今日はあなただけのライフスタイルを存分に楽しみ、自己疑念に陥らないようにしましょう。あなたは意義深い理由に基づいて選択をしてきたのですから、誇りに思うべきことです。たとえ変化を考えているとしても、今の自分の歩んでいる道に違和感を覚える必要はありません。人はそれぞれ、主流と一致するかどうかにかかわらず、自分自身の道を切り開いていくものです。どちらの道も、全く正当なものです。"
     },
     "aquarius": {
       "date": "2026-08-15",
@@ -72,8 +72,8 @@
     "pisces": {
       "date": "2026-08-15",
       "sign": "Pisces",
-      "horoscope": "Pisces, are you sensing the subtle influence of today's calm planetary alignments? Don't worry; this phase is fleeting. Focus on tackling tasks gradually and consider organizing some enjoyable activities for tonight. Whether it's gathering with friends or enjoying a movie, keeping yourself engaged and productive will lift your spirits. Soon enough, you'll find your mood brightening significantly.",
-      "horoscope_ja": "魚座の皆さん、今日の穏やかな惑星配置の微妙な影響を感じていますか？心配しないでください。この時期はすぐに過ぎ去ります。タスクを少しずつこなしていくことに集中し、今夜は楽しいアクティビティを計画してみてはいかがでしょうか。友人との集まりでも、映画鑑賞でも、何かに没頭して生産的な時間を過ごすことで、気分が明るくなるでしょう。すぐに、気分がぐっと晴れやかになるはずです。"
+      "horoscope": "Pisces, are you sensing the subtle influence of today's calm planetary alignments? Don't worry; this phase is fleeting. Focus on tackling tasks gradually and consider arranging some enjoyable activities for tonight. Whether it's gathering with friends or enjoying a film, keeping yourself engaged and centered will lift your spirits. Soon enough, you'll find your mood has brightened significantly.",
+      "horoscope_ja": "魚座の皆さん、今日の穏やかな惑星配置の微妙な影響を感じていますか？心配しないでください。この時期はすぐに過ぎ去ります。タスクを少しずつこなしていくことに集中し、今夜は楽しいアクティビティを計画してみてはいかがでしょうか。友人との集まりでも、映画鑑賞でも、何かに没頭し、心を落ち着かせることで気分が晴れるでしょう。すぐに気分がぐっと明るくなるはずです。"
     }
   }
 }
