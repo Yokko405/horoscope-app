@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-08-19T18:17:39.389Z",
-  "jst_date": "2026-08-20",
+  "updated_at": "2026-08-20T16:38:35.390Z",
+  "jst_date": "2026-08-21",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "sign": "Aries",
-      "horoscope": "Aries, today is the perfect opportunity to dive into something you've been curious about. Embracing adventure will infuse your day with excitement, creativity, and vitality—elements that are vital for your spirit. Your artistic side thrives on fresh experiences, so seek out new stimuli to nourish your mind. Whether it's exploring a different neighborhood or trying a new activity, step outside your comfort zone today to get that much-needed adrenaline rush.",
-      "horoscope_ja": "牡羊座のあなたにとって、今日はこれまでずっと気になっていたことに飛び込む絶好のチャンスです。冒険心を満たすことで、あなたの精神に欠かせない興奮、創造性、そして活力が満ち溢れるでしょう。あなたの芸術的な感性は新鮮な経験によって開花するので、心を養うための新たな刺激を求めましょう。いつもとは違う街を散策したり、新しいアクティビティに挑戦したり、今日は自分の殻を破って、待ち望んでいたアドレナリンラッシュを体験してください。"
+      "horoscope": "Today, Aries, your inner flame is burning brightly, and it's essential to handle this energy with care. Embrace your pride and confidence; stand tall with your shoulders back and your head held high. While your sense of freedom is vital, be mindful that others may misread it as indifference towards someone or something that truly matters to you. Allow your heart to express itself with sincerity and openness.",
+      "horoscope_ja": "牡羊座の皆さん、今日は内なる炎が明るく燃え上がっています。このエネルギーを慎重に扱うことが大切です。誇りと自信を胸に、背筋を伸ばし、頭を高く上げて堂々と立ちましょう。自由であることは非常に重要ですが、それがあなたにとって本当に大切な人や物事への無関心と誤解される可能性もあることを心に留めておいてください。誠実さと率直さをもって、心の内を自由に表現しましょう。"
     },
     "taurus": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "sign": "Taurus",
-      "horoscope": "Today’s vibes encourage you, Taurus, to start organizing your space. Dive into those desk drawers, closets, storage areas, or filing cabinets. By bringing order to your surroundings, you’ll cultivate a sense of tranquility and empowerment. Additionally, engaging in mental organization—like setting goals, brainstorming ideas, or planning your schedule—will enhance this feeling. Aim to clear out both your mental and physical clutter as much as you can.",
-      "horoscope_ja": "今日の雰囲気は、牡牛座のあなたに、身の回りの整理整頓を始めるよう促しています。机の引き出し、クローゼット、収納スペース、書類棚などを整理してみましょう。周囲を整頓することで、心の平穏と自信が育まれます。さらに、目標設定、アイデア出し、スケジュール計画など、精神的な整理整頓に取り組むことで、この感覚はさらに高まります。できる限り、心と体の両方の雑然としたものを片付けるように心がけましょう。"
+      "horoscope": "Taurus, you might find that others are making a big deal out of something you consider trivial. Take a moment to appreciate the beauty and significance in your surroundings. Remember to acknowledge your own worth and the unique qualities you bring to the table. Your sense of self may undergo a shift, influencing how you engage with the world around you.",
+      "horoscope_ja": "牡牛座のあなたは、自分が些細なことだと思っていることを、周りの人が大げさに捉えていることに気づくかもしれません。少し時間を取って、周囲の美しさや意義をじっくりと味わってみてください。そして、自分自身の価値や、自分ならではの強みを認識することを忘れないでください。自己認識に変化が生じ、それが周囲の世界との関わり方に影響を与えるかもしれません。"
     },
     "gemini": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "sign": "Gemini",
-      "horoscope": "Gemini, the vibes today are empowering, making you feel capable of tackling any challenge. However, with your bold mindset, it's wise to exercise some restraint. Your innate sense of humanitarianism is strong, so be cautious—if your ambitions come at the expense of others, it could create a conflict within you. Take a moment to reflect on your choices before acting, ensuring you stay aligned with your moral compass.",
-      "horoscope_ja": "双子座のあなたにとって、今日は力強い雰囲気に包まれ、どんな困難にも立ち向かえるような気分になるでしょう。しかし、大胆な考え方を持つあなただからこそ、少し自制心を持つことが大切です。あなたは生まれつき人道主義の精神が強いので、注意が必要です。もしあなたの野心が他者を犠牲にするものであれば、心の中で葛藤が生じる可能性があります。行動を起こす前に、少し時間を取って自分の選択を振り返り、道徳観念に忠実であり続けるようにしましょう。"
+      "horoscope": "Today marks a pivotal moment for you, Gemini, and you might encounter some pushback from those around you regarding your choices. Remember, it's perfectly fine to prioritize your own needs when the circumstances call for it. Take a moment to reflect on your own achievements and embrace the person you are. Avoid the temptation to blend into the crowd or believe that your joy and accomplishments hinge on the achievements of others.",
+      "horoscope_ja": "今日は双子座のあなたにとって重要な転換点となるでしょう。周囲の人々から、あなたの選択に対して反発を受けるかもしれません。しかし、状況によっては自分のニーズを優先することは全く問題ありません。少し時間を取って、これまでの自分の功績を振り返り、ありのままの自分を受け入れてください。周りに溶け込もうとしたり、自分の喜びや成功が他人の成功に左右されると思い込んだりする誘惑に負けないようにしましょう。"
     },
     "cancer": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "sign": "Cancer",
-      "horoscope": "Today could present an excellent opportunity for you to revisit a past endeavor that didn’t go as planned, Cancer. While facing setbacks can shake your confidence and self-worth, remember that these experiences are essential to personal growth and resilience. By daring to try again, you not only cultivate bravery but also strengthen your determination.",
-      "horoscope_ja": "蟹座のあなたにとって、今日は計画通りに進まなかった過去の試みを改めて見直す絶好の機会となるかもしれません。挫折に直面すると自信や自尊心が揺らぐかもしれませんが、こうした経験は個人の成長と回復力にとって不可欠であることを忘れないでください。もう一度挑戦する勇気を持つことで、あなたは勇気を養うだけでなく、決意も強固なものにするでしょう。"
+      "horoscope": "Today, Cancer, don’t hesitate to express yourself more boldly. You’ll discover that sharing your thoughts openly and honestly with those around you can lead to smoother outcomes. Take charge of your inner strength rather than allowing others to play mind games with you. Your genuine nature can be swayed easily, so stay vigilant to ensure you’re not left at a disadvantage.",
+      "horoscope_ja": "蟹座の皆さん、今日はためらわずに大胆に自己表現をしましょう。周りの人たちと率直に、そして誠実に考えを共有することで、物事がスムーズに進むことに気づくはずです。他人に心理戦を仕掛けられるのではなく、自分の内なる強さをしっかりとコントロールしましょう。あなたの本来の性質は容易に揺さぶられることがあるので、不利な立場に置かれないよう、常に警戒を怠らないようにしてください。"
     },
     "leo": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "sign": "Leo",
-      "horoscope": "Today, Leo, your knack for creative problem-solving is likely to shine. With a surge of energy and sharp mental clarity at your disposal, you'll notice that tasks flow smoothly. As you tackle your projects, take a moment to explore all potential avenues. By viewing situations from different perspectives, you may uncover a wealth of options that you hadn't considered before. Don't forget to jot down your thoughts!",
-      "horoscope_ja": "獅子座のあなた、今日はあなたの創造的な問題解決能力が光るでしょう。エネルギーに満ち溢れ、頭の回転も速いので、物事がスムーズに進むことに気づくはずです。プロジェクトに取り組む際は、あらゆる可能性を探ってみましょう。様々な視点から物事を見ることで、これまで考えもしなかった多くの選択肢が見つかるかもしれません。思いついたことは必ずメモしておきましょう！"
+      "horoscope": "Today, Leo, you are invited to revel in your own brilliance. You possess a remarkable amount of energy and strength at your fingertips. Your confidence is robust, invigorated, and prepared to take on any challenge. Embrace the vibrant energies around you with warmth and positivity. The fiery atmosphere will support your quest for joy. Remember, you deserve nothing short of excellence, so aim high!",
+      "horoscope_ja": "獅子座の皆さん、今日はあなた自身の輝きを存分に堪能してください。あなたは驚くほどのエネルギーと力強さを秘めています。自信に満ち溢れ、活力に満ち、どんな挑戦にも立ち向かう準備ができています。周囲の活気に満ちたエネルギーを温かくポジティブな気持ちで受け入れてください。情熱的な雰囲気は、あなたの喜びへの探求を後押ししてくれるでしょう。あなたは卓越した成果にふさわしい存在です。ですから、高い目標を目指しましょう！"
     },
     "virgo": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "sign": "Virgo",
-      "horoscope": "Virgo, if you've been staring at a mountain of unfinished tasks, today is your chance to tackle it head-on. This is particularly true for the items you couldn't get to yesterday. Luckily, you're equipped with enhanced strength and sharp mental clarity. Expect a smooth ride as you work through your list. Harness this energy by avoiding any delays; putting things off will only make the workload heavier. Take action on what needs to be done, and you'll find a sense of accomplishment.",
-      "horoscope_ja": "乙女座の皆さん、もし山積みの未完了タスクを前に途方に暮れているなら、今日こそそれらに真正面から取り組む絶好のチャンスです。特に昨日手をつけられなかったタスクは、今日こそ片付けましょう。幸運なことに、あなたは今、力強く、そして明晰な思考力に恵まれています。リストをこなしていく過程は、きっとスムーズに進むでしょう。このエネルギーを最大限に活用するために、あらゆる遅延を避けましょう。物事を先延ばしにすると、仕事量は増えるばかりです。やるべきことには積極的に取り組み、達成感を味わってください。"
+      "horoscope": "Brighten your day, Virgo! It's the perfect moment to ignite your inner fire and express it with the confidence you've been holding back. Prioritize your healing by sharing your authentic self with those around you. Avoid the temptation to play along just to satisfy others. Remember, staying true to yourself is the most important thing.",
+      "horoscope_ja": "乙女座のみなさん、今日は明るい一日を！内なる情熱に火をつけ、これまで抑えてきた自信を解き放つ絶好のチャンスです。ありのままの自分を周りの人々と分かち合うことで、心の癒しを優先しましょう。他人を満足させるためだけに、無理に合わせようとする誘惑に負けないでください。自分自身に正直でいることが、何よりも大切なのです。"
     },
     "libra": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "sign": "Libra",
-      "horoscope": "Libra, there's no need to stress about productivity today. You may find yourself achieving more than you have in quite a while. The celestial vibes suggest that if you fell short of your goals yesterday, today is your chance to make up for it. Stand firm and get to work; you'll complete your tasks with time to spare. If you have a creative passion, dive into that as well—it will bring you great satisfaction.",
-      "horoscope_ja": "天秤座の皆さん、今日は生産性について心配する必要はありません。ここしばらくで一番多くのことを成し遂げられるかもしれません。星のエネルギーは、昨日目標を達成できなかったとしても、今日は挽回するチャンスだと示唆しています。しっかりと準備を整え、仕事に取り掛かりましょう。余裕を持ってタスクを完了できるはずです。もし創造的な情熱をお持ちなら、それに没頭してみましょう。大きな満足感を得られるでしょう。"
+      "horoscope": "Libra, your inner fire has the ability to transform potential into action with ease. Remember, your words hold significant weight; they can influence those around you in ways you might not fully grasp. It's important to acknowledge the effects they can have and to wield them with care. Consider speaking less than usual, but when you do, let each word carry double the impact.",
+      "horoscope_ja": "天秤座のあなたは、内なる情熱によって、潜在能力を容易に行動へと変える力を持っています。言葉には大きな重みがあり、あなたが想像もしないような形で周囲の人々に影響を与える可能性があることを忘れないでください。言葉がもたらす影響を認識し、慎重に使うことが大切です。普段より発言を控え、話すときは、一言一句に最大限の力を込めてください。"
     },
     "scorpio": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "sign": "Scorpio",
-      "horoscope": "Today, Scorpio, you may find yourself brimming with extra physical vitality. It's a perfect opportunity to tackle those cluttered closets. Engaging in activities like yoga or a brisk walk will bring you joy. Additionally, take some time to reflect on your aspirations. Are you on the right path in your life, or is it time for some adjustments? Challenge both your mind and body for a fulfilling day.",
-      "horoscope_ja": "蠍座の皆さん、今日はいつも以上に活力がみなぎるでしょう。散らかったクローゼットを片付ける絶好のチャンスです。ヨガやウォーキングなどの運動は、あなたに喜びをもたらしてくれるでしょう。さらに、自分の目標についてじっくり考えてみましょう。あなたは人生の正しい道を歩んでいるでしょうか？それとも、そろそろ方向転換が必要な時期でしょうか？心と体の両方を鍛え、充実した一日を過ごしましょう。"
+      "horoscope": "Today, Scorpio, try not to get caught up in your changing emotions. Instead, focus on the bigger picture and recognize the positive forces aligning in your favor. Keep a hopeful outlook and remind yourself that you have a purpose in this world. Stay true to your values by remaining connected to yourself and your surroundings. Embrace the strength found in quiet moments, and treasure the peace they bring.",
+      "horoscope_ja": "蠍座の皆さん、今日は移り変わる感情に振り回されないようにしましょう。代わりに、より大きな視点に目を向け、自分に有利に働くポジティブな力に気づいてください。希望を持ち続け、この世界で自分が果たすべき役割があることを心に留めておきましょう。自分自身と周囲の人々との繋がりを保ち、自分の価値観に忠実であり続けてください。静かなひとときの中に秘められた強さを受け入れ、そこから得られる安らぎを大切にしましょう。"
     },
     "sagittarius": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "sign": "Sagittarius",
-      "horoscope": "Sagittarius, if you've been struggling to wrap up some projects or tasks, today brings a burst of energy that will help you tackle them with enthusiasm. Once you take that first step, you'll find that everything falls into place. It's an excellent day for connecting with others to discuss business or make plans. Your enhanced communication and teamwork abilities will streamline decision-making, making it smoother than ever.",
-      "horoscope_ja": "射手座の皆さん、もしこれまでプロジェクトやタスクの完了に苦労していたなら、今日はエネルギーがみなぎり、それらに情熱を持って取り組むことができるでしょう。最初の一歩を踏み出せば、すべてがうまくいくことに気づくはずです。ビジネスについて話し合ったり、計画を立てたりするために、他の人と連絡を取るのに最適な日です。コミュニケーション能力とチームワーク能力が向上することで、意思決定がこれまで以上にスムーズになるでしょう。"
+      "horoscope": "Today is your moment to radiate, Sagittarius! Embrace your full self without reservation. You'll discover an abundance of love within you, ready to be expressed. Your emotions may reach new heights as you demonstrate your love, enthusiasm, and warmth. Just ensure that this genuine energy is recognized and returned by those you choose to share it with.",
+      "horoscope_ja": "今日は射手座のあなたにとって、輝く絶好のチャンスです！ありのままの自分を遠慮なく表現しましょう。あなたの中には、表現されるのを待っている愛が溢れていることに気づくでしょう。愛、情熱、そして温かさを表現するにつれ、あなたの感情は新たな高みへと達するかもしれません。ただし、この純粋なエネルギーを分かち合う相手に、それがきちんと認識され、返されるよう気を付けてください。"
     },
     "capricorn": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "sign": "Capricorn",
-      "horoscope": "Capricorn, today you may find yourself brimming with energy like never before. This surge of vitality sharpens your mind and boosts your physical capabilities, making it the perfect time to tackle any outstanding tasks. If you've already made significant progress and have some extra time on your hands, consider lending a hand to others who may need support. Just remember to prioritize your own responsibilities first!",
-      "horoscope_ja": "山羊座の皆さん、今日はかつてないほどのエネルギーに満ち溢れているかもしれません。この活力の高まりは、あなたの思考力を研ぎ澄まし、身体能力を高めてくれるでしょう。未解決の課題に取り組むには絶好の機会です。すでに大きな成果を上げていて、時間に余裕があるなら、支援を必要としている人に手を差し伸べることも考えてみてください。ただし、まずは自分の責任を優先することを忘れないでくださいね！"
+      "horoscope": "Capricorn, keep your focus on your own ambitions and aspirations. Today, there's a potent mix of energy that could lead to manipulation and distractions, so stay vigilant. Trust in your abilities and stand your ground if tensions rise. Remember, it's essential to steer your own path rather than letting it drift aimlessly downhill.",
+      "horoscope_ja": "山羊座の皆さん、自分の野心と願望に集中してください。今日は、操作や気を散らすような強力なエネルギーが混ざり合っているので、警戒を怠らないようにしましょう。自分の能力を信じ、緊張が高まった時は毅然とした態度を貫いてください。自分の道を漫然と下っていくのではなく、自らの手で切り開いていくことが何よりも大切であることを忘れないでください。"
     },
     "aquarius": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "sign": "Aquarius",
-      "horoscope": "Aquarius, today is the perfect opportunity to pursue that endeavor you've been contemplating. Your physical and mental fortitude is on the rise, empowering you to shed any doubts or hesitations. Embrace your natural talent for making wise decisions and let that guide you as you move forward with your project or goal. Take decisive action to manifest your desires.",
-      "horoscope_ja": "水瓶座のあなたにとって、今日はこれまで考えてきたことを実現する絶好の機会です。肉体的にも精神的にも力がみなぎり、あらゆる疑念やためらいを払拭できるでしょう。賢明な決断を下す天性の才能を活かし、それを指針としてプロジェクトや目標に向かって前進してください。思い切った行動を起こし、願望を実現させましょう。"
+      "horoscope": "Take a moment today to rejuvenate, Aquarius, by stepping outside and reaching for the sky. Embrace your inner strength and bravery. You possess the ability to transform a challenging circumstance into something uplifting, but it starts with shedding any lingering self-doubt. Remember, if you lack faith in yourself, it will be difficult for others to believe in you. Clearly express your position to the world.",
+      "horoscope_ja": "水瓶座の皆さん、今日は少し時間を取って、外に出て空を見上げ、心身をリフレッシュしましょう。内なる強さと勇気を解き放ってください。あなたは困難な状況を前向きなものに変える力を持っていますが、そのためにはまず、心に残る自己疑念を払拭することから始めなければなりません。自分自身を信じなければ、他人もあなたを信じることは難しいということを覚えておいてください。自分の立場を世界に明確に伝えましょう。"
     },
     "pisces": {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "sign": "Pisces",
-      "horoscope": "Today is set to be a refreshing change for you, Pisces, especially if you've been feeling a bit low on energy. You'll experience a revitalizing boost that enhances both your creativity and physical vitality. Take advantage of this by engaging in outdoor activities, whether it's playing a sport or simply going for a stroll. These activities will help channel your energy and provide clarity for your thoughts. You might find that your concentration improves as the day progresses. Embrace this opportunity!",
-      "horoscope_ja": "今日は、特に最近少し元気がないと感じている魚座のあなたにとって、爽快な変化の日になりそうです。創造性と身体的な活力を高める、活力あふれるエネルギーを感じられるでしょう。スポーツをしたり、散歩に出かけたりするなど、屋外活動に積極的に参加して、この機会を活かしましょう。こうした活動は、エネルギーを発散させ、思考を明晰にするのに役立ちます。時間が経つにつれて、集中力が向上することに気づくかもしれません。このチャンスをぜひ活かしてください！"
+      "horoscope": "Today, Pisces, you may encounter challenging situations if you attempt to impose your will on others without pure intentions. Be mindful that you might be leveraging someone else's fear to gain control, which can lead to unhealthy dynamics. Instead of lashing out, focus on building connections rather than conflicts. By fostering alliances, you'll discover that there's truly nothing to fear.",
+      "horoscope_ja": "魚座の皆さん、今日は、純粋な意図を持たずに他人に自分の意志を押し付けようとすると、困難な状況に直面するかもしれません。他人の恐怖心を利用して支配権を得ようとしている可能性があるので、注意が必要です。それは不健全な関係性につながる恐れがあります。感情的に爆発するのではなく、対立ではなく繋がりを築くことに集中しましょう。協力関係を育むことで、本当に恐れるべきものは何もないことに気づくでしょう。"
     }
   }
 }
