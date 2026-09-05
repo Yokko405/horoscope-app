@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-05T18:00:51.073Z",
+  "updated_at": "2026-09-05T19:40:47.091Z",
   "jst_date": "2026-09-06",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
       "date": "2026-09-06",
       "sign": "Aries",
-      "horoscope": "Aries, you might find yourself in the midst of intriguing conversations with friends, possibly revolving around global events or some tantalizing tidbits about acquaintances. While it's great to have fun with these discussions, remember to approach them with a discerning ear, as not everything shared may be grounded in reality—some of it could simply be the result of someone's vivid imagination. Additionally, brief outings nearby could lead to insights about forthcoming shifts in your neighborhood. Be prepared for surprises!",
-      "horoscope_ja": "牡羊座のあなたは、友人たちと興味深い会話を交わす機会に恵まれるかもしれません。話題は世界的な出来事だったり、知り合いに関する魅力的な情報だったりするでしょう。こうした会話を楽しむのは素晴らしいことですが、話の内容は必ずしも現実に基づいているとは限らないので、注意深く耳を傾けるようにしましょう。中には、誰かの豊かな想像力の産物である可能性もあります。また、近所へのちょっとした外出が、あなたの住む地域でこれから起こる変化についての洞察を与えてくれるかもしれません。驚きの出来事に備えてください！"
+      "horoscope": "Aries, you might find yourself engaged in intriguing conversations with friends that touch on potential global events or perhaps some tantalizing rumors about acquaintances. Have fun with these exchanges, but remember to approach them with a discerning ear; not everything shared is grounded in reality—some of it may simply be the result of someone's vivid imagination. Additionally, brief trips around your neighborhood could lead to insights about forthcoming shifts in your community. Be prepared for surprises!",
+      "horoscope_ja": "牡羊座のあなたは、友人たちと興味深い会話を交わす機会があるかもしれません。その会話は、将来起こりうる世界的な出来事や、知り合いに関する魅力的な噂話など、様々な話題に触れる可能性があります。こうしたやり取りを楽しむ一方で、注意深く耳を傾けることも大切です。共有される情報すべてが現実に基づいているとは限らず、中には誰かの豊かな想像力の産物である場合もあるからです。また、近所を少し散策することで、地域社会にこれから起こる変化についての洞察を得られるかもしれません。驚きの出来事に備えてください！"
     },
     "taurus": {
       "date": "2026-09-06",
       "sign": "Taurus",
-      "horoscope": "Today, Taurus, you could find yourself receiving recognition at work, as the stars suggest your creativity is soaring and can significantly enhance your professional performance. There's a chance for a promotion or a salary boost on the horizon. However, remember to resist the temptation to gloss over any challenges you face in front of your superiors. Honesty is the best policy and will serve you well in the future.",
-      "horoscope_ja": "牡牛座の皆さん、今日は職場で評価されるチャンスがあるかもしれません。星の配置によると、あなたの創造性は高まり、仕事のパフォーマンスを大幅に向上させるでしょう。昇進や昇給のチャンスも近いかもしれません。ただし、上司の前で直面する課題をうやむやにしないよう注意してください。正直さは最善の策であり、将来必ず役に立つでしょう。"
+      "horoscope": "Today, Taurus, you could find yourself basking in the glow of professional recognition, as the stars suggest your creativity is soaring and can significantly enhance your work performance. There's a chance you might even see a promotion or a salary boost on the horizon. However, remember to resist the temptation to gloss over any challenges you face in front of your superiors. Honesty is the best policy, and being transparent will serve you well in the future.",
+      "horoscope_ja": "牡牛座の皆さん、今日は仕事での評価が高まるかもしれません。星の配置によると、あなたの創造性は高まり、仕事のパフォーマンスを大幅に向上させるでしょう。昇進や昇給のチャンスもあるかもしれません。ただし、上司の前で直面する課題を隠そうとする誘惑には負けないようにしましょう。正直さが最善の策であり、透明性を保つことは将来必ずあなたのためになります。"
     },
     "gemini": {
       "date": "2026-09-06",
       "sign": "Gemini",
-      "horoscope": "Your thoughts are racing today, brimming with creative and original ideas that may come at a whirlwind pace. Be sure to jot them down, as you might not have the opportunity to bring them to life just yet, but the time will come. Consider enriching your mind by attending a lecture or seminar, enrolling in an online course, or planning to meet up with friends for a small group activity, if you can.",
-      "horoscope_ja": "今日は、創造的で独創的なアイデアが次々と湧き上がってくるでしょう。すぐには実現できないかもしれませんが、必ず書き留めておきましょう。いつか必ずその時が来ます。可能であれば、講演会やセミナーに参加したり、オンライン講座を受講したり、友人たちと少人数で集まる活動を計画したりして、知識を深めることを検討してみてください。"
+      "horoscope": "Your thoughts are racing today, brimming with a whirlwind of creative and original ideas that may outpace your ability to bring them to life. Be sure to jot them down! While you might not have the opportunity to act on them right now, there will be a chance in the future. Consider enriching your mind by attending a lecture or seminar, enrolling in an online course, or planning to meet up with friends for a small group activity, if you can.",
+      "horoscope_ja": "今日は、創造的で独創的なアイデアが次々と湧き上がり、頭の中がフル回転しているでしょう。しかし、それらを形にするスピードが追いつかないかもしれません。ぜひ書き留めておきましょう！今は行動に移す機会がなくても、将来必ずチャンスは訪れます。可能であれば、講演会やセミナーに参加したり、オンライン講座を受講したり、友人たちと少人数で集まる活動を計画したりして、知識を深めることを検討してみてください。"
     },
     "cancer": {
       "date": "2026-09-06",
@@ -30,14 +30,14 @@
     "leo": {
       "date": "2026-09-06",
       "sign": "Leo",
-      "horoscope": "Today, you may find yourself in a cheerful and sociable mood, radiating warmth to those around you. Expect to engage in social gatherings or receive invites for upcoming celebrations. This is a wonderful opportunity to enjoy yourself and possibly forge new friendships. Remember to boost your immune system with plenty of vitamin C, as there may be colds and other illnesses circulating, and you might be more vulnerable to them right now.",
-      "horoscope_ja": "今日は、明るく社交的な気分で、周りの人々に温かさを振りまくことができるでしょう。社交的な集まりに参加したり、近々開催されるお祝い事への招待を受けたりするかもしれません。これは、楽しい時間を過ごしたり、新しい友情を育む絶好の機会です。風邪などの病気が流行している可能性があり、あなたは今、感染しやすい時期なので、ビタミンCをたっぷり摂って免疫力を高めることを忘れないでください。"
+      "horoscope": "Today, you may find yourself in a cheerful and sociable mood, radiating warmth to those around you. Expect to engage in social gatherings or receive invites for upcoming celebrations. This is a wonderful opportunity to enjoy yourself and possibly forge new friendships. Remember to boost your vitamin C intake, as there may be colds and other illnesses circulating, and you might be more vulnerable to them right now.",
+      "horoscope_ja": "今日は、明るく社交的な気分で、周りの人々に温かさを振りまくことができるでしょう。社交的な集まりに参加したり、近々開催されるお祝い事への招待を受けたりするかもしれません。これは、楽しい時間を過ごし、新たな友情を育む絶好の機会です。風邪などの病気が流行している可能性があり、あなたは今、感染しやすい時期なので、ビタミンCの摂取量を増やすことを忘れないでください。"
     },
     "virgo": {
       "date": "2026-09-06",
       "sign": "Virgo",
-      "horoscope": "Today, Virgo, your interactions with colleagues are likely to be positive, which could greatly benefit your professional life. However, remember to look beyond the surface; not everything is as it appears. There may be someone harboring unresolved issues with you, making them less than reliable. Be cautious about forming close bonds with anyone who appears to be unwell, as your immune system is currently vulnerable, and you might be at risk of picking up a bug.",
-      "horoscope_ja": "乙女座のあなたにとって、今日は同僚との交流が良好で、仕事面で大きなメリットとなるでしょう。しかし、表面的なことだけでなく、物事の本質を見抜くことを忘れないでください。見た目通りとは限りません。あなたに対して未解決の問題を抱えている人がいるかもしれません。そのような人は信頼できない可能性があります。また、免疫力が低下している時期なので、体調が悪そうな人とは親密な関係を築くことに注意しましょう。感染症にかかるリスクがあります。"
+      "horoscope": "Today, Virgo, your interactions with colleagues are likely to be positive, which can greatly benefit your professional life. However, remember to look beyond the surface; not everything is as it appears. There may be someone harboring unresolved issues with you, making them less than reliable. Be cautious about forming close bonds with anyone who appears to be unwell, as your immune system is currently vulnerable, and you might be susceptible to illness.",
+      "horoscope_ja": "乙女座のあなたにとって、今日は同僚との交流が良好で、仕事面で大きなメリットが得られるでしょう。しかし、表面的なことだけでなく、物事の本質を見抜くことを忘れないでください。見た目通りとは限りません。あなたに対して未解決の問題を抱えている人がいるかもしれません。そのような人は信頼できない可能性があります。また、免疫力が低下している時期なので、体調が悪そうな人とは親密な関係を築くことに注意しましょう。病気にかかりやすい状態にあるかもしれません。"
     },
     "libra": {
       "date": "2026-09-06",
@@ -54,14 +54,14 @@
     "sagittarius": {
       "date": "2026-09-06",
       "sign": "Sagittarius",
-      "horoscope": "Today, Sagittarius, you might receive a delightful message from a business or romantic partner. This could spark a wave of excitement for both of you, enhancing your connection or boosting your collaborative efforts. It's important to be transparent with your partner; share your worries instead of hiding them. Open communication is key. Rest assured, everything will turn out just fine!",
-      "horoscope_ja": "射手座のあなたにとって、今日は仕事仲間や恋人から嬉しいメッセージが届くかもしれません。これは二人の心を躍らせ、絆を深めたり、協力関係を活性化させたりするきっかけとなるでしょう。パートナーに対しては正直であることが大切です。不安なことは隠さずに、率直に伝えましょう。オープンなコミュニケーションが鍵となります。きっとすべてうまくいくはずです！"
+      "horoscope": "Today, Sagittarius, you might receive a delightful message from a business or romantic partner. This could spark a wave of excitement for both of you, enhancing your connection or collaboration. It's important to be transparent with your partner; share your worries instead of hiding them. Open communication is key. Rest assured, everything will turn out just fine!",
+      "horoscope_ja": "射手座のあなたにとって、今日は仕事仲間や恋人から嬉しいメッセージが届くかもしれません。これは二人の心を躍らせ、絆や協力関係をさらに深めるきっかけとなるでしょう。大切なのは、パートナーに対して正直であること。不安な気持ちを隠すのではなく、率直に伝えましょう。オープンなコミュニケーションが鍵となります。きっとすべてうまくいくはずです！"
     },
     "capricorn": {
       "date": "2026-09-06",
       "sign": "Capricorn",
-      "horoscope": "Capricorn, today presents a prime opportunity to discuss a salary increase or explore alternative income avenues. Your bosses are likely to be in a generous frame of mind, making it an ideal moment to approach them. Additionally, it's a favorable time to research potential investments, but hold off on making any financial commitments just yet. Be cautious, as the information you come across may not be entirely accurate. It's wise to take about a week to reflect before making any decisions.",
-      "horoscope_ja": "山羊座の皆さん、今日は昇給について話し合ったり、別の収入源を探ったりする絶好の機会です。上司は寛大な気持ちになっている可能性が高いので、交渉するには理想的なタイミングです。また、投資の可能性を探るのにも適した時期ですが、現時点では金銭的な約束は控えてください。得た情報が必ずしも正確とは限らないので、注意が必要です。決断を下す前に、1週間ほどじっくり考える時間を取るのが賢明でしょう。"
+      "horoscope": "Capricorn, today presents a prime opportunity to discuss a salary increase or explore alternative income avenues. Your bosses are likely to be in a generous frame of mind, making it a favorable moment for such conversations. Additionally, it's a great day to research potential investments, but hold off on making any financial commitments just yet. Be cautious, as the information you come across may not be entirely accurate. It's wise to take about a week to reflect before making any decisions.",
+      "horoscope_ja": "山羊座の皆さん、今日は昇給について話し合ったり、別の収入源を探ったりする絶好の機会です。上司は寛大な気持ちになっている可能性が高く、こうした話し合いにはうってつけのタイミングと言えるでしょう。また、投資の可能性を探るにも最適な日ですが、現時点では金銭的な約束は控えてください。得た情報が必ずしも正確とは限らないため、注意が必要です。決断を下す前に、1週間ほどじっくり考える時間を取るのが賢明です。"
     },
     "aquarius": {
       "date": "2026-09-06",
@@ -72,8 +72,8 @@
     "pisces": {
       "date": "2026-09-06",
       "sign": "Pisces",
-      "horoscope": "You may feel an intense urge to break away from the hustle and bustle of everyday life with a partner, Pisces. Today is perfect for such an adventure! If a getaway isn't feasible, consider creating a cozy evening at home with your beloved. Additionally, don't overlook other indulgent desires you might have, whether it's savoring exquisite food, enjoying fine drinks, or sinking into plush furniture. Embrace these cravings; everyone deserves a little pampering from time to time!",
-      "horoscope_ja": "魚座のあなたは、パートナーと一緒に日々の喧騒から抜け出したいという強い衝動に駆られるかもしれません。今日はまさにそんな冒険にぴったりの日です！もし旅行が難しい場合は、愛する人と家でゆったりとした夜を過ごしてみてはいかがでしょうか。また、美味しい料理を味わったり、上質な飲み物を楽しんだり、ふかふかの家具に身を委ねたりといった、その他の贅沢な欲求も忘れずに満たしましょう。こうした欲求を遠慮なく受け入れてください。誰だってたまには自分を甘やかす権利があるのですから！"
+      "horoscope": "Pisces, you may feel an intense urge to break away from the hustle and bustle of everyday life with a romantic partner. Today is perfect for such an adventure! If a getaway isn't feasible, consider creating a cozy atmosphere at home with your beloved. Additionally, don't overlook your other sensual desires—treat yourself to some delectable food, a fine drink, or the comfort of plush seating or a soft bed. Embrace these feelings; everyone deserves a little pampering from time to time!",
+      "horoscope_ja": "魚座のあなたは、恋人と一緒に日々の喧騒から抜け出したいという強い衝動に駆られるかもしれません。今日はまさにそんな冒険にぴったりの日です！もし旅行が難しい場合は、愛する人と家で居心地の良い雰囲気を作ってみてはいかがでしょうか。さらに、他の感覚的な欲求も忘れずに満たしましょう。美味しい食事や上質な飲み物、ふかふかの椅子や柔らかいベッドで自分を甘やかしてあげてください。こうした気持ちを大切にしましょう。誰だってたまには自分を甘やかす権利があるのですから！"
     }
   }
 }
