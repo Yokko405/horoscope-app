@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T18:56:24.893Z",
+  "updated_at": "2026-09-18T20:07:38.269Z",
   "jst_date": "2026-09-19",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
@@ -19,7 +19,7 @@
       "date": "2026-09-19",
       "sign": "Gemini",
       "horoscope": "Today is a fantastic day for you, Gemini! A wave of positive energy is on the horizon. Keep your eyes peeled for the opportunities that are readily available to you. While you might be experiencing some major shifts in your life, it's time to let go of anything that has held you back in the past. The path ahead is full of possibilities. Take charge and make the changes you need to create the life you envision.",
-      "horoscope_ja": "今日は双子座のあなたにとって素晴らしい一日です！ポジティブなエネルギーの波が押し寄せています。目の前に広がるチャンスを見逃さないようにしましょう。人生において大きな変化を経験しているかもしれませんが、過去にあなたを阻んできたものはすべて手放す時です。前途には可能性が満ち溢れています。主導権を握り、思い描く人生を創造するために必要な変化を起こしましょう。"
+      "horoscope_ja": "今日は双子座のあなたにとって素晴らしい一日です！ポジティブなエネルギーの波が押し寄せています。目の前に広がるチャンスを見逃さないようにしましょう。人生において大きな変化を経験しているかもしれませんが、過去にあなたを阻んできたものはすべて手放す時です。前途には可能性が満ち溢れています。主体的に行動し、思い描く人生を創造するために必要な変化を起こしましょう。"
     },
     "cancer": {
       "date": "2026-09-19",
@@ -43,19 +43,19 @@
       "date": "2026-09-19",
       "sign": "Libra",
       "horoscope": "Embrace a significant transformation today, Libra. Step away from the ordinary and dive into something thrilling. Explore an online course that broadens your horizons—perhaps yoga, tarot, or even martial arts. You’re brimming with energy, which will bolster your confidence and stamina as you lay the foundation for this exciting new journey.",
-      "horoscope_ja": "天秤座の皆さん、今日は大きな変化を受け入れましょう。平凡な日常から抜け出し、刺激的な世界に飛び込んでみてください。視野を広げるオンライン講座を探してみるのも良いでしょう。ヨガ、タロット、あるいは武道など、選択肢は豊富です。エネルギーに満ち溢れたあなたは、このエキサイティングな新たな旅の土台を築く上で、自信と体力を高めてくれるはずです。"
+      "horoscope_ja": "天秤座の皆さん、今日は大きな変化を受け入れましょう。平凡な日常から抜け出し、刺激的な世界に飛び込んでみてください。視野を広げるオンライン講座を探してみるのも良いでしょう。ヨガ、タロット、あるいは武道など、様々な選択肢があります。エネルギーに満ち溢れたあなたは、この刺激的な新たな旅の土台を築く上で、自信と体力を高めてくれるはずです。"
     },
     "scorpio": {
       "date": "2026-09-19",
       "sign": "Scorpio",
       "horoscope": "Today is all about taking action. You might find yourself either leading the charge or dealing with the consequences of others' decisions. Scorpio, it's crucial to keep your cool and not let frustration get the best of you. Expect some people to behave impulsively and without thought; this could be their way of signaling that they value your presence and insights. Trust in the power of your voice.",
-      "horoscope_ja": "今日は行動を起こすことがすべてです。あなたは先頭に立って行動するか、他人の決断の結果に対処することになるかもしれません。蠍座のあなたにとって、冷静さを保ち、苛立ちに負けないようにすることが重要です。衝動的で考えなしに行動する人もいるでしょう。それは、あなたの存在と洞察力を高く評価しているという彼らのサインかもしれません。自分の声の力を信じてください。"
+      "horoscope_ja": "今日は行動を起こすことがすべてです。あなたは先頭に立って行動するか、他人の決断の結果に対処することになるかもしれません。蠍座のあなたにとって、冷静さを保ち、苛立ちに負けないようにすることが重要です。衝動的で考えなしに行動する人もいるでしょう。それは、あなたの存在と洞察力を高く評価しているというサインかもしれません。自分の声の力を信じてください。"
     },
     "sagittarius": {
       "date": "2026-09-19",
       "sign": "Sagittarius",
       "horoscope": "Prepare for a day brimming with surprises and swift shifts, Sagittarius. The atmosphere is charged with vibrant energy, prompting those around you to behave in unpredictable and intense ways. It's essential to remain grounded and keep your attention sharp. Remember, if you're feeling the urge to liberate yourself from any constraints, seize this moment to take action. Trust in your decisions and bring your aspirations to life.",
-      "horoscope_ja": "射手座の皆さん、今日は驚きと目まぐるしい変化に満ちた一日になりそうです。活気に満ちたエネルギーが周囲を包み込み、周りの人々も予測不能で激しい行動に出るかもしれません。地に足をつけて、集中力を保つことが大切です。もし何らかの束縛から解放されたいという衝動を感じたら、この機会を逃さず行動に移しましょう。自分の決断を信じ、夢を実現させてください。"
+      "horoscope_ja": "射手座の皆さん、今日は驚きと目まぐるしい変化に満ちた一日になりそうです。活気に満ちたエネルギーが周囲を包み込み、予測不能で激しい行動へと駆り立てるでしょう。地に足をつけて、集中力を保つことが大切です。もし何らかの束縛から解放されたいという衝動を感じたら、この機会を逃さず行動を起こしましょう。自分の決断を信じ、夢を実現させてください。"
     },
     "capricorn": {
       "date": "2026-09-19",
