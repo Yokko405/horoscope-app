@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T18:29:49.032Z",
+  "updated_at": "2026-09-19T19:44:36.888Z",
   "jst_date": "2026-09-20",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
@@ -7,13 +7,13 @@
       "date": "2026-09-20",
       "sign": "Aries",
       "horoscope": "Today, Aries, you might find yourself pleasantly surprised by unexpected romantic communications. A sweet message from a partner could brighten your day, or you might catch wind of an upcoming wedding among friends. You may also feel inspired to dive into a love poem or romance novel, or even pen your own heartfelt words! Be open to the possibility of someone expressing their feelings for you—it's well-deserved!",
-      "horoscope_ja": "牡羊座のあなたにとって、今日は思いがけないロマンチックなメッセージに嬉しい驚きを感じるかもしれません。パートナーからの甘いメッセージがあなたの気分を明るくしたり、友人たちの間で近々結婚式があるという噂を耳にするかもしれません。また、愛の詩や恋愛小説に没頭したり、心からの言葉を綴ったりしたくなるかもしれません。誰かがあなたへの気持ちを伝えてくれる可能性に心を開いてください。それはあなたにとって当然のことです！"
+      "horoscope_ja": "牡羊座のあなたにとって、今日は思いがけないロマンチックなメッセージに嬉しい驚きを感じるかもしれません。パートナーからの甘いメッセージがあなたの気分を明るくしたり、友人たちの間で近々結婚式があるという噂を耳にするかもしれません。また、愛の詩や恋愛小説に没頭したくなったり、心からの言葉を綴りたくなるかもしれません。誰かがあなたへの気持ちを伝えてくれる可能性に心を開いてください。それはあなたにとって当然のことです！"
     },
     "taurus": {
       "date": "2026-09-20",
       "sign": "Taurus",
-      "horoscope": "Today, Taurus, you may find an opportunity to boost your earnings through an artistic endeavor. Whether you dive into the creative side or take on a promotional role, expect to forge strong connections along the way. If you're currently unattached, keep an eye on a coworker who could blossom into a romantic interest. Have fun!",
-      "horoscope_ja": "牡牛座の皆さん、今日は芸術的な活動を通して収入を増やすチャンスが訪れるかもしれません。創作活動に没頭するにせよ、プロモーションの役割を担うにせよ、その過程で強い繋がりを築くことができるでしょう。もし現在恋人がいないなら、恋愛対象に発展する可能性のある同僚に注目してみてください。楽しい一日をお過ごしください！"
+      "horoscope": "Today, Taurus, you may find an opportunity to boost your earnings through involvement in a creative endeavor. Whether you dive into the artistic side or take on a promotional role, expect to forge strong connections along the way. If you're currently unattached, keep an eye on a coworker who could blossom into a romantic interest. Have fun!",
+      "horoscope_ja": "牡牛座の皆さん、今日はクリエイティブな活動を通して収入を増やすチャンスがあるかもしれません。芸術的な分野に没頭するにせよ、プロモーションの役割を担うにせよ、その過程で強い繋がりを築けるでしょう。もし現在恋人がいないなら、恋愛対象に発展する可能性のある同僚に注目してみてください。楽しい一日を！"
     },
     "gemini": {
       "date": "2026-09-20",
@@ -24,8 +24,8 @@
     "cancer": {
       "date": "2026-09-20",
       "sign": "Cancer",
-      "horoscope": "Today, Cancer, you may find yourself struck by a wave of inspiration. This uplifting sensation can be exhilarating, yet you might feel uncertain about how to express it. It could signify a spiritual awakening, a burst of creativity, or a deeper empathy for those around you—or perhaps a combination of these insights. One thing is clear: you'll likely crave some solitude to process these feelings and determine how to harness them. Keep an open mind and don't overlook any idea, no matter how wild it may appear.",
-      "horoscope_ja": "蟹座のあなたは今日、インスピレーションの波に襲われるかもしれません。この高揚感は爽快ですが、それをどう表現すれば良いのか戸惑うこともあるでしょう。それは精神的な目覚め、創造性の爆発、あるいは周囲の人々への深い共感、あるいはこれらの洞察の組み合わせを意味するのかもしれません。一つ確かなことは、これらの感情を整理し、それをどう活かすかを考えるために、あなたはきっと一人になりたいと切望するでしょう。心を開いて、どんなに突飛に思えるアイデアでも見過ごさないようにしてください。"
+      "horoscope": "Today, Cancer, you may find yourself struck by a wave of inspiration. This uplifting sensation can be exhilarating, yet you might feel uncertain about how to express it. It could signify a spiritual awakening, a burst of creativity, or a deeper empathy for those around you—or perhaps a combination of these insights. One thing is likely: you'll crave some solitude to reflect and process these feelings. Embrace every idea that comes to mind, no matter how wild it may appear.",
+      "horoscope_ja": "蟹座のあなたは今日、インスピレーションの波に襲われるかもしれません。この高揚感は爽快ですが、それをどう表現すれば良いのか戸惑うこともあるでしょう。それは精神的な目覚め、創造性の爆発、あるいは周囲の人々への深い共感、あるいはこれらの洞察の組み合わせを意味するのかもしれません。一つ確かなことは、これらの感情をじっくりと振り返り、整理するために、一人になりたいと強く願うようになるということです。どんなに突飛に思えても、頭に浮かんだアイデアはすべて受け入れてください。"
     },
     "leo": {
       "date": "2026-09-20",
@@ -36,8 +36,8 @@
     "virgo": {
       "date": "2026-09-20",
       "sign": "Virgo",
-      "horoscope": "Unexpected insights from unusual places may open doors to exciting career opportunities for you, Virgo. You might find yourself venturing into unfamiliar territories, even if just for a short while. Your hard work is likely to catch the eye of influential figures, paving the way for potential promotions or salary increases. Embrace the chance to delve into these new avenues. Keep up the excellent effort!",
-      "horoscope_ja": "乙女座のあなたにとって、思いがけない場所からの意外な洞察が、刺激的なキャリアチャンスへの扉を開くかもしれません。たとえ短期間であっても、あなたは未知の領域に足を踏み入れることになるでしょう。あなたの努力は影響力のある人物の目に留まり、昇進や昇給の可能性が開けるかもしれません。これらの新たな道を切り開くチャンスを掴みましょう。素晴らしい努力を続けてください！"
+      "horoscope": "Unexpected insights from unusual places may open doors to exciting career opportunities for you, Virgo. You might find yourself venturing into unfamiliar territories, even if just for a short while. Your hard work is likely to catch the eye of influential figures, paving the way for potential promotions or salary increases. Embrace the chance to delve into these new avenues, and keep up the excellent momentum!",
+      "horoscope_ja": "乙女座のあなたにとって、思いがけない場所からの洞察が、刺激的なキャリアチャンスへの扉を開くかもしれません。たとえ短期間であっても、あなたは未知の領域に足を踏み入れることになるでしょう。あなたの努力は影響力のある人物の目に留まり、昇進や昇給の可能性が開けるでしょう。これらの新たな分野に挑戦するチャンスを掴み、この素晴らしい勢いを維持していきましょう！"
     },
     "libra": {
       "date": "2026-09-20",
@@ -48,32 +48,32 @@
     "scorpio": {
       "date": "2026-09-20",
       "sign": "Scorpio",
-      "horoscope": "Scorpio, have you noticed a dip in your usual energy levels? Today could mark a turning point as you find yourself feeling revitalized and eager to take on new challenges. You might feel inspired to kick off a demanding fitness routine. While it's great to dive in, remember to take it slow and avoid the urge to overcompensate for lost time. Gradually ease into your new regimen—consider starting with some walking or yoga to gently reawaken your body.",
-      "horoscope_ja": "蠍座の皆さん、いつもよりエネルギーレベルが下がっていると感じていませんか？今日は転換点となるかもしれません。活力がみなぎり、新たな挑戦に意欲的になっていることでしょう。本格的なフィットネスを始めようという気持ちになるかもしれません。思い切って始めるのは素晴らしいことですが、焦らずゆっくりと進め、遅れを取り戻そうとする衝動に駆られないようにしましょう。新しい習慣は徐々に取り入れていくのが良いでしょう。まずはウォーキングやヨガから始めて、体を優しく目覚めさせてみてはいかがでしょうか。"
+      "horoscope": "Scorpio, have you noticed a dip in your usual energy levels? Today could mark a turning point as you find your vitality returning, leaving you eager to take on new challenges. You might feel inspired to dive into an intense workout routine. While it's great to embrace this newfound motivation, remember to take it slow and avoid the urge to overcompensate all at once. Ease into your fitness journey—consider starting with some gentle walks or yoga sessions.",
+      "horoscope_ja": "蠍座の皆さん、いつもよりエネルギーレベルが下がっていると感じましたか？今日は転換点となるかもしれません。活力が戻り、新たな挑戦に意欲が湧いてくるでしょう。激しいワークアウトに挑戦したくなるかもしれません。この新たなモチベーションを歓迎するのは素晴らしいことですが、焦らずゆっくりと進め、一度にすべてを補おうとする衝動を抑えることを忘れないでください。フィットネスの旅は、無理のないペースで始めましょう。まずは軽い散歩やヨガから始めてみてはいかがでしょうか。"
     },
     "sagittarius": {
       "date": "2026-09-20",
       "sign": "Sagittarius",
       "horoscope": "Today, Sagittarius, love and romance take center stage in your life. If you're flying solo, you might find yourself captivated by a thrilling new prospect. For those in a relationship, recent experiences may have forged an unbreakable connection with your partner, leaving you feeling like this bond is everlasting. Reflect on what sparked this deep feeling and seek ways to recreate it. Doing so will only enhance your relationship.",
-      "horoscope_ja": "射手座のあなたにとって、今日は愛とロマンスが人生の中心となるでしょう。一人で過ごしているなら、刺激的な新しい出会いに心を奪われるかもしれません。恋人がいる人は、最近の出来事がパートナーとの揺るぎない絆を築き、この関係が永遠に続くように感じているかもしれません。この深い感情が芽生えたきっかけを振り返り、それを再現する方法を探してみましょう。そうすることで、二人の関係はより一層深まるでしょう。"
+      "horoscope_ja": "射手座のあなたにとって、今日は愛とロマンスが人生の中心となるでしょう。一人で過ごしているなら、刺激的な新しい出会いに心を奪われるかもしれません。恋人がいる人は、最近の出来事がパートナーとの絆をより一層深め、この関係が永遠に続くように感じているかもしれません。この深い感情が芽生えたきっかけを振り返り、その感覚を再び呼び起こす方法を探してみましょう。そうすることで、二人の関係はより一層深まるはずです。"
     },
     "capricorn": {
       "date": "2026-09-20",
       "sign": "Capricorn",
-      "horoscope": "Is your home resembling a disaster zone? Your natural inclination for order should motivate you to restore some cleanliness. As you sift through the clutter, you might stumble upon items you believed were long gone. When you’re done, you’ll likely be amazed at how lovely your space looks—perhaps even more so than before the chaos. Remember, sometimes beauty emerges from disorder.",
-      "horoscope_ja": "ご自宅がまるで災害現場のようではありませんか？本来の秩序を好む性質を活かして、少しでも清潔さを取り戻しましょう。散らかった物を整理していくうちに、とっくに紛失したと思っていたものが見つかるかもしれません。片付けが終わる頃には、きっと空間の美しさに驚くことでしょう。もしかしたら、散らかっていた時よりもさらに美しくなっているかもしれません。覚えておいてください、美しさは時に混沌の中から生まれるのです。"
+      "horoscope": "Is your home resembling a disaster zone? Your natural inclination for order should motivate you to restore it to its former glory. As you sift through the clutter, you might stumble upon items you believed were long gone. When you’re done, you’ll likely be amazed at how stunning your space looks—perhaps even more so than before the chaos. Remember, sometimes beauty emerges from disorder.",
+      "horoscope_ja": "ご自宅がまるで災害現場のようではありませんか？本来の秩序を重んじる性質を活かして、かつての輝きを取り戻しましょう。散らかった物を整理していくうちに、とっくに紛失したと思っていたものが見つかるかもしれません。片付けが終わる頃には、きっとその美しさに驚かれることでしょう。もしかしたら、混乱していた時よりもさらに美しくなっているかもしれません。覚えておいてください、美しさは時に混沌の中から生まれるのです。"
     },
     "aquarius": {
       "date": "2026-09-20",
       "sign": "Aquarius",
       "horoscope": "Aquarius, brace yourself for an exhilarating message from a friend that could deliver some fantastic news! The realms of love, romance, and artistic success are shining brightly for you right now, and this communication might just spotlight those opportunities. Engaging discussions could spark your creativity, and your thoughts are likely to race at lightning speed throughout the day. Seize this moment!",
-      "horoscope_ja": "水瓶座の皆さん、友人から素晴らしいニュースを伝えるワクワクするメッセージが届くかもしれません！愛、ロマンス、そして芸術的な成功の分野が今まさに輝いており、このメッセージはまさにそうしたチャンスを照らし出すものとなるでしょう。刺激的な会話があなたの創造性を掻き立て、一日を通して思考が目まぐるしく展開していくことでしょう。このチャンスを逃さないでください！"
+      "horoscope_ja": "水瓶座の皆さん、友人から素晴らしい知らせが届くかもしれません！恋愛、ロマンス、そして芸術的な成功の分野が今まさに輝いており、このメッセージはまさにそうしたチャンスを照らし出すものとなるでしょう。刺激的な会話があなたの創造性を掻き立て、一日を通して思考が目まぐるしく展開していくことでしょう。このチャンスを逃さないでください！"
     },
     "pisces": {
       "date": "2026-09-20",
       "sign": "Pisces",
-      "horoscope": "Today, Pisces, you might find yourself connecting with an online community, possibly with friends who share your passions for the arts, meditation, or spiritual exploration. This group is likely to foster a strong bond through shared interests, making your conversations this evening both thought-provoking and emotionally fulfilling. The events of today could also pave the way for healing, whether it's for you or someone close to you.",
-      "horoscope_ja": "魚座のあなたは今日、オンラインコミュニティ、特に芸術、瞑想、あるいは精神的な探求といった共通の趣味を持つ友人たちと繋がる機会があるかもしれません。このグループは共通の興味を通して強い絆を育み、今夜の会話は示唆に富み、感情的にも満たされるものとなるでしょう。今日の出来事は、あなた自身、あるいはあなたの身近な誰かの癒しへの道を開く可能性もあります。"
+      "horoscope": "Today, Pisces, you might find yourself connecting with an online community, possibly with friends who share your passions for the arts, meditation, or spiritual exploration. This group is likely to foster a strong bond through shared interests, making your conversations this evening both thought-provoking and emotionally fulfilling. Events that unfold today could also lead to some form of healing, whether for yourself or someone close to you.",
+      "horoscope_ja": "魚座のあなたは今日、オンラインコミュニティ、特に芸術、瞑想、あるいは精神的な探求といった共通の趣味を持つ友人たちと繋がる機会があるかもしれません。このグループは共通の興味を通して強い絆を育み、今夜の会話は示唆に富み、感情的にも満たされるものとなるでしょう。また、今日起こる出来事は、あなた自身、あるいはあなたの身近な誰かの癒しにつながる可能性もあります。"
     }
   }
 }
