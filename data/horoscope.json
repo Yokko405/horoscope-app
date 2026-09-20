@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-20T18:34:41.520Z",
+  "updated_at": "2026-09-20T19:56:55.849Z",
   "jst_date": "2026-09-21",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
       "date": "2026-09-21",
       "sign": "Aries",
-      "horoscope": "Aries, it seems that your recent intense workouts have left you feeling a bit achy and fatigued. Your patience may be wearing thin, making you more prone to snapping at others. To soothe both your frayed nerves and sore muscles, consider indulging in a relaxing hot bath. A cup of herbal tea could also provide some comfort. Embrace the idea of taking a break today and give yourself permission to unwind!",
-      "horoscope_ja": "牡羊座のあなた、最近の激しいトレーニングで、少し体が痛くて疲れているようですね。忍耐力も限界に近づいていて、つい人にイライラしてしまうかもしれません。神経の張り詰めた状態と筋肉の痛みを和らげるには、ゆったりと温かいお風呂に入ってみるのがおすすめです。ハーブティーも心地よいでしょう。今日は思い切って休息を取り、心身ともにリラックスしてください！"
+      "horoscope": "Aries, it seems that your recent intense workouts have left you feeling a bit achy and fatigued. Your patience may be wearing thin, making you more prone to snapping at others. Consider unwinding both your mind and body with a soothing hot bath, and perhaps sip on some calming herbal tea. Embrace the idea of taking a break today and allow yourself to truly relax!",
+      "horoscope_ja": "牡羊座のあなた、最近の激しいトレーニングで、少し体が痛くて疲れているようですね。忍耐力も限界に近づいていて、つい人にイライラしてしまいがちです。心身ともにリラックスするために、温かいお風呂にゆっくり浸かり、ハーブティーを飲んでみてはいかがでしょうか。今日は思い切って休息を取り、心身ともにリラックスしましょう！"
     },
     "taurus": {
       "date": "2026-09-21",
@@ -18,13 +18,13 @@
     "gemini": {
       "date": "2026-09-21",
       "sign": "Gemini",
-      "horoscope": "Today, Gemini, you might find yourself in a group setting or conference where some heated topics arise. Tensions could escalate, leading to disagreements that might turn into a full-blown argument. While you may have your own strong views, it's best to steer clear of the fray. Engaging in the conflict won't help, and it could just add to your stress. If possible, consider skipping this meeting altogether. Take a moment to reflect on your options!",
-      "horoscope_ja": "双子座のあなたにとって、今日はグループでの集まりや会議で、白熱した議論が巻き起こるかもしれません。緊張が高まり、意見の相違が本格的な口論に発展する可能性もあります。あなた自身も強い意見を持っているかもしれませんが、争いに巻き込まれないようにするのが賢明です。対立に加わっても何の解決にもならず、ストレスが増えるだけです。可能であれば、この会議自体を欠席することを検討してみてください。少し時間を取って、選択肢をじっくり考えてみましょう。"
+      "horoscope": "Today, Gemini, you might find yourself in a group setting or conference where some heated topics arise. Tensions could escalate, leading to disagreements that may turn into a full-blown argument. While you likely have your own strong views, it's best to steer clear of the fray. Engaging in the conflict won't help, and it could just add to your stress. If possible, consider skipping this meeting altogether. Take a moment to reflect on your options!",
+      "horoscope_ja": "双子座のあなたにとって、今日はグループでの集まりや会議で、白熱した議論が巻き起こるかもしれません。緊張が高まり、意見の相違が本格的な口論に発展する可能性もあります。あなた自身も強い意見を持っているでしょうが、争いに巻き込まれないようにするのが賢明です。対立に加わっても何の解決にもならず、ストレスが増えるだけです。可能であれば、この会議自体を欠席することを検討してみてください。少し時間を取って、選択肢をじっくり考えてみましょう。"
     },
     "cancer": {
       "date": "2026-09-21",
       "sign": "Cancer",
-      "horoscope": "Is your partner currently entangled in family issues and unable to be with you? Resist the urge to let insecurity take over. Your loved one needs to focus on family matters right now. Take this time to unwind, pursue your own interests, and trust that you'll soon be enjoying each other's company again. Once the family disputes are resolved, you'll be a calming sanctuary for your partner.",
+      "horoscope": "Is your partner currently entangled in family issues and unable to be with you? Resist the urge to let insecurity take over. Your loved one needs to focus on family matters right now. Take this time to unwind, pursue your own interests, and trust that you'll soon be enjoying each other's company again. Once the family disputes are resolved, you will be a calming sanctuary for your partner.",
       "horoscope_ja": "パートナーが現在、家族の問題に巻き込まれて一緒にいられない状況ですか？不安に駆られるのはやめましょう。今は家族の問題に集中する必要があるのです。この機会にリラックスしたり、自分の趣味に没頭したりして、すぐにまた一緒に楽しい時間を過ごせるようになると信じてください。家族の問題が解決すれば、あなたはパートナーにとって安らぎの場所となるでしょう。"
     },
     "leo": {
@@ -36,14 +36,14 @@
     "virgo": {
       "date": "2026-09-21",
       "sign": "Virgo",
-      "horoscope": "Today, Virgo, you might find that your principles clash with those of a business or romantic partner. One of you may be grounded in reality, while the other is lost in ideals. This contrast could lead to feelings of indifference from one side and a sense of fantasy from the other. However, if navigated thoughtfully, this moment could mark a significant turning point in your relationship. If you can't find a solution that benefits both parties, it may be time to rethink the partnership.",
-      "horoscope_ja": "今日、乙女座のあなたは、ビジネスパートナーや恋愛パートナーと自分の信念が衝突するかもしれません。一方は現実主義で、もう一方は理想主義に囚われている可能性があります。この違いは、一方が無関心になり、もう一方が空想にふける原因となるかもしれません。しかし、慎重に対処すれば、この瞬間は二人の関係における重要な転換点となるでしょう。もし双方にとって有益な解決策が見つからない場合は、パートナーシップを見直す時期かもしれません。"
+      "horoscope": "Today, Virgo, you might find that your principles clash with those of a business or romantic partner. One of you may be grounded in reality, while the other is lost in ideals. This contrast could lead to feelings of indifference from one side and a sense of fantasy from the other. However, if navigated thoughtfully, this moment could mark a significant turning point in your relationship. If a mutually beneficial solution seems out of reach, it may be time to rethink the partnership.",
+      "horoscope_ja": "今日、乙女座のあなたは、ビジネスパートナーや恋愛パートナーと自分の信念が衝突するかもしれません。一方は現実主義的で、もう一方は理想主義に囚われている可能性があります。この違いは、一方が無関心になり、もう一方が空想にふける原因となるかもしれません。しかし、慎重に対処すれば、この瞬間は二人の関係における重要な転換点となるでしょう。もし双方にとって有益な解決策が見つからないようであれば、パートナーシップを見直す時期かもしれません。"
     },
     "libra": {
       "date": "2026-09-21",
       "sign": "Libra",
-      "horoscope": "Libra, if you've been struggling to connect with a romantic interest, it may be wise to take a step back for now. A friend of yours is going through a tough time and may not be the most pleasant company today. In fact, your loved one might see your call as an unwelcome distraction and could respond curtly, or even unkindly. If you do reach out to your friend, keep the conversation short and consider rescheduling your meet-up for another day.",
-      "horoscope_ja": "天秤座の皆さん、もし恋愛関係でなかなか進展がないなら、今は少し距離を置くのが賢明かもしれません。あなたの友人が辛い時期を過ごしていて、今日はあまり楽しい時間を過ごせないかもしれません。実際、あなたの友人はあなたの電話を邪魔だと感じ、ぶっきらぼうな、あるいは不親切な返事をする可能性もあります。もし友人に連絡を取る場合は、会話は短めに済ませ、会う約束は別の日に延期することを検討しましょう。"
+      "horoscope": "Libra, if you've been struggling to connect with a romantic interest, it may be wise to take a step back for now. A friend of yours is going through a tough time and may not be the most pleasant company. In fact, your loved one might see your call as an inconvenient disruption and could respond curtly, or even unkindly. If you do reach out to your friend, keep the conversation short and suggest meeting up another day.",
+      "horoscope_ja": "天秤座の皆さん、もし恋愛関係でなかなか進展がないなら、今は少し距離を置くのが賢明かもしれません。あなたの友人が辛い時期を過ごしていて、あまり楽しい相手ではないかもしれません。実際、あなたの友人はあなたの電話を迷惑な邪魔だと感じ、ぶっきらぼうな、あるいは不親切な返事をする可能性もあります。もし友人に連絡を取る場合は、会話は短く済ませ、別の日に会うことを提案しましょう。"
     },
     "scorpio": {
       "date": "2026-09-21",
@@ -54,8 +54,8 @@
     "sagittarius": {
       "date": "2026-09-21",
       "sign": "Sagittarius",
-      "horoscope": "Today, Sagittarius, you may find yourself in high demand as numerous individuals seek your guidance and support. While it's nice to be appreciated, this influx of requests could feel overwhelming and distract you from your own priorities. Remember to keep your cool and avoid letting frustration spill over into your interactions with friends. Tackle each request individually, refrain from making commitments you can't keep, and give it your best shot.",
-      "horoscope_ja": "射手座のあなたにとって、今日は多くの人があなたの指導やサポートを求めてくるため、非常に頼りになる日となるでしょう。感謝されるのは嬉しいことですが、こうした依頼の殺到は圧倒されるような気持ちになり、自分の優先事項から注意が逸れてしまうかもしれません。冷静さを保ち、友人との交流に苛立ちが表れないように気をつけましょう。それぞれの依頼に個別に対応し、守れない約束は避け、最善を尽くしてください。"
+      "horoscope": "Today, Sagittarius, you may find yourself in high demand as numerous individuals seek your guidance and support. While it's nice to be appreciated, this influx of requests could feel overwhelming and distract you from your own priorities. Remember to keep your cool and avoid letting frustration get the better of you, especially with friends. Tackle each request individually, refrain from making commitments you can't keep, and give it your best shot.",
+      "horoscope_ja": "射手座のあなたにとって、今日は多くの人があなたの指導やサポートを求めてくるため、非常に頼りになる存在となるでしょう。感謝されるのは嬉しいことですが、こうした依頼の殺到は圧倒されるような気持ちになり、自分の優先事項から注意が逸れてしまうかもしれません。冷静さを保ち、特に友人に対しては、イライラに負けないように気をつけましょう。それぞれの依頼に個別に対応し、守れない約束は避け、最善を尽くしてください。"
     },
     "capricorn": {
       "date": "2026-09-21",
@@ -66,8 +66,8 @@
     "aquarius": {
       "date": "2026-09-21",
       "sign": "Aquarius",
-      "horoscope": "Tensions might arise today with a sibling or neighbor, Aquarius. It's essential to tap into your knack for finding common ground. If you’re not cautious, this could escalate into a clash of stubbornness. As soon as the disagreement surfaces, make an effort to communicate openly and aim for a resolution that benefits both parties. Failing to do so could lead to hurtful words being exchanged, leaving emotional scars that linger.",
-      "horoscope_ja": "水瓶座のあなたにとって、今日は兄弟姉妹や近所の人との間で緊張が生じるかもしれません。共通点を見つける才能を活かすことが重要です。注意を怠ると、これは頑固な対立へとエスカレートする可能性があります。意見の相違が表面化したらすぐに、率直に話し合い、双方にとって有益な解決策を目指しましょう。そうしないと、傷つく言葉の応酬となり、いつまでも心に残る心の傷を残すことになりかねません。"
+      "horoscope": "Tensions might arise today with a sibling or neighbor, Aquarius. It's essential to tap into your knack for finding common ground. If you’re not cautious, this could escalate into a clash of egos. As soon as the disagreement surfaces, make an effort to communicate openly and aim for a resolution that benefits both parties. Failing to do so could lead to hurtful words being exchanged, leaving emotional scars that linger.",
+      "horoscope_ja": "水瓶座のあなたにとって、今日は兄弟姉妹や近所の人との間で緊張が生じるかもしれません。共通点を見つける才能を活かすことが重要です。注意を怠ると、エゴの衝突に発展する可能性があります。意見の相違が表面化したらすぐに、率直に話し合い、双方にとって有益な解決策を目指しましょう。そうしないと、傷つく言葉の応酬となり、いつまでも心に傷が残ることになりかねません。"
     },
     "pisces": {
       "date": "2026-09-21",
