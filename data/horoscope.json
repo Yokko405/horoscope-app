@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-09-28T21:42:33.706Z",
+  "updated_at": "2026-09-28T22:43:58.111Z",
   "jst_date": "2026-09-29",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
       "date": "2026-09-29",
       "sign": "Aries",
-      "horoscope": "Today shines a positive light on your financial situation, Aries. While it might feel like your credit cards are at their limit and your bank balance could use a boost, expect some uplifting news that suggests otherwise. You could experience a financial windfall or find that your investments are performing well. It's also an excellent time to tackle any paperwork related to your finances.",
-      "horoscope_ja": "牡羊座のあなたにとって、今日は金銭面で明るい兆しが見えてくるでしょう。クレジットカードの利用限度額に達し、銀行口座の残高も足りないように感じるかもしれませんが、そうではないことを示唆する朗報が舞い込んでくるかもしれません。思わぬ収入を得たり、投資が順調に進んでいることに気づくかもしれません。また、金銭に関する書類整理をするのにも最適な時期です。"
+      "horoscope": "Today shines a positive light on your financial situation, Aries. While it might feel like your credit cards are at their limit and your bank balance could use a boost, expect some uplifting news that suggests otherwise. You could experience a financial windfall or find that your investments are performing well. It's also an excellent day to tackle any paperwork related to your finances.",
+      "horoscope_ja": "牡羊座のあなたにとって、今日は金銭面で明るい兆しが見えてくるでしょう。クレジットカードの利用限度額に達し、銀行口座の残高も足りないように感じるかもしれませんが、そうではないことを示唆する朗報が舞い込んでくるかもしれません。思わぬ収入を得たり、投資が順調に進んでいることに気づくかもしれません。また、今日は金銭に関する書類整理を片付けるのに最適な日です。"
     },
     "taurus": {
       "date": "2026-09-29",
       "sign": "Taurus",
-      "horoscope": "Today, Taurus, you might find yourself in a laid-back mood, and that's perfectly okay! After the whirlwind of the past week, you’ve earned a break. Treat yourself to a genuine day of relaxation. Engage in whatever brings you joy, be it binge-watching your favorite films or luxuriating in a long bath. Embrace this time for pure indulgence. Just take it easy and let yourself unwind.",
-      "horoscope_ja": "今日は、牡牛座のあなたはのんびりとした気分になるかもしれません。それは全く問題ありません！この1週間の慌ただしさの後、あなたは休息に値します。心ゆくまでリラックスできる一日を過ごしましょう。お気に入りの映画を一気見したり、ゆっくりとお風呂に浸かったり、何でも好きなことをして楽しんでください。この時間を心ゆくまで満喫しましょう。気楽に、そしてリラックスして過ごしてください。"
+      "horoscope": "Today, Taurus, you might find yourself in a laid-back mood, and that's perfectly okay! After the whirlwind of the past week, you’ve earned a break. Treat yourself to a genuine day of leisure. Engage in whatever brings you joy, be it binge-watching your favorite films or luxuriating in a long bath. Embrace this time for pure indulgence. Just take it easy and let yourself unwind.",
+      "horoscope_ja": "今日は、牡牛座のあなたはのんびりとした気分になるかもしれません。それは全く問題ありません！この1週間の慌ただしさの後、あなたは休息に値します。心からの休息を自分にご褒美として与えましょう。お気に入りの映画を一気見したり、ゆっくりとお風呂に浸かったり、何でも好きなことをして楽しんでください。この時間を心ゆくまで満喫しましょう。気楽に、そしてリラックスして過ごしてください。"
     },
     "gemini": {
       "date": "2026-09-29",
@@ -31,25 +31,25 @@
       "date": "2026-09-29",
       "sign": "Leo",
       "horoscope": "Today, your mind is inclined towards envisioning your future, especially in relation to your professional aspirations. You've achieved significant milestones lately, but you're eager for even greater advancement. This is an excellent opportunity to brainstorm practical strategies to propel you forward, Leo. Consider gathering your family for a creative session; their insights could prove invaluable.",
-      "horoscope_ja": "今日は、特に仕事上の目標に関して、自分の未来を思い描くことに意識が向いているようです。最近、あなたは大きな成果を上げてきましたが、さらなる飛躍を強く望んでいます。獅子座のあなたにとって、これは前進するための具体的な戦略を練る絶好の機会です。家族を集めて創造的なセッションを開いてみてはいかがでしょうか。彼らの洞察は非常に貴重なものとなるでしょう。"
+      "horoscope_ja": "今日は、特に仕事上の目標に関して、未来を思い描くことに意識が向いているようです。最近、大きな成果を上げてきましたが、さらなる飛躍を強く望んでいます。獅子座のあなたにとって、これは前進するための具体的な戦略を練る絶好の機会です。家族を集めてクリエイティブなセッションを開いてみてはいかがでしょうか。彼らの洞察は非常に貴重なものとなるでしょう。"
     },
     "virgo": {
       "date": "2026-09-29",
       "sign": "Virgo",
-      "horoscope": "The cosmic energies today are igniting your drive, Virgo. You might find yourself preoccupied with matters related to your career. It's a great moment to strategize on how to advance professionally. Whether you're aiming for a promotion in your current role or contemplating a new job opportunity, now is the perfect time to lay down concrete plans for your future.",
-      "horoscope_ja": "乙女座のあなたにとって、今日の宇宙エネルギーはあなたの意欲を掻き立てています。仕事に関する事柄に心を奪われるかもしれません。キャリアアップのための戦略を練る絶好の機会です。現在の役職での昇進を目指している人も、新しい仕事の機会を考えている人も、今こそ将来に向けた具体的な計画を立てるのに最適な時期です。"
+      "horoscope": "The cosmic energies today are igniting your drive, Virgo. You might find yourself preoccupied with thoughts about your career. This is a great moment to strategize your professional advancement. Whether you're aiming for a promotion in your current role or contemplating a new job opportunity, now is the perfect time to lay down concrete plans for your future.",
+      "horoscope_ja": "乙女座のあなたにとって、今日の宇宙エネルギーはあなたの意欲を掻き立てています。キャリアについて考える機会が増えるかもしれません。これは、キャリアアップのための戦略を練る絶好の機会です。現在の役職での昇進を目指している人も、新しい仕事の機会を検討している人も、今こそ将来に向けた具体的な計画を立てるのに最適な時期です。"
     },
     "libra": {
       "date": "2026-09-29",
       "sign": "Libra",
-      "horoscope": "Lately, Libra, your schedule has been packed, and in the hustle and bustle, you might have overlooked the needs of that special someone. While your outings have been enjoyable, they haven't left much room for intimacy and cozy moments. Make it a point to change that today. A delightful afternoon nap could be just what you need—why not ask your partner to cuddle up with you?",
-      "horoscope_ja": "天秤座のあなた、最近はスケジュールがぎっしり詰まっていて、慌ただしい中で大切な人のニーズを見落としてしまっているかもしれません。外出は楽しいけれど、親密な時間や心地よいひとときを過ごす余裕はあまりなかったでしょう。今日は意識的にその状況を変えてみてください。午後の心地よい昼寝はまさにあなたに必要なものかもしれません。パートナーに一緒に寄り添ってもらうよう頼んでみてはいかがでしょうか？"
+      "horoscope": "Lately, Libra, your schedule has been packed, and in the hustle and bustle, you might have overlooked the needs of that special someone in your life. While your outings have been enjoyable, they haven't left much room for intimacy and cozy moments. Make it a point to change that today. Consider taking a leisurely nap in the afternoon—why not ask your partner to cuddle up with you?",
+      "horoscope_ja": "天秤座のあなた、最近はスケジュールがぎっしり詰まっていて、慌ただしい中で、大切な人のニーズを見落としてしまっているかもしれません。外出は楽しいけれど、親密な時間や心地よいひとときを過ごす余裕はあまりなかったでしょう。今日は意識的にその状況を変えてみてください。午後にゆっくり昼寝をしてみてはいかがでしょうか？パートナーに一緒に寄り添ってもらうよう頼んでみるのもいいかもしれませんね。"
     },
     "scorpio": {
       "date": "2026-09-29",
       "sign": "Scorpio",
-      "horoscope": "Scorpio, prepare for a significant transformation on the horizon. You might be starting to feel that your current living situation and surroundings no longer resonate with you. If the thought of relocating has crossed your mind, today could bring some encouraging news that inspires you to turn that dream into action. Take some time to explore real estate options; you may discover some delightful surprises waiting for you.",
-      "horoscope_ja": "蠍座の皆さん、大きな変化が間近に迫っています。今の生活環境や周囲の雰囲気が、もはや自分に合わなくなってきたと感じ始めているかもしれません。もし引っ越しを考えているなら、今日はその夢を実現させるきっかけとなるような、心強いニュースが舞い込んでくるでしょう。不動産情報を調べてみてください。きっと素敵な発見があるはずです。"
+      "horoscope": "A significant transformation could be on the horizon for you, Scorpio. You might be starting to feel that your current living situation and surroundings no longer resonate with you. If the thought of relocating has crossed your mind, today could bring some encouraging news that inspires you to turn that dream into action. It's an excellent day to explore real estate options; you may discover some delightful surprises waiting for you.",
+      "horoscope_ja": "蠍座のあなたにとって、大きな変化が訪れるかもしれません。今の生活環境や周囲の雰囲気が、もはや自分に合わなくなってきたと感じ始めているのではないでしょうか。もし引っ越しを考えているなら、今日はその夢を実現させるきっかけとなるような、心強いニュースが舞い込んでくるかもしれません。不動産を探すには絶好の日です。思わぬ素敵な出会いが待っているかもしれませんよ。"
     },
     "sagittarius": {
       "date": "2026-09-29",
@@ -60,8 +60,8 @@
     "capricorn": {
       "date": "2026-09-29",
       "sign": "Capricorn",
-      "horoscope": "Capricorn, today is an ideal opportunity to take a step back and evaluate the past few weeks. It seems you may have been putting in excessive effort at work, causing you to overlook other important aspects of your life. Use this day to unwind and connect with friends and family. Enjoy some light-hearted conversations, laughter, and relaxation. Remember, the tasks awaiting you at the office will still be there tomorrow, so don’t let them weigh on your mind.",
-      "horoscope_ja": "山羊座の皆さん、今日は過去数週間を振り返り、じっくりと考える絶好の機会です。仕事に過度に力を注ぎすぎて、人生の他の大切な側面を見落としてしまっているかもしれません。今日はリラックスして、友人や家族と過ごしましょう。気楽な会話や笑い、そしてゆったりとした時間を楽しんでください。仕事は明日も残っていますから、あまり気にしすぎないようにしましょう。"
+      "horoscope": "Capricorn, today is an excellent opportunity to take a step back and evaluate the past few weeks. It seems you may have been putting in excessive effort at work, possibly at the expense of other important areas in your life. Use this day to unwind and connect with friends and family. Enjoy some light-hearted conversations, share some laughs, and take a breather. Remember, the tasks awaiting you at the office will still be there tomorrow, so don’t let them weigh on your mind.",
+      "horoscope_ja": "山羊座の皆さん、今日は過去数週間を振り返り、じっくりと評価する絶好の機会です。仕事に過度に力を注ぎすぎて、人生の他の大切な分野がおろそかになっていたかもしれません。今日はリラックスして、友人や家族と過ごしましょう。気楽な会話を楽しみ、笑い合い、一息ついてください。仕事は明日も残っていますから、あまり気にしすぎないようにしましょう。"
     },
     "aquarius": {
       "date": "2026-09-29",
@@ -72,8 +72,8 @@
     "pisces": {
       "date": "2026-09-29",
       "sign": "Pisces",
-      "horoscope": "Your mind is probably consumed by work today, Pisces. While it's important to spend quality time with your family, your natural inclination might pull you back to your professional responsibilities. You might find yourself sneaking a peek at your emails or making a discreet call to your business partner, even while at home. Your family may roll their eyes at your antics, but they generally get it and are willing to overlook your quirks. Just remember to sprinkle on some extra charm to keep the peace!",
-      "horoscope_ja": "魚座のあなた、今日は仕事のことで頭がいっぱいになりそうですね。家族と過ごす時間も大切ですが、どうしても仕事のことが頭から離れないかもしれません。家にいても、メールをこっそりチェックしたり、ビジネスパートナーにこっそり電話をかけたりしてしまうこともあるでしょう。家族はあなたの行動に呆れるかもしれませんが、大抵は理解してくれて、あなたのちょっとした癖を見過ごしてくれるはずです。平和を保つためにも、いつもより少しだけ愛想よく振る舞うことを忘れないでくださいね！"
+      "horoscope": "Your mind is probably consumed with work today, Pisces. While it's important to spend quality time with your family, your natural inclination may lead you to sneak in a few work-related tasks at home. You might find yourself checking emails or making a quick call to your business partner when no one is looking. Your family may raise their eyebrows at your antics, but they generally get it and are willing to overlook your quirks. Just remember to sprinkle on some extra charm to keep the peace!",
+      "horoscope_ja": "魚座の皆さん、今日は仕事のことで頭がいっぱいになりそうですね。家族と過ごす時間を大切にするのはもちろんですが、あなたの性分から、つい家で仕事関連の作業をこっそり済ませてしまいがちです。誰も見ていない隙にメールをチェックしたり、ビジネスパートナーに電話をかけたりしてしまうかもしれません。家族はあなたの行動に眉をひそめるかもしれませんが、たいていは理解してくれて、あなたのちょっとした癖を見過ごしてくれるでしょう。平和を保つためにも、いつもより少しだけ愛想よく振る舞うことを忘れないでくださいね！"
     }
   }
 }
