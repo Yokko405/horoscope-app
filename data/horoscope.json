@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-10-05T22:23:58.316Z",
+  "updated_at": "2026-10-05T23:27:21.798Z",
   "jst_date": "2026-10-06",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
       "date": "2026-10-06",
       "sign": "Aries",
-      "horoscope": "At this moment, Aries, you might find yourself feeling a bit indecisive in matters of the heart. Embracing your need for independence is essential, but be cautious—this desire for freedom could be misunderstood. Your significant other might perceive your behavior as a lack of interest. It's important to communicate that it's perfectly fine to love someone while also cherishing your personal time and space.",
-      "horoscope_ja": "牡羊座のあなたは今、恋愛に関して少し優柔不断になっているかもしれません。自立心を持つことは大切ですが、注意が必要です。この自由への欲求は誤解される可能性があります。パートナーはあなたの行動を、興味のなさだと捉えるかもしれません。誰かを愛しながらも、自分の時間と空間を大切にすることは全く問題ないことを、きちんと伝えることが重要です。"
+      "horoscope": "At this moment, Aries, you may find yourself feeling a bit indecisive in matters of the heart. Embracing your need for independence is essential, but be cautious—this desire for freedom could be misunderstood. Your significant other might perceive your behavior as a lack of interest. It's important to communicate that it's perfectly fine to cherish someone while also requiring personal time and space to pursue your own interests.",
+      "horoscope_ja": "牡羊座のあなたは今、恋愛において少し優柔不断になっているかもしれません。自立心を持つことは大切ですが、注意が必要です。この自由への欲求は誤解される可能性があります。パートナーはあなたの行動を、興味のなさだと捉えるかもしれません。誰かを大切に思う一方で、自分の興味を追求するための時間と空間も必要だということを、きちんと伝えることが大切です。"
     },
     "taurus": {
       "date": "2026-10-06",
       "sign": "Taurus",
-      "horoscope": "Taurus, you might find yourself feeling a bit perplexed in love today. It’s possible that you sense a lack of attention from someone special, leading to feelings of disappointment. Remember, your emotional well-being is ultimately in your hands, not dependent on another person. Consider how you can weave your aspirations into the collective dreams of those around you, rather than pursuing goals that seem to pull you in different directions.",
-      "horoscope_ja": "牡牛座のあなたは、今日、恋愛において少し戸惑いを感じるかもしれません。特別な人からの関心が足りないと感じ、失望感に苛まれることもあるでしょう。しかし、あなたの心の健康は最終的にはあなた自身の手にかかっており、他人に依存するものではないことを忘れないでください。あなたを様々な方向に引き裂くような目標を追い求めるのではなく、あなたの願望を周囲の人々の共通の夢にどのように織り込んでいくことができるかを考えてみましょう。"
+      "horoscope": "Taurus, you might find yourself feeling a bit perplexed in love today. It’s possible that you sense a lack of attention from someone special, leading to feelings of disappointment. Remember, your emotional well-being is ultimately in your hands, not dependent on others. Consider blending your aspirations with those of the people around you, rather than pursuing goals that seem to pull you in different directions.",
+      "horoscope_ja": "牡牛座のあなたは、今日、恋愛において少し戸惑いを感じるかもしれません。特別な人からの関心が足りないと感じ、失望感に苛まれることもあるでしょう。しかし、あなたの心の健康は最終的にはあなた自身の手にかかっており、他人に左右されるものではありません。あなたを異なる方向へ引き裂くような目標を追い求めるのではなく、あなたの願望と周囲の人々の願望を融合させることを考えてみてください。"
     },
     "gemini": {
       "date": "2026-10-06",
@@ -30,8 +30,8 @@
     "leo": {
       "date": "2026-10-06",
       "sign": "Leo",
-      "horoscope": "Romance and personal connections are set to become more enchanting and whimsical for you, Leo. As you talk about or even contemplate your special someone, your eyes are bound to shine with excitement. This captivating aura you exude will draw others in, even if you're not actively seeking a romantic partner at the moment.",
-      "horoscope_ja": "獅子座のあなたにとって、恋愛や人との繋がりは、より魅力的で気まぐれなものになりそうです。特別な人について話したり、思いを馳せたりする時、あなたの目はきっと輝きを放つでしょう。あなたが醸し出すこの魅惑的なオーラは、たとえあなたが今積極的に恋愛相手を探していなくても、周りの人々を惹きつけるはずです。"
+      "horoscope": "Romance and personal connections are set to become more enchanting and whimsical for you, Leo. As you talk about or even contemplate your special someone, your eyes may shine with a captivating light. This undeniable aura you exude is bound to draw others in, even if you're not actively seeking a romantic partnership at the moment.",
+      "horoscope_ja": "獅子座のあなたにとって、恋愛や人との繋がりは、より魅力的で気まぐれなものになりそうです。特別な人について話したり、思いを馳せたりする時、あなたの瞳は人を惹きつける輝きを放つでしょう。あなたが放つこの紛れもないオーラは、たとえあなたが今積極的に恋愛関係を求めていないとしても、周囲の人々を惹きつけるに違いありません。"
     },
     "virgo": {
       "date": "2026-10-06",
@@ -42,8 +42,8 @@
     "libra": {
       "date": "2026-10-06",
       "sign": "Libra",
-      "horoscope": "Libra, today holds the potential for your dreams to manifest, particularly in the realm of love. This might be the enchanting moment you've envisioned for so long, so prepare yourself. There's a charming, romantic figure nearby who has been watching you closely throughout the evening. Your heart is racing with excitement. Keep in mind that on a day like today, anything is possible.",
-      "horoscope_ja": "天秤座のあなたにとって、今日は夢が実現する絶好の機会です。特に恋愛面で、その可能性は高まります。長年思い描いてきた、まさに夢のような瞬間が訪れるかもしれません。心の準備をしておきましょう。今夜、あなたをじっと見つめていた、魅力的でロマンチックな人物が近くにいます。あなたの心臓は高鳴り、期待に胸を膨らませていることでしょう。今日のような日は、どんなことでも起こり得ることを覚えておいてください。"
+      "horoscope": "Libra, today holds the potential for your dreams to manifest, particularly in the realm of love. This might be the enchanting moment you've envisioned, so prepare yourself. There's a charming, romantic figure nearby who has been watching you closely throughout the evening. Your heart is racing with excitement. Keep in mind that on a day like today, anything is possible!",
+      "horoscope_ja": "天秤座の皆さん、今日はあなたの夢が実現する可能性を秘めた日です。特に恋愛面で、その可能性は高まります。あなたが思い描いていた魅惑的な瞬間が訪れるかもしれません。心の準備をしておきましょう。今夜ずっとあなたをじっと見つめていた、魅力的でロマンチックな人物が近くにいます。あなたの心臓は高鳴り、興奮でいっぱいです。今日のような日には、どんなことでも起こり得ることを覚えておいてください！"
     },
     "scorpio": {
       "date": "2026-10-06",
@@ -54,26 +54,26 @@
     "sagittarius": {
       "date": "2026-10-06",
       "sign": "Sagittarius",
-      "horoscope": "Sagittarius, it seems your creative endeavor is reaching an exciting turning point! Share your advancements with others and don't hesitate to organize a casual critique session to gather genuine insights on your work. Remember, true art should evoke emotions in others. Think about how you can push the boundaries and inspire those around you with your unique gifts.",
-      "horoscope_ja": "射手座の皆さん、あなたの創作活動は刺激的な転換期を迎えているようです！進歩した成果を周りの人々と共有し、気軽に批評会を開いて、作品に対する率直な意見を集めてみましょう。真の芸術とは、人々の感情を揺さぶるものであることを忘れないでください。あなたのユニークな才能で、どのように限界を押し広げ、周囲の人々を刺激できるかを考えてみてください。"
+      "horoscope": "Sagittarius, it seems your creative endeavor is reaching an exciting turning point! Share your advancements with others and don’t hesitate to organize a casual critique session to gather genuine insights on your work. Remember, true art evokes emotions in others. Think about how you can push the boundaries and inspire those around you with your unique gifts.",
+      "horoscope_ja": "射手座の皆さん、あなたの創作活動は刺激的な転換期を迎えているようです！進歩した成果を周りの人々と共有し、気軽に批評会を開いて、作品に対する率直な意見を集めてみましょう。真の芸術は人々の感情を揺さぶるものです。あなたのユニークな才能で、どのように限界を押し広げ、周りの人々を刺激できるかを考えてみてください。"
     },
     "capricorn": {
       "date": "2026-10-06",
       "sign": "Capricorn",
-      "horoscope": "Today, Capricorn, keep an open mind as love may come to you in unexpected forms. This new romantic connection is likely to have a whimsical flair, so prepare yourself for a delightful surprise. Remember, love doesn't always need to be meticulously organized or thought out. Embrace the spontaneity that accompanies this intriguing attraction. Be cautious not to overlook those who may appear a bit unconventional or not entirely sensible.",
-      "horoscope_ja": "山羊座の皆さん、今日は心を開いてください。愛は思いがけない形で訪れるかもしれません。この新しいロマンチックな出会いは、どこか気まぐれな雰囲気を漂わせているでしょう。素敵なサプライズに備えてください。愛は必ずしも綿密に計画したり、熟考したりする必要はないことを覚えておきましょう。この魅力的な出会いに伴う自発性を受け入れてください。少し型破りだったり、あまり分別がないように見える人を見過ごさないように注意してください。"
+      "horoscope": "Today, Capricorn, keep an eye out for love in unexpected forms. This new romantic connection may come with a whimsical twist, so prepare yourself for surprises. Remember, love doesn't always need to be meticulously organized or thought out. Embrace the spontaneity that accompanies this intriguing attraction. Be open to those who might not fit your usual criteria of practicality or rationality.",
+      "horoscope_ja": "山羊座の皆さん、今日は思いがけない形で愛が訪れるかもしれません。この新たなロマンチックな出会いには、気まぐれな展開が伴う可能性があるので、サプライズに備えてください。愛は必ずしも綿密に計画したり、熟考したりする必要はないことを覚えておきましょう。この魅力的な出会いに伴う自発性を受け入れてください。普段のあなたの実用性や合理性の基準に合わない人にも心を開いてみましょう。"
     },
     "aquarius": {
       "date": "2026-10-06",
       "sign": "Aquarius",
-      "horoscope": "Tonight, prepare a delightful dinner for your special someone, Aquarius. Take them on a whimsical journey, as if riding a magic carpet to enchanting destinations that spark joy and lightheartedness. If you can, enjoy a bottle of wine at a nearby playground afterward. Set the scene at home with candles and incense to cultivate a serene and comforting atmosphere. Your romantic instincts are spot on!",
-      "horoscope_ja": "今夜は、大切な人のために素敵なディナーを用意しましょう、水瓶座さん。まるで魔法の絨毯に乗っているかのように、喜びと軽やかさが溢れる魅惑的な場所へと誘う、夢のような旅に連れて行ってあげてください。食後には、近くの公園でワインを一杯楽しむのも良いでしょう。家ではキャンドルとお香を焚いて、穏やかで心地よい雰囲気を演出してください。あなたのロマンチックな直感はまさに的確です！"
+      "horoscope": "Tonight, why not treat your special someone to a delightful dinner, Aquarius? Take them on a whimsical journey, as if riding a magic carpet to enchanting destinations that spark joy and lightheartedness. If you can, cap off the evening with a bottle of wine at a nearby playground. Set the scene at home with flickering candles and the soothing aroma of incense. Craft an atmosphere that relaxes the mind and nurtures the spirit. Your romantic instincts are spot on!",
+      "horoscope_ja": "今夜は、大切な人と素敵なディナーを楽しみませんか、水瓶座さん？まるで魔法の絨毯に乗っているかのように、喜びと軽やかさが溢れる魅惑的な場所へ、気まぐれな旅に連れて行ってあげましょう。もし可能なら、近くの公園でワインを一杯飲んで、素敵な夜を締めくくってみてください。家では、揺らめくキャンドルと心地よいお香の香りで、ロマンチックな雰囲気を演出しましょう。心を落ち着かせ、魂を癒すような空間を作り上げて。あなたのロマンチックな直感は、まさに的を射ていますよ！"
     },
     "pisces": {
       "date": "2026-10-06",
       "sign": "Pisces",
-      "horoscope": "In the realm of love, Pisces, it seems you may be engaging in a bit of hide-and-seek rather than fostering a bond built on friendship, trust, and transparency. Perhaps you're intentionally retreating to gauge your partner's resilience. Consider shifting your strategy now; focus on building connections rather than creating distance.",
-      "horoscope_ja": "魚座のあなた、恋愛においては、友情、信頼、そして透明性に基づいた絆を育むというよりも、かくれんぼのようなことをしているように見えます。もしかしたら、パートナーの回復力を試すために、意図的に距離を置いているのかもしれません。今こそ戦略を変えて、距離を置くのではなく、繋がりを築くことに集中しましょう。"
+      "horoscope": "In the realm of love, Pisces, it seems you may be engaging in a bit of hide-and-seek rather than fostering a genuine bond built on friendship, trust, and transparency. Perhaps you're intentionally retreating to gauge your partner's resilience. Consider shifting your strategy now; focus on building connections rather than creating distance.",
+      "horoscope_ja": "魚座のあなた、恋愛においては、友情、信頼、そして透明性に基づいた真の絆を育むというよりも、かくれんぼのようなことをしているように見えます。もしかしたら、パートナーの回復力を試すために、意図的に距離を置いているのかもしれません。今こそ戦略を変えて、距離を置くのではなく、繋がりを築くことに集中しましょう。"
     }
   }
 }
