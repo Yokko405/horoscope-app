@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T19:45:58.106Z",
+  "updated_at": "2026-10-15T20:40:50.282Z",
   "jst_date": "2026-10-16",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
@@ -13,19 +13,19 @@
       "date": "2026-10-16",
       "sign": "Taurus",
       "horoscope": "Today, Taurus, you may feel a bit exasperated by the rush of those around you. Embrace the swift current of energy to stay in the loop. It's perfectly fine if you dive into unplanned activities; in fact, you'll discover that a little spontaneity can bring great joy on a day like this. Be ready for surprises!",
-      "horoscope_ja": "牡牛座のあなたは今日、周囲の慌ただしさに少しイライラするかもしれません。流れに乗って、常に最新の情報を把握しましょう。予定外の活動に飛び込んでも全く問題ありません。むしろ、今日のような日には、ちょっとした思いつきが大きな喜びをもたらしてくれることに気づくでしょう。サプライズに備えてください！"
+      "horoscope_ja": "牡牛座のあなたは今日、周囲の慌ただしさに少しイライラするかもしれません。流れに乗って、周りの人たちの動向についていきましょう。予定外の活動に飛び込んでも全く問題ありません。むしろ、今日のような日には、ちょっとした思いつきが大きな喜びをもたらしてくれることに気づくでしょう。サプライズに備えてください！"
     },
     "gemini": {
       "date": "2026-10-16",
       "sign": "Gemini",
       "horoscope": "Today, Gemini, you might find yourself at odds with others. The root of the tension is likely their self-centeredness, contrasting with your focus on the bigger picture. It's important to practice patience as those around you seek your attention. However, there's a vibrant energy surrounding you that will infuse your day with enthusiasm and excitement.",
-      "horoscope_ja": "双子座のあなたは今日、周囲の人々と意見が食い違うことがあるかもしれません。その原因は、おそらく相手の自己中心的な考え方と、あなたがより大きな視点で物事を捉えようとする姿勢とのギャップにあるでしょう。周りの人があなたの注意を引こうとしてくるかもしれませんが、忍耐強く接することが大切です。しかし、あなたを取り巻く活気に満ちたエネルギーが、あなたの一日を熱意と興奮で満たしてくれるでしょう。"
+      "horoscope_ja": "双子座のあなたは今日、周囲の人々と意見が食い違うかもしれません。その原因は、おそらく相手の自己中心的な考え方と、あなたがより大きな視点で物事を捉えようとする姿勢とのギャップにあるでしょう。周りの人があなたの注意を引こうとしてくるかもしれませんが、忍耐強く接することが大切です。しかし、あなたを取り巻く活気に満ちたエネルギーが、あなたの一日を熱意と興奮で満たしてくれるでしょう。"
     },
     "cancer": {
       "date": "2026-10-16",
       "sign": "Cancer",
       "horoscope": "Start your day off on a bright note, Cancer! Your kindness and authenticity will shine through today. Expect those around you to seek a bit more emotional support than usual, so make sure to nurture the feelings of your loved ones. Just remember to protect your own emotional well-being and recharge with the vibrant, joyful energy that today has to offer.",
-      "horoscope_ja": "蟹座の皆さん、今日は明るいスタートを切りましょう！あなたの優しさと誠実さが輝きを放つでしょう。周りの人たちはいつもより少し多めに心の支えを求めてくるかもしれませんので、大切な人たちの気持ちを優しく包み込んであげてください。そして、あなた自身の心の健康も大切にし、今日がもたらす活気に満ちた喜びのエネルギーでエネルギーをチャージしましょう。"
+      "horoscope_ja": "蟹座の皆さん、今日は明るいスタートを切りましょう！あなたの優しさと誠実さが輝きを放つでしょう。周りの人たちはいつもより少し多めに心の支えを求めてくるかもしれませんので、大切な人たちの気持ちを優しく包み込んであげてください。そして、あなた自身の心の健康も忘れずに守り、今日がもたらす活気に満ちた喜びのエネルギーでエネルギーをチャージしましょう。"
     },
     "leo": {
       "date": "2026-10-16",
@@ -49,7 +49,7 @@
       "date": "2026-10-16",
       "sign": "Scorpio",
       "horoscope": "Stay on your toes today, Scorpio, as the pace is likely to pick up. You might find yourself eagerly waiting for your moment to shine, but be aware that others may be too wrapped up in their own affairs to notice you. If you’re eager to make your voice heard, don’t hesitate to take the initiative and step forward.",
-      "horoscope_ja": "今日は気を引き締めて、蠍座の皆さん。物事が加速しそうな予感がします。自分の出番を待ち焦がれるかもしれませんが、周りの人は自分のことで手一杯で、あなたの存在に気づかないかもしれません。自分の意見をしっかり伝えたいなら、ためらわずに積極的に前に出ましょう。"
+      "horoscope_ja": "今日は気を引き締めて過ごしましょう、蠍座さん。物事が加速しそうな予感がします。自分の出番を待ち焦がれるかもしれませんが、周りの人は自分のことで手一杯で、あなたの存在に気づかないかもしれません。自分の意見をしっかり伝えたいなら、ためらわずに積極的に前に出ましょう。"
     },
     "sagittarius": {
       "date": "2026-10-16",
@@ -73,7 +73,7 @@
       "date": "2026-10-16",
       "sign": "Pisces",
       "horoscope": "Today, Pisces, you might find yourself swinging to extremes in various aspects of your life. However, be prepared for resistance at every corner. A strong sense of stubbornness seems to permeate the atmosphere, affecting not just you but those around you as well. Remember, if you're seeking collaboration and solutions, embracing compromise is essential. Make an effort to acknowledge the needs of others too.",
-      "horoscope_ja": "魚座のあなたは今日、人生の様々な面で極端な行動に走ってしまうかもしれません。しかし、あらゆる場面で抵抗に遭う覚悟をしておきましょう。強い頑固さが周囲に蔓延し、あなただけでなく周りの人々にも影響を与えているようです。協力関係を築き、解決策を見出そうとするなら、妥協を受け入れることが不可欠です。そして、他者のニーズにも配慮するよう努めましょう。"
+      "horoscope_ja": "魚座の皆さん、今日は人生の様々な面で極端な行動に走ってしまうかもしれません。しかし、あらゆる場面で抵抗に遭う覚悟をしておきましょう。強い頑固さが周囲に蔓延し、あなただけでなく周りの人にも影響を与えているようです。協力関係を築き、解決策を見出そうとするなら、妥協を受け入れることが不可欠です。そして、他者のニーズにも配慮するよう努めましょう。"
     }
   }
 }
