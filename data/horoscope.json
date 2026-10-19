@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-10-18T19:50:17.760Z",
-  "jst_date": "2026-10-19",
+  "updated_at": "2026-10-19T20:55:22.212Z",
+  "jst_date": "2026-10-20",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
     "aries": {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "sign": "Aries",
-      "horoscope": "Today, Aries, you may find yourself grappling with uncertainty, which could prove to be your greatest challenge. The atmosphere is charged, as a clash between the desire for structure and the urge to assert yourself intensifies. Embracing your laid-back, adaptable nature might just be your saving grace in these turbulent times. Consider taking a step back and allowing others to take charge for now.",
-      "horoscope_ja": "牡羊座の皆さん、今日は不安に苛まれるかもしれません。それがあなたにとって最大の試練となる可能性もあります。秩序を求める気持ちと自己主張したいという衝動がぶつかり合い、緊張感が高まっています。そんな激動の時代、あなたの持ち前ののんびりとした順応性を受け入れることが、救いとなるかもしれません。少し距離を置き、今は他の人に主導権を委ねることを検討してみてはいかがでしょうか。"
+      "horoscope": "You might still be riding the wave of positivity from the past few weeks, Aries. The allure of continuing the fun will be strong, but it's wise to consider how to enjoy yourself while exercising sound judgment. Be cautious not to let things spiral out of hand today. Remember, maintaining a sense of stability is key.",
+      "horoscope_ja": "牡羊座のあなたは、ここ数週間のポジティブな気分がまだ続いているかもしれません。楽しい時間を続けたいという誘惑は強いでしょうが、健全な判断力を発揮しながら楽しむ方法を考えるのが賢明です。今日は、物事が手に負えなくなるほど悪化しないように注意しましょう。安定感を保つことが鍵であることを忘れないでください。"
     },
     "taurus": {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "sign": "Taurus",
-      "horoscope": "Today, Taurus, you may encounter significant resistance to your plans. While you've been progressing steadily, attempting to impose your desires on others could lead to friction. Expect some stalemate as powerful energies clash, and neither side seems willing to back down at this moment.",
-      "horoscope_ja": "牡牛座の皆さん、今日は計画に対して大きな抵抗に遭うかもしれません。これまで順調に進んできたとはいえ、自分の願望を他人に押し付けようとすると、摩擦が生じる可能性があります。強いエネルギーがぶつかり合い、どちらも譲歩する気配がないため、膠着状態が続くでしょう。"
+      "horoscope": "Today, Taurus, focus on expressing yourself from a place of calm and balance. The energy of the day aligns perfectly with your wants and needs, making it easier for you to achieve your goals without excessive effort. You'll find that what you desire flows to you effortlessly. You might reflect on past stresses that now appear trivial, and it's a great time to consciously let go of any lingering worries or tension that you may still be holding onto.",
+      "horoscope_ja": "今日は、牡牛座の皆さん、穏やかでバランスの取れた状態から自分を表現することに集中しましょう。今日のエネルギーはあなたの願望やニーズと完璧に調和し、過度な努力をすることなく目標を達成しやすくなります。あなたが望むものが、自然とあなたの元に流れ込んでくるでしょう。過去のストレスを振り返ると、今では些細なことに思えるかもしれません。まだ抱えているかもしれない心配事や緊張を、意識的に手放す絶好の機会です。"
     },
     "gemini": {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "sign": "Gemini",
-      "horoscope": "Expressing your thoughts today might add fuel to the fire, but it's a necessary step for your growth, Gemini. The atmosphere is charged with intensity, and it's hard to overlook. You'll need to harness your determination to navigate the challenging energies surrounding you. This is your chance to take charge of the circumstances, especially since others may be hesitant to act.",
-      "horoscope_ja": "今日、自分の考えを口に出すことは火に油を注ぐことになるかもしれませんが、双子座のあなたにとって成長のために必要なステップです。周囲の雰囲気は緊張感に満ちており、無視することは難しいでしょう。あなたを取り巻く困難なエネルギーを乗り越えるには、あなたの決意を力に変える必要があります。特に他の人が行動をためらっているかもしれない今こそ、あなたが状況をコントロールするチャンスです。"
+      "horoscope": "Focus on fostering a stronger sense of togetherness with those around you, Gemini. Some individuals in your social circle may be feeling a bit disconnected or out of place. It's important to acknowledge that each person brings their own uniqueness to the group. Encourage acceptance and remind everyone that our differences are what make us special.",
+      "horoscope_ja": "双子座のあなたへ。周囲の人々との一体感をより強く育むことに意識を向けましょう。あなたの交友関係の中には、少し疎外感や居心地の悪さを感じている人がいるかもしれません。一人ひとりがグループに独自の個性をもたらしていることを認識することが重要です。互いの個性を尊重し、違いこそが私たちを特別な存在にしているのだと、皆に伝えましょう。"
     },
     "cancer": {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "sign": "Cancer",
-      "horoscope": "Today, Cancer, the wisest approach is to take a step back rather than engage in conflict. The atmosphere is charged with enough tension, and your presence isn't necessary in the chaos. Allow others to handle their battles while you patiently observe from a distance. It's best to steer clear of other people's quarrels, as you could find yourself entangled in a way that feels unsettling.",
-      "horoscope_ja": "蟹座のあなたにとって、今日は争いに巻き込まれるよりも一歩引くのが賢明な選択です。周囲はすでに緊張感に満ちており、あなたがその混乱に加わる必要はありません。他人がそれぞれの問題を解決するのを、あなたは辛抱強く遠くから見守りましょう。他人の争いに首を突っ込むと、居心地の悪い思いをすることになるかもしれません。"
+      "horoscope": "Today is a great opportunity for you to boost your self-esteem, Cancer. While it might be tempting to indulge in a leisurely day that feels enjoyable, like a delicious but unhealthy meal, you may find that the satisfaction fades by evening if you haven't achieved anything. Embrace productivity today to ensure you end the day with a sense of accomplishment and fulfillment.",
+      "horoscope_ja": "蟹座のあなたにとって、今日は自己肯定感を高める絶好の機会です。美味しいけれど体に良くない食事のように、のんびりとした楽しい一日を過ごしたくなるかもしれませんが、何も成し遂げなければ、夕方には満足感が薄れてしまうかもしれません。今日は生産的な一日を過ごし、達成感と充実感で一日を終えられるようにしましょう。"
     },
     "leo": {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "sign": "Leo",
-      "horoscope": "Today, Leo, it may be wise to slow down a bit. Your current path seems to be out of sync with those around you. Be mindful of how your assertive nature might be affecting others; you don’t want to unintentionally ruffle any feathers. This is an ideal time to reflect on adopting a more structured approach. By creating a solid framework, you can channel your energy more effectively moving forward.",
-      "horoscope_ja": "今日は、獅子座のあなたにとって少しペースを落とすのが賢明かもしれません。今のあなたの歩みは、周囲の人々とずれているように見えます。あなたの積極的な性格が他人にどのような影響を与えているかを意識しましょう。意図せず誰かの反感を買ってしまうのは避けたいものです。今こそ、より体系的なアプローチを取り入れることを検討する絶好の機会です。しっかりとした枠組みを作ることで、今後、エネルギーをより効果的に活用できるようになるでしょう。"
+      "horoscope": "Today, Leo, it may be wise to give yourself a breather. Just like a sailboat navigating choppy waters, you've been feeling the strain of recent challenges. The weight of expectations has been heavy. Consider lowering your sails for a bit to recharge. While your pace may slow down, this pause could provide the rejuvenation necessary to successfully continue your journey.",
+      "horoscope_ja": "今日は、獅子座のあなたにとって、少し休息を取るのが賢明かもしれません。荒れた海を航行する帆船のように、あなたは最近の様々な困難によるストレスを感じていることでしょう。期待の重圧も相当なものだったはずです。少しの間、帆を下ろしてエネルギーを充電することを考えてみてください。ペースは落ちるかもしれませんが、この休息は、旅を成功裏に続けるために必要な活力を与えてくれるでしょう。"
     },
     "virgo": {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "sign": "Virgo",
-      "horoscope": "Virgo, if you've been hesitant to take action, it's worth reflecting on the reasons behind it. What’s stopping you? Is it the fear of failing? A discouraging remark from someone? Or perhaps a sense of unpreparedness for what might follow your decisions? Now is the moment to break free from these mental constraints that hinder your advancement. Don’t allow self-doubt to obstruct your aspirations.",
-      "horoscope_ja": "乙女座の皆さん、もし行動を起こすのをためらっているなら、その理由をじっくり考えてみる価値があります。何があなたを阻んでいるのでしょうか？失敗への恐れでしょうか？誰かからの落胆させるような言葉でしょうか？それとも、自分の決断の後に何が起こるか分からないという不安でしょうか？今こそ、あなたの前進を妨げるこうした心の束縛から解放される時です。自己不信に、あなたの夢を阻まれてはいけません。"
+      "horoscope": "Today, Virgo, your mind is likely to be sharp and logical. This clarity is crucial as others will seek your insights on a particular issue. They trust that you will provide them with straightforward and sincere responses, so be sure to meet their expectations. Take the time to carefully evaluate each scenario before sharing your guidance. You'll discover that this thoughtful approach pays off.",
+      "horoscope_ja": "乙女座のあなたにとって、今日は頭の回転が速く、論理的な思考が冴え渡るでしょう。この明晰さは、周囲の人々が特定の問題についてあなたの見識を求める際に非常に重要です。彼らはあなたが率直で誠実な答えをくれると信頼しているので、その期待に応えられるよう心がけましょう。アドバイスをする前に、それぞれの状況をじっくりと検討する時間を取ってください。そうすることで、この思慮深いアプローチが必ず報われることに気づくでしょう。"
     },
     "libra": {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "sign": "Libra",
-      "horoscope": "Today, Libra, embrace the power of discipline and a well-structured plan. Take a moment to pause and reflect on the potential outcomes of your choices. Focus on your priorities and create a strategy to achieve your goals. There's a sense of impatience around you that could lead to impulsive decisions. Remember the wise adage: rushing often leads to mistakes. This is a valuable reminder for you.",
-      "horoscope_ja": "天秤座の皆さん、今日は規律と綿密な計画の力を活用しましょう。少し立ち止まって、自分の選択がもたらす可能性のある結果をじっくり考えてみてください。優先事項に集中し、目標達成のための戦略を立てましょう。周囲には焦りの雰囲気が漂っており、衝動的な決断につながりかねません。「急ぐと間違いを犯す」という格言を思い出してください。これはあなたにとって大切な教訓となるでしょう。"
+      "horoscope": "Surrounding yourself with pessimistic or fickle individuals could lead you to adopt their behaviors without realizing it. Libra, it's wise to be mindful of your companions, as people often form opinions about you based on those you choose to associate with, particularly if you begin to mirror their speech. Always strive to uphold a courteous demeanor and good etiquette, regardless of who you're with.",
+      "horoscope_ja": "悲観的な人や気まぐれな人に囲まれていると、知らず知らずのうちに彼らの行動様式を取り入れてしまう可能性があります。天秤座のあなたは、付き合う相手に気を配ることが賢明です。なぜなら、人はあなたが付き合う人によってあなたに対する印象を形成することが多く、特に相手の話し方を真似するようになると、その傾向が顕著になるからです。誰といる時でも、常に礼儀正しく、マナーを守るよう心がけましょう。"
     },
     "scorpio": {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "sign": "Scorpio",
-      "horoscope": "Today, Scorpio, you may find yourself caught in a tug-of-war within. One part of you is ready to take a stand, while another, more rational side, urges restraint. This inner struggle might leave you feeling stuck, as uncertainty clouds your confidence in either direction. Remember to take a step back and avoid stressing over any single matter.",
-      "horoscope_ja": "蠍座のあなたは今日、心の中で葛藤を抱えているかもしれません。一方では毅然とした態度を取りたい気持ちが湧き上がる一方で、もう一方ではより理性的な自分が自制を求めています。この内なる葛藤によって、どちらの方向にも自信が持てず、身動きが取れないような感覚に陥るかもしれません。少し距離を置いて、一つのことにこだわりすぎないように心がけましょう。"
+      "horoscope": "Today, Scorpio, you might sense that everything around you is closing in. It’s possible that you’ve created a personal retreat to shield yourself from external pressures. However, remember that the more you isolate yourself in this shaky environment, the more precarious your situation becomes. If you’re not cautious, it could all come tumbling down.",
+      "horoscope_ja": "蠍座のあなたは今日、周囲のあらゆるものが迫ってくるような感覚を覚えるかもしれません。外部からのプレッシャーから身を守るために、自分だけの隠れ家を作っている可能性もあります。しかし、この不安定な状況で孤立すればするほど、事態はより危険なものになることを忘れないでください。注意を怠ると、すべてが崩れ落ちてしまうかもしれません。"
     },
     "sagittarius": {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "sign": "Sagittarius",
-      "horoscope": "Today, Sagittarius, you might find it challenging to forge connections with others as they seem to be grappling with indecision. However, this uncertainty also makes people more adaptable, presenting you with an opportunity to step into a leadership role. Just remember to prioritize the well-being of everyone involved; it's important to avoid exploiting those who are struggling to make choices.",
-      "horoscope_ja": "射手座のあなたにとって、今日は周りの人たちが優柔不断な様子を見せているため、人間関係を築くのが難しいかもしれません。しかし、こうした不確実性は人々の適応力を高め、あなたにリーダーシップを発揮するチャンスを与えてくれます。ただし、関係者全員の幸福を最優先することを忘れないでください。決断に苦しんでいる人を搾取することは避けるべきです。"
+      "horoscope": "Keep in mind, Sagittarius, that your authority hinges on the support of those around you. To prevent any rebellion, focus on nurturing the relationships in your life rather than attempting to control every aspect of their existence. Earn their respect through compassion and understanding, rather than imposing strict rules that may frustrate and alienate.",
+      "horoscope_ja": "射手座の皆さん、あなたの権威は周囲の人々の支持にかかっていることを忘れないでください。反抗を防ぐためには、周囲の人々の生活のあらゆる面をコントロールしようとするのではなく、人間関係を育むことに集中しましょう。厳格なルールを押し付けて不満や疎外感を生むのではなく、思いやりと理解を通して彼らの尊敬を勝ち取ることが大切です。"
     },
     "capricorn": {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "sign": "Capricorn",
-      "horoscope": "Capricorn, you've been feeling quite combative lately, fueled by a desire to accomplish your goals. Your determination is commendable, but today calls for a pause. There's a powerful influence urging you to step back and reassess your path. Instead of charging forward without a clear direction, take this opportunity to slow down and strategize.",
-      "horoscope_ja": "山羊座のあなた、最近は目標達成への強い意欲に駆られ、かなり攻撃的な気分になっているようですね。その決意は素晴らしいものですが、今日は少し立ち止まって考えるべき時です。何かがあなたに、立ち止まって自分の進むべき道を再評価するように促しているのです。明確な方向性もなく突き進むのではなく、この機会にペースを落とし、戦略を練りましょう。"
+      "horoscope": "Capricorn, clarity is on your side today, so trust your instincts as you navigate your path forward. Avoid letting any feelings of uncertainty cloud your judgment. Your mind is sharp and perceptive, so lean into that confidence when making decisions. Also, prioritize nourishing yourself with protein-rich foods; they will ground you and propel you closer to achieving your aspirations.",
+      "horoscope_ja": "山羊座の皆さん、今日は明晰な思考があなたの味方です。直感を信じて、前へと進んでください。不安な気持ちに判断を曇らせないようにしましょう。あなたの頭脳は鋭く、洞察力に富んでいます。決断を下す際には、その自信を頼りにしてください。また、タンパク質が豊富な食品を積極的に摂りましょう。それらはあなたを地に足の着いた状態にし、目標達成へと導いてくれるでしょう。"
     },
     "aquarius": {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "sign": "Aquarius",
-      "horoscope": "Today, Aquarius, you'll find your ability to maintain equilibrium challenged as your urge to confront clashes with your need for careful planning. This inner struggle may leave you feeling more uncertain than normal. Keep an eye on the clock and recognize the limitations it imposes on you. Create a strategy that channels your energy effectively. It's crucial for you to pause and reflect before taking any action.",
-      "horoscope_ja": "水瓶座のあなたにとって、今日はバランスを保つことが難しい日となるでしょう。問題に立ち向かいたいという衝動と、綿密な計画を立てたいという欲求が衝突するからです。この内なる葛藤によって、普段よりも不安を感じるかもしれません。時間に気を配り、それがもたらす制約を認識しましょう。エネルギーを効果的に活用できる戦略を立ててください。行動を起こす前に、立ち止まってじっくり考えることが非常に重要です。"
+      "horoscope": "Aquarius, your bold and attention-seeking demeanor might be wearing thin. It's important to remember that everyone has their own unique qualities, and it's not just about you. Consider lending a hand to a child with their new toy or assisting a friend in choosing a new outfit. Shift your focus from seeking attention to uplifting those around you.",
+      "horoscope_ja": "水瓶座のあなた、大胆で注目を集めようとする態度は、そろそろ飽きられてきているかもしれません。誰もがそれぞれ独自の個性を持っていることを忘れずに。大切なのは、あなただけではないということです。新しいおもちゃで遊ぶ子供を手伝ったり、新しい服を選ぶ友人を助けたりすることを考えてみてください。注目を集めることよりも、周りの人を励ますことに意識を向けてみましょう。"
     },
     "pisces": {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "sign": "Pisces",
-      "horoscope": "Today, Pisces, you may find yourself grappling with uncertainty, which could lead to frustration. Remember, the more you hesitate, the tougher it becomes to take action. Strive to strike a harmonious balance between careful planning and assertiveness. It's crucial for you to make strides forward at this moment. If you encounter pushback, it might be wise to take a step back for the time being. Engaging in conflict is unlikely to bring about favorable outcomes right now.",
-      "horoscope_ja": "魚座の皆さん、今日は不安に苛まれ、イライラしてしまうかもしれません。ためらえばためらうほど、行動を起こすのが難しくなることを覚えておきましょう。慎重な計画と積極性のバランスをうまく取るように心がけてください。今は前進することが非常に重要です。もし反発に遭ったら、しばらくは一歩引くのが賢明かもしれません。今は対立に巻き込まれても、良い結果は得られないでしょう。"
+      "horoscope": "After a long journey through turbulent waters, Pisces, your ship is finally arriving at the harbor. It's the perfect moment to anchor down and take a breather. Step off your vessel and discover the surroundings; you might be surprised at how much you've longed for solid ground. Embrace this opportunity to reconnect with stability and remember the comfort it brings.",
+      "horoscope_ja": "うお座の皆さん、荒波を乗り越えて長い航海を終え、ついに港に到着しました。錨を下ろし、一息つくには絶好のタイミングです。船から降りて周囲を見渡してみてください。きっと、どれほど陸地を待ち望んでいたかに気づくでしょう。この機会に安定を取り戻し、それがもたらす安らぎを思い出してください。"
     }
   }
 }
