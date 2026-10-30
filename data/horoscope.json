@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T20:34:49.675Z",
+  "updated_at": "2026-10-30T21:46:35.206Z",
   "jst_date": "2026-10-31",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
@@ -7,7 +7,7 @@
       "date": "2026-10-31",
       "sign": "Aries",
       "horoscope": "Aries, prepare for some pivotal moments in your life. It's the perfect opportunity to refine and ground your ambitious plans and innovative thoughts, making them more actionable. With everything moving at a rapid pace, you might feel uncertain about where to dive in. Set that concern aside for now. Focus on articulating your ideas clearly and confidently. This will pave the way for new opportunities to emerge.",
-      "horoscope_ja": "牡羊座の皆さん、人生における重要な転換期が訪れようとしています。野心的な計画や革新的なアイデアを磨き上げ、より実行可能なものにする絶好の機会です。物事が急速に進展する中で、どこから手をつければいいのか迷ってしまうかもしれません。今はその不安を一旦脇に置いておきましょう。自分の考えを明確かつ自信を持って伝えることに集中してください。そうすることで、新たなチャンスが生まれる道が開けるでしょう。"
+      "horoscope_ja": "牡羊座の皆さん、人生における重要な転換期が訪れようとしています。野心的な計画や革新的なアイデアを磨き上げ、より実行可能なものにする絶好の機会です。あらゆるものが急速に変化していく中で、どこから手をつければいいのか迷ってしまうかもしれません。今はその不安を一旦脇に置いておきましょう。自分の考えを明確かつ自信を持って伝えることに集中してください。そうすることで、新たなチャンスが生まれる道が開けるでしょう。"
     },
     "taurus": {
       "date": "2026-10-31",
@@ -25,13 +25,13 @@
       "date": "2026-10-31",
       "sign": "Cancer",
       "horoscope": "Cancer, it might feel as though you're teetering on the brink, with your legs hanging precariously over the edge. You're on the lookout for something to grasp while your footing feels uncertain on a narrow ledge. You might be vowing that once you navigate through this tough spot, you'll steer clear of it in the future. But take a deep breath—this is simply part of life's ebb and flow. These tough moments are essential for your growth, ultimately making you more resilient and grateful for the smoother paths ahead.",
-      "horoscope_ja": "蟹座のあなたは、まるで崖っぷちに立たされ、足が危うく崖っぷちにぶら下がっているような気分かもしれません。狭い岩棚の上で足元がおぼつかない中、何か掴めるものを探していることでしょう。この困難な時期を乗り越えたら、二度とこんなことはしないと心に誓っているかもしれません。でも、深呼吸をしてください。これは人生の浮き沈みの一部に過ぎません。こうした辛い時期はあなたの成長に不可欠であり、最終的にはあなたをより強くし、これから先のより穏やかな道に感謝する気持ちを育んでくれるでしょう。"
+      "horoscope_ja": "蟹座のあなたは、まるで崖っぷちに立たされ、足が危うく崖っぷちにぶら下がっているような気分かもしれません。狭い岩棚の上で足元がおぼつかない中、何か掴めるものを探していることでしょう。この苦境を乗り越えたら、二度とこんなことはしないと心に誓っているかもしれません。でも、深呼吸をしてください。これは人生の浮き沈みの一部に過ぎません。こうした困難な時期は、あなたの成長に不可欠であり、最終的にはあなたをより強くし、これから先のより穏やかな道に感謝する気持ちを育んでくれるでしょう。"
     },
     "leo": {
       "date": "2026-10-31",
       "sign": "Leo",
       "horoscope": "Leo, it feels like a whirlwind has swept through your life, scattering your carefully organized plans into disarray. Amidst the chaos, voices are rising with suggestions and demands that may feel overwhelming. Take a moment to pause and express your feelings to those around you. They will likely empathize with your challenges and offer their support. Remember, this storm will pass, and clarity will return.",
-      "horoscope_ja": "獅子座のあなたにとって、まるで旋風があなたの人生を吹き荒れ、綿密に練られた計画が混乱に陥っているかのようです。この混乱の中で、周囲から様々な提案や要求が寄せられ、圧倒されてしまうかもしれません。少し立ち止まって、周りの人に自分の気持ちを伝えてみてください。きっと彼らはあなたの苦境に共感し、支えてくれるでしょう。この嵐は必ず過ぎ去り、再び明晰な思考を取り戻すことを忘れないでください。"
+      "horoscope_ja": "獅子座のあなたにとって、まるで旋風が人生を吹き荒れ、綿密に練った計画が混乱に陥っているかのようです。混沌とした状況の中、周囲からは様々な提案や要求が寄せられ、圧倒されてしまうかもしれません。少し立ち止まって、周りの人に自分の気持ちを伝えてみてください。きっと共感して、支えてくれるはずです。この嵐は必ず過ぎ去り、再び明晰な思考を取り戻せるでしょう。"
     },
     "virgo": {
       "date": "2026-10-31",
@@ -73,7 +73,7 @@
       "date": "2026-10-31",
       "sign": "Pisces",
       "horoscope": "Today, Pisces, you might find yourself at odds with the information that comes your way. It’s possible that a touch of self-centeredness is clouding your ability to embrace more altruistic perspectives. Challenge yourself to broaden your mindset and consider the viewpoints of those around you. You'll discover that by giving more of yourself to others, you cultivate greater respect and a deeper sense of happiness in your life.",
-      "horoscope_ja": "今日、魚座のあなたは、耳にする情報に戸惑うかもしれません。自己中心的な考えが、より利他的な視点を受け入れることを妨げている可能性があります。視野を広げ、周囲の人々の視点にも目を向けてみてください。他者に尽くすことで、より大きな尊敬と、人生におけるより深い幸福感を育むことができるでしょう。"
+      "horoscope_ja": "今日、魚座のあなたは、耳にする情報に戸惑うかもしれません。少しばかり自己中心的な考えが、より利他的な視点を受け入れることを妨げている可能性があります。視野を広げ、周囲の人々の視点にも目を向けてみてください。そうすることで、他者への敬意が深まり、人生における幸福感もより一層高まることに気づくでしょう。"
     }
   }
 }
