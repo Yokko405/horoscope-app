@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T19:47:49.882Z",
+  "updated_at": "2026-10-31T20:46:07.616Z",
   "jst_date": "2026-11-01",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
@@ -31,7 +31,7 @@
       "date": "2026-11-01",
       "sign": "Leo",
       "horoscope": "Your love life might face some challenges today, Leo, as one partner seems to be viewing things through an unrealistic lens. A struggle for control is emerging, with someone attempting to assert dominance without regard for the other's emotions. As tension builds, it's advisable to address these issues sooner rather than later.",
-      "horoscope_ja": "獅子座のあなた、今日の恋愛運は少々難航するかもしれません。パートナーの一方が非現実的な見方をしているようで、主導権争いが起こりそうです。どちらかが相手の感情を顧みずに優位に立とうとしているため、緊張が高まっています。早めにこれらの問題に対処することをお勧めします。"
+      "horoscope_ja": "獅子座のあなたにとって、今日の恋愛運は少々難航するかもしれません。パートナーの一方が非現実的な見方をしているようで、主導権争いが起こりつつあります。どちらかが相手の感情を顧みずに優位に立とうとしているようです。緊張が高まっているため、これらの問題は早めに解決しておくことをお勧めします。"
     },
     "virgo": {
       "date": "2026-11-01",
@@ -49,7 +49,7 @@
       "date": "2026-11-01",
       "sign": "Scorpio",
       "horoscope": "Today, Scorpio, your emotions may leave you feeling a bit wobbly when it comes to matters of the heart. Love can be both uplifting and overwhelming, and you might find it hard to focus. You could spend a lot of time pondering a decision, hesitant to act without your partner's perspective. If you're currently single, consider seeking out a romantic connection, but perhaps hold off on making any moves today.",
-      "horoscope_ja": "蠍座の皆さん、今日は恋愛に関して少し感情が不安定になるかもしれません。愛は高揚感をもたらす一方で、圧倒されるような感情も伴うため、集中するのが難しくなるでしょう。パートナーの意見を聞かずに決断を下すのをためらい、じっくり考え込んでしまうかもしれません。もし現在独身であれば、恋愛関係を求めてみるのも良いでしょう。ただし、今日は行動を起こすのは控えた方が賢明です。"
+      "horoscope_ja": "蠍座の皆さん、今日は恋愛に関して感情が不安定になるかもしれません。愛は高揚感をもたらす一方で、圧倒されるような感情も伴うため、集中するのが難しくなるでしょう。パートナーの意見を聞かずに決断を下すのをためらい、じっくり考え込んでしまうかもしれません。もし現在独身であれば、恋愛関係を求めてみるのも良いでしょう。ただし、今日は行動を起こすのは控えた方が賢明です。"
     },
     "sagittarius": {
       "date": "2026-11-01",
@@ -73,7 +73,7 @@
       "date": "2026-11-01",
       "sign": "Pisces",
       "horoscope": "Pisces, when your heart is softly stirred, it radiates warmth, kindness, and a nurturing spirit towards all. However, in moments of solitude, it may feel abandoned and isolated. While it might seem perplexing why your emotions swing so dramatically, remember that you don't have to analyze it all. Embrace your feelings as they are, without the need for logical explanations.",
-      "horoscope_ja": "魚座のあなたへ。心が優しく揺さぶられると、温かさ、優しさ、そして人を育む精神が溢れ出します。しかし、孤独な瞬間には、見捨てられたような、孤立したような気持ちになるかもしれません。感情がこれほど激しく揺れ動く理由が分からず戸惑うかもしれませんが、すべてを分析する必要はありません。論理的な説明を求めず、ありのままの感情を受け入れましょう。"
+      "horoscope_ja": "魚座のあなた、心が優しく揺さぶられると、温かさ、優しさ、そして人を育む精神が溢れ出します。しかし、孤独な瞬間には、見捨てられたような、孤立したような気持ちになるかもしれません。感情がこれほど激しく揺れ動く理由が分からず戸惑うかもしれませんが、すべてを分析する必要はないことを覚えておいてください。論理的な説明を求めず、ありのままの感情を受け入れましょう。"
     }
   }
 }
