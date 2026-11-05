@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T21:50:05.773Z",
+  "updated_at": "2026-11-05T23:00:01.529Z",
   "jst_date": "2026-11-06",
   "timezone": "Asia/Tokyo",
   "horoscopes": {
@@ -12,14 +12,14 @@
     "taurus": {
       "date": "2026-11-06",
       "sign": "Taurus",
-      "horoscope": "Today, Taurus, resist the urge to box people into your expectations. Doing so may lead to irritation for both you and them. Instead, embrace a more laid-back approach and allow others to flourish in their own unique ways. Clinging to a fixed idea of who they ought to be will only pave the way for frustration and discontent, not to mention potential conflict with those around you.",
-      "horoscope_ja": "牡牛座の皆さん、今日は、他人を自分の期待に押し込めようとする衝動を抑えましょう。そうすることで、あなた自身も相手もイライラしてしまうかもしれません。代わりに、もっと気楽な姿勢で、他人がそれぞれの個性を発揮できるように見守りましょう。相手がこうあるべきだという固定観念に固執することは、不満や苛立ちを招くだけでなく、周囲の人々との衝突につながる可能性もあります。"
+      "horoscope": "Today, Taurus, resist the urge to box people into your expectations. Doing so may lead to irritation for both you and them. Instead, embrace a more laid-back approach and allow individuals to flourish in their own unique ways. Clinging to a fixed idea of who they ought to be will only pave the way for frustration and discontent, not to mention potential conflict with others.",
+      "horoscope_ja": "牡牛座の皆さん、今日は、他人を自分の期待に押し込める衝動を抑えましょう。そうすることで、あなた自身も相手もイライラしてしまうかもしれません。代わりに、もっと気楽な姿勢で、一人ひとりがそれぞれの個性を発揮できるように見守りましょう。相手がこうあるべきだという固定観念に固執することは、不満や苛立ちを招くだけでなく、他者との衝突につながる可能性もあります。"
     },
     "gemini": {
       "date": "2026-11-06",
       "sign": "Gemini",
-      "horoscope": "Gemini, think about signing up for a different kind of newsletter. You'll uncover some incredible insights that aren't widely known. Remember, knowledge is a powerful tool, and often, what’s commonly accepted is just the tip of the iceberg. Expand your horizons by exploring news from broader sources, as some mainstream narratives can be misleading.",
-      "horoscope_ja": "双子座の皆さん、いつもとは違うタイプのニュースレターに登録してみてはいかがでしょうか。あまり知られていない素晴らしい洞察に出会えるかもしれません。知識は強力な武器であり、一般的に受け入れられている情報は氷山の一角に過ぎないことが多いのです。主流メディアの報道の中には誤解を招くものもあるので、より幅広い情報源からニュースを探ることで視野を広げましょう。"
+      "horoscope": "Gemini, think about signing up for a different kind of newsletter. You'll uncover some incredible insights that aren't widely known. Remember, knowledge is a powerful tool, and often, what the masses know is just the tip of the iceberg. Expand your horizons by exploring news from broader sources, as some mainstream narratives can be misleading.",
+      "horoscope_ja": "双子座の皆さん、いつもとは違うタイプのニュースレターに登録してみてはいかがでしょうか。あまり知られていない素晴らしい洞察に出会えるかもしれません。知識は強力な武器であり、多くの人が知っていることは氷山の一角に過ぎないことが多いのです。主流メディアの報道の中には誤解を招くものもあるので、より幅広い情報源からニュースを探ることで視野を広げましょう。"
     },
     "cancer": {
       "date": "2026-11-06",
@@ -30,44 +30,44 @@
     "leo": {
       "date": "2026-11-06",
       "sign": "Leo",
-      "horoscope": "Today, Leo, your fiery demeanor could ignite a conflict that may prove challenging to resolve. Stubborn energies are in play, and it seems everyone is firmly entrenched in their views. Complicating matters further, some may misread key aspects of the situation. Instead of escalating tensions, focus on fostering clarity and understanding.",
-      "horoscope_ja": "獅子座のあなた、今日はあなたの情熱的な態度が、解決が困難な対立を引き起こす可能性があります。頑固なエネルギーが渦巻いており、誰もが自分の意見に固執しているようです。さらに事態を複雑にしているのは、状況の重要な側面を誤解する人がいるかもしれないということです。緊張を高めるのではなく、明確さと理解を深めることに集中しましょう。"
+      "horoscope": "Today, Leo, your fiery demeanor could ignite a conflict that proves challenging to resolve. Stubborn energies are in play, and it seems everyone is firmly entrenched in their views. Complicating matters further, some may misread key aspects of the situation. Instead of escalating tensions, aim to foster clarity and understanding.",
+      "horoscope_ja": "獅子座のあなた、今日はあなたの情熱的な態度が、解決が困難な対立を引き起こす可能性があります。頑固なエネルギーが渦巻き、誰もが自分の意見に固執しているようです。さらに事態を複雑にしているのは、状況の重要な側面を誤解する人がいるかもしれないということです。緊張を高めるのではなく、明確さと理解を深めることを目指しましょう。"
     },
     "virgo": {
       "date": "2026-11-06",
       "sign": "Virgo",
-      "horoscope": "Today, Virgo, you might find interactions with others to be quite challenging. It seems that those around you are exhibiting the same stubbornness that you possess. It's wise to extend some understanding to them; otherwise, you could face a standstill in various aspects of your life. Remember, making compromises doesn't reflect poorly on your character—it's a strategic move to foster harmony and progress.",
-      "horoscope_ja": "乙女座のあなたにとって、今日は他人との交流がかなり難しいと感じるかもしれません。周りの人たちもあなたと同じように頑固な態度をとっているようです。彼らに理解を示すことが賢明です。そうしないと、人生の様々な面で行き詰まりに直面する可能性があります。妥協することはあなたの性格を悪くするものではなく、調和と進歩を促すための戦略的な行動であることを忘れないでください。"
+      "horoscope": "Today, Virgo, you might find interactions with others to be quite challenging. It seems that those around you are exhibiting the same stubbornness that you possess. It's wise to extend some understanding to them; otherwise, you could face deadlocks in various aspects of your life. Remember, making compromises doesn't reflect poorly on your character—it's a strategic move to foster harmony and progress.",
+      "horoscope_ja": "乙女座のあなたにとって、今日は他人との交流がかなり難しいと感じるかもしれません。周りの人たちも、あなたと同じように頑固な態度をとっているようです。彼らに理解を示すことが賢明でしょう。そうしないと、人生の様々な面で行き詰まりに直面する可能性があります。妥協することはあなたの性格を悪くするものではなく、調和と進歩を促すための戦略的な行動であることを忘れないでください。"
     },
     "libra": {
       "date": "2026-11-06",
       "sign": "Libra",
-      "horoscope": "Today, Libra, you might find your sense of self being tested. The challenge lies in the fact that the fears you’re experiencing may stem from illusions rather than reality. It’s possible that someone is responding to misconceptions that don’t reflect the truth of who you are. Be cautious not to let their misguided perceptions cloud your own understanding of yourself.",
-      "horoscope_ja": "天秤座のあなたにとって、今日は自己認識が試される日かもしれません。問題は、あなたが感じている不安が現実ではなく、幻想から生じている可能性があるということです。誰かが、あなたの本当の姿とはかけ離れた誤解に基づいて反応しているのかもしれません。彼らの誤った認識によって、あなた自身の自己認識が曇らないように注意しましょう。"
+      "horoscope": "Today, Libra, you might find your self-esteem facing some challenges. The catch is that the pressure you're sensing could stem from something that isn't entirely true. It's possible that someone is responding to misconceptions that don't reflect the actual circumstances. Be cautious not to get caught up in another person's distorted view of your true self.",
+      "horoscope_ja": "天秤座のあなたにとって、今日は自己肯定感が試されるような出来事があるかもしれません。しかし、そのプレッシャーは必ずしも真実ではないことに起因している可能性があります。誰かが、実際の状況とはかけ離れた誤解に基づいて反応しているのかもしれません。他人の歪んだ自己像に惑わされないよう、注意しましょう。"
     },
     "scorpio": {
       "date": "2026-11-06",
       "sign": "Scorpio",
-      "horoscope": "Today, Scorpio, you might find yourself feeling a bit queasy if you attempt to tackle all the tangled issues that come your way. There are likely more challenges than you can manage on your own, so it's wise to avoid taking them all on. As you work to unravel one problem, you may inadvertently create another. For now, it's advisable to leave the mess as it is and not force any resolutions.",
-      "horoscope_ja": "蠍座の皆さん、今日は、次々と降りかかる複雑な問題に全て対処しようとすると、少し気分が悪くなるかもしれません。おそらく、一人では対処しきれないほどの課題が山積しているでしょうから、全てを抱え込もうとするのは避けた方が賢明です。一つの問題を解決しようと努力するうちに、思わぬ新たな問題を生み出してしまう可能性もあります。今は、現状のままにしておき、無理に解決しようとしない方が良いでしょう。"
+      "horoscope": "Today, Scorpio, you might find yourself feeling a bit queasy if you attempt to tackle all the tangled issues that come your way. There are likely more challenges than you can manage on your own, so it's wise to avoid taking them all on. As you begin to unravel one problem, you may inadvertently create another. For now, it's advisable to leave the tangled mess as it is and not force any resolutions.",
+      "horoscope_ja": "蠍座のあなた、今日は、目の前に立ちはだかる複雑な問題に全て対処しようとすると、少し気分が悪くなるかもしれません。おそらく、あなた一人では対処しきれないほどの課題が山積しているでしょうから、全てを抱え込もうとするのは避けた方が賢明です。一つの問題を解決しようとしても、思わぬ新たな問題を生み出してしまう可能性があります。今は、この複雑な状況をそのままにしておき、無理に解決しようとしない方が良いでしょう。"
     },
     "sagittarius": {
       "date": "2026-11-06",
       "sign": "Sagittarius",
-      "horoscope": "Sagittarius, your ambitions are shining bright today as you focus on those significant plans you've been nurturing for a while. However, you might encounter a clash with someone who has a strong ego and suddenly wants to stake their claim. Alternatively, this individual could be trying to deflate your enthusiasm. Remember, don't lose sight of your aspirations. This challenge is merely a stepping stone on your journey.",
-      "horoscope_ja": "射手座のあなた、今日はあなたが長年温めてきた重要な計画に集中することで、野心が輝きを増すでしょう。しかし、強い自尊心を持ち、突然自分の主張を強要しようとする人物と衝突するかもしれません。あるいは、その人物はあなたの熱意をくじこうとしている可能性もあります。しかし、自分の目標を見失わないでください。この困難は、あなたの旅路における単なる通過点に過ぎません。"
+      "horoscope": "Sagittarius, your ambitions are shining bright today as you focus on those significant plans you've been nurturing for a while. However, you might encounter a clash with someone who has a strong ego and suddenly wants to stake their claim in your vision. Alternatively, this individual could be trying to deflate your enthusiasm. Stay resilient and don't lose sight of your aspirations. Remember, this challenge is merely a stepping stone on your journey.",
+      "horoscope_ja": "射手座のあなた、今日はあなたが長年温めてきた重要な計画に集中することで、野心が輝きを増しています。しかし、強い自我を持ち、あなたのビジョンに突然割り込んでくる人物と衝突するかもしれません。あるいは、その人物はあなたの熱意を削ごうとしているのかもしれません。粘り強く、自分の目標を見失わないようにしてください。この困難は、あなたの旅路における単なる通過点に過ぎないことを忘れないでください。"
     },
     "capricorn": {
       "date": "2026-11-06",
       "sign": "Capricorn",
-      "horoscope": "Capricorn, your emotions might have been running high recently. Today, a whimsical vibe could transport you to a different dimension. It's perfectly okay to escape for a bit to gain clarity on your current challenges. Influential forces are encouraging you to allow someone else to take charge of a specific task.",
-      "horoscope_ja": "山羊座のあなた、最近は感情が高ぶっているかもしれませんね。今日は、気まぐれな気分に浸って、別次元へと旅立つような感覚を味わえるでしょう。今の課題を整理するために、少しの間現実から逃避するのは全く問題ありません。周囲の力は、特定のタスクを誰かに任せるよう促しています。"
+      "horoscope": "Capricorn, your emotions might have been running high recently. Today, a whimsical energy could transport you to a different world. It's perfectly okay to escape for a bit to gain clarity on your current challenges. Influential forces are encouraging you to allow someone else to take charge of a specific project.",
+      "horoscope_ja": "山羊座のあなた、最近は感情が高ぶっているかもしれません。今日は、気まぐれなエネルギーに導かれ、別世界へと旅立つような気分になるかもしれません。現在の課題を整理するために、少しの間現実から離れるのは全く問題ありません。影響力のある存在が、特定のプロジェクトを他の人に任せるよう促しています。"
     },
     "aquarius": {
       "date": "2026-11-06",
       "sign": "Aquarius",
-      "horoscope": "Today, Aquarius, you might find that the people and circumstances you relied on could face unexpected challenges. Be prepared for a sudden shift that might leave you feeling unsteady. It's wise to brace yourself, as the impact could be jarring. However, chances are you'll handle it with grace and resilience.",
-      "horoscope_ja": "水瓶座のあなたにとって、今日は頼りにしていた人や状況が予期せぬ困難に直面するかもしれません。突然の変化に戸惑い、不安定な気持ちになる可能性もあるので、心の準備をしておきましょう。衝撃的な変化に備えておくのが賢明です。しかし、きっとあなたは優雅さと回復力で乗り越えられるでしょう。"
+      "horoscope": "Today, Aquarius, you might find that the people and circumstances you relied on could face unexpected challenges. Be prepared for a sudden shift that might leave you feeling unsteady. It's wise to brace yourself, as the impact could be jarring. However, chances are you'll handle the situation with grace and resilience.",
+      "horoscope_ja": "水瓶座のあなたにとって、今日は頼りにしていた人や状況が予期せぬ困難に直面するかもしれません。突然の変化に戸惑い、不安定な気持ちになる可能性もあるので、心の準備をしておきましょう。衝撃的な変化に備えておくのが賢明です。しかし、あなたはきっと優雅さと回復力でこの状況を乗り越えられるでしょう。"
     },
     "pisces": {
       "date": "2026-11-06",
